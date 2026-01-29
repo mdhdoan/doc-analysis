@@ -1,0 +1,935 @@
+CHAPTER  VII
+
+Cooperation  and  consistency
+
+S e c t i o n  1
+
+C o o p e r a t i o n
+
+Article  60
+
+Cooperation  between  the  lead  supervisory  authority  and  the  other
+supervisory  authorities  concerned
+
+1.
+The  lead  supervisory  authority  shall  cooperate  with  the  other
+supervisory  authorities  concerned  in  accordance  with  this  Article  in  an
+endeavour  to  reach  consensus.  The  lead  supervisory  authority  and  the
+supervisory  authorities  concerned
+relevant
+information  with  each  other.
+
+shall  exchange  all
+
+The  lead  supervisory  authority  may  request  at  any  time  other
+2.
+supervisory  authorities  concerned
+to  provide  mutual  assistance
+pursuant  to  Article  61  and  may  conduct  joint  operations  pursuant  to
+Article 62, in particular for carrying out investigations or for monitoring
+the  implementation  of  a  measure  concerning  a  controller  or  processor
+established  in  another  Member  State.
+
+3.
+The  lead  supervisory  authority  shall,  without  delay,  communicate
+the  relevant  information  on  the  matter  to  the  other  supervisory  auth­
+orities  concerned.  It  shall  without  delay  submit  a  draft  decision  to  the
+other  supervisory  authorities  concerned  for  their  opinion  and  take  due
+account  of  their  views.
+
+4.  Where any  of the other supervisory  authorities concerned  within  a
+period  of  four  weeks  after  having  been  consulted  in  accordance  with
+paragraph  3  of  this  Article, expresses  a  relevant  and  reasoned  objection
+to  the  draft  decision,  the  lead  supervisory  authority  shall,  if  it  does  not
+follow  the  relevant  and  reasoned  objection  or  is  of  the  opinion  that  the
+objection  is  not  relevant  or  reasoned,  submit  the  matter  to  the
+consistency  mechanism  referred  to  in  Article  63.
+
+02016R0679 — EN — 04.05.2016 — 000.002 — 56
+
+▼B
+
+5.  Where the lead supervisory authority intends to follow the relevant
+and  reasoned  objection  made,  it  shall  submit  to  the  other  supervisory
+authorities  concerned  a  revised  draft  decision  for  their  opinion.  That
+revised  draft  decision  shall  be  subject  to  the  procedure  referred  to  in
+paragraph  4  within  a  period  of  two  weeks.
+
+6.  Where  none  of  the  other  supervisory  authorities  concerned  has
+objected  to  the  draft  decision  submitted  by  the  lead  supervisory
+authority  within  the  period  referred  to  in  paragraphs  4  and  5,  the  lead
+supervisory  authority  and  the  supervisory  authorities concerned  shall be
+deemed  to  be  in  agreement  with  that  draft  decision  and  shall  be  bound
+by  it.
+
+7.
+The  lead  supervisory  authority  shall  adopt  and  notify  the  decision
+to  the  main  establishment  or  single  establishment  of  the  controller  or
+processor,  as  the  case  may  be  and  inform  the  other  supervisory  auth­
+orities concerned  and  the Board  of the decision  in question,  including  a
+summary  of  the  relevant  facts  and  grounds.  The  supervisory  authority
+with  which  a  complaint  has  been  lodged  shall  inform  the  complainant
+on  the  decision.
+
+8.  By  derogation  from  paragraph  7,  where  a  complaint  is  dismissed
+or  rejected,  the  supervisory  authority  with  which  the  complaint  was
+lodged  shall  adopt  the  decision  and  notify  it  to  the  complainant  and
+shall  inform  the  controller  thereof.
+
+9.  Where  the  lead  supervisory  authority  and  the  supervisory  auth­
+orities  concerned  agree  to  dismiss  or  reject  parts  of  a  complaint  and
+to  act  on  other  parts  of  that  complaint,  a  separate  decision  shall  be
+adopted  for  each  of  those  parts  of  the  matter.  The  lead  supervisory
+authority  shall  adopt  the  decision  for  the  part  concerning  actions  in
+relation  to  the  controller,  shall  notify  it  to  the  main  establishment  or
+single  establishment of  the  controller or  processor  on  the  territory of  its
+Member  State  and  shall  inform  the  complainant  thereof,  while  the
+supervisory  authority  of  the  complainant  shall  adopt  the  decision  for
+the  part  concerning  dismissal  or  rejection  of  that  complaint,  and  shall
+notify it to that complainant and shall inform the controller or processor
+thereof.
+
+10.  After  being  notified  of  the  decision  of  the  lead  supervisory
+authority  pursuant  to  paragraphs  7  and  9,  the  controller  or  processor
+shall  take  the  necessary  measures  to  ensure  compliance  with  the
+decision  as  regards  processing  activities  in  the  context  of  all  its  estab­
+lishments  in  the  Union.  The  controller  or  processor  shall  notify  the
+measures  taken  for  complying  with  the  decision  to  the  lead  supervisory
+authority,  which  shall
+the  other  supervisory  authorities
+concerned.
+
+inform
+
+11.  Where,  in  exceptional  circumstances,  a  supervisory  authority
+concerned  has  reasons  to  consider  that  there  is  an  urgent  need  to  act
+in  order  to  protect  the  interests  of  data  subjects,  the  urgency  procedure
+referred  to  in  Article  66  shall  apply.
+
+12.
+The  lead  supervisory  authority  and  the  other  supervisory  auth­
+orities  concerned  shall  supply  the  information  required  under  this
+Article  to  each  other  by  electronic  means,  using  a  standardised  format.
+
+02016R0679 — EN — 04.05.2016 — 000.002 — 57
+
+▼B
+
+Article  61
+
+Mutual  assistance
+
+1.
+Supervisory  authorities  shall  provide  each  other  with  relevant
+information  and  mutual  assistance  in  order  to  implement  and  apply
+this  Regulation  in  a  consistent  manner,  and  shall  put  in  place
+measures  for  effective  cooperation  with  one  another.  Mutual  assistance
+information  requests  and  supervisory
+shall  cover,
+measures,  such  as  requests  to  carry  out  prior  authorisations  and  consul­
+tations,  inspections  and  investigations.
+
+in  particular,
+
+Each  supervisory  authority  shall  take  all  appropriate  measures
+2.
+required  to  reply  to  a  request  of  another  supervisory  authority  without
+undue  delay  and  no  later  than  one  month  after  receiving  the  request.
+Such  measures  may  include,  in  particular,  the  transmission  of  relevant
+information  on  the  conduct  of  an  investigation.
+
+3.  Requests for assistance shall contain all the necessary information,
+including  the  purpose  of  and  reasons  for  the  request.  Information
+exchanged  shall  be  used  only  for  the  purpose  for  which  it  was
+requested.
+
+The  requested  supervisory  authority  shall  not  refuse  to  comply
+
+4.
+with  the  request  unless:
+
+(a)  it  is  not  competent  for  the  subject-matter  of  the  request  or  for  the
+
+measures  it  is  requested  to  execute;  or
+
+(b)  compliance  with  the  request  would  infringe  this  Regulation  or
+Union  or  Member  State  law  to  which  the  supervisory  authority
+receiving  the  request  is  subject.
+
+5.
+The  requested  supervisory  authority  shall  inform  the  requesting
+supervisory  authority  of  the  results  or,  as  the  case  may  be,  of  the
+progress  of  the  measures  taken  in  order  to  respond  to  the  request.
+The  requested  supervisory  authority  shall  provide  reasons  for  any
+refusal  to  comply  with  a  request  pursuant  to  paragraph  4.
+
+6.  Requested  supervisory  authorities  shall,  as  a  rule,  supply  the
+information  requested  by  other  supervisory  authorities  by  electronic
+means,  using  a  standardised  format.
+
+7.  Requested  supervisory  authorities  shall  not  charge  a  fee  for  any
+action taken by them pursuant to a request for mutual assistance. Super­
+visory  authorities  may  agree  on  rules  to  indemnify  each  other  for
+specific  expenditure  arising  from  the  provision  of  mutual  assistance  in
+exceptional  circumstances.
+
+8.  Where  a  supervisory  authority  does  not  provide  the  information
+referred to  in  paragraph  5  of  this  Article within  one  month  of  receiving
+the  request  of  another  supervisory  authority,  the  requesting  supervisory
+authority  may  adopt  a  provisional  measure  on  the  territory  of  its
+Member  State  in  accordance  with  Article  55(1).  In  that  case,  the
+urgent  need  to  act  under  Article  66(1)  shall  be  presumed  to  be  met
+and  require  an  urgent  binding  decision  from  the  Board  pursuant  to
+Article  66(2).
+
+02016R0679 — EN — 04.05.2016 — 000.002 — 58
+
+▼B
+
+9.
+The Commission may, by means of implementing acts, specify the
+format  and  procedures  for  mutual  assistance  referred  to  in  this  Article
+and  the  arrangements  for  the  exchange  of  information  by  electronic
+means  between  supervisory  authorities,  and  between  supervisory  auth­
+orities and the Board, in particular the standardised format referred to in
+paragraph 6 of this Article. Those implementing acts shall be adopted in
+accordance  with  the  examination  procedure  referred to  in  Article  93(2).
+
+Article  62
+
+Joint  operations  of  supervisory  authorities
+
+1.
+The  supervisory  authorities shall,  where  appropriate,  conduct  joint
+operations including joint investigations and joint enforcement measures
+in  which  members  or  staff  of  the  supervisory  authorities  of  other
+Member  States  are  involved.
+
+2.  Where  the  controller  or  processor  has  establishments  in  several
+Member  States  or  where  a  significant  number  of  data  subjects  in
+more  than  one  Member  State  are  likely  to  be  substantially  affected  by
+processing  operations,  a  supervisory  authority  of  each  of  those  Member
+States  shall  have  the  right  to  participate  in  joint  operations.  The  super­
+visory  authority  which  is  competent  pursuant  to  Article  56(1)  or  (4)
+shall  invite  the  supervisory  authority  of  each  of  those  Member  States
+to  take  part  in  the  joint  operations  and  shall  respond  without  delay  to
+the  request  of  a  supervisory  authority  to  participate.
+
+3.  A  supervisory  authority  may,  in  accordance  with  Member  State
+law, and with the seconding supervisory authority's authorisation, confer
+powers,  including  investigative  powers  on  the seconding  supervisory
+authority's  members  or  staff  involved  in  joint  operations  or,  in  so  far
+as  the  law  of  the  Member  State  of  the  host  supervisory  authority
+permits,  allow  the seconding  supervisory  authority's  members  or  staff
+to  exercise  their  investigative  powers  in  accordance  with  the  law  of  the
+Member State of the seconding supervisory authority. Such investigative
+powers  may  be  exercised  only  under  the  guidance  and  in  the  presence
+of  members  or  staff  of  the  host  supervisory  authority.  The seconding
+supervisory  authority's  members  or  staff  shall  be  subject  to  the
+Member  State  law  of  the  host  supervisory  authority.
+
+4.  Where,  in  accordance  with  paragraph  1,  staff  of  a seconding
+supervisory  authority  operate
+the
+Member  State  of  the  host  supervisory  authority  shall  assume  responsi­
+bility  for  their  actions,  including  liability,  for  any  damage  caused  by
+them  during  their  operations,  in  accordance  with  the  law  of  the
+Member  State  in  whose  territory  they  are  operating.
+
+in  another  Member  State,
+
+5.
+The Member State in whose territory the damage was caused shall
+make  good  such  damage  under  the  conditions  applicable  to  damage
+caused by its own staff. The Member State of the seconding supervisory
+authority  whose  staff  has  caused  damage  to  any  person  in  the  territory
+of another Member State shall reimburse that other Member State in full
+any  sums  it  has  paid  to  the  persons  entitled  on  their  behalf.
+
+6.  Without prejudice to the exercise of its rights vis-à-vis third parties
+and with the exception of paragraph 5, each Member State shall refrain,
+in  the  case provided  for in  paragraph  1,  from requesting  reimbursement
+from  another  Member  State  in  relation  to  damage  referred  to  in
+paragraph  4.
+
+02016R0679 — EN — 04.05.2016 — 000.002 — 59
+
+▼B
+
+7.  Where  a  joint  operation  is  intended  and  a  supervisory  authority
+does  not,  within  one  month,  comply  with  the  obligation  laid  down  in
+the second sentence of paragraph 2 of this Article, the other supervisory
+authorities  may  adopt  a  provisional  measure  on  the  territory  of  its
+Member  State  in  accordance  with  Article  55.  In  that  case,  the  urgent
+need to act under Article 66(1) shall be presumed to be met and require
+an  opinion  or  an  urgent  binding  decision  from  the  Board  pursuant  to
+Article  66(2).
+
+S e c t i o n  2
+
+C o n s i s t e n c y
+
+Article  63
+
+Consistency  mechanism
+
+In  order  to  contribute  to  the  consistent  application  of  this  Regulation
+throughout  the  Union,  the  supervisory  authorities  shall  cooperate  with
+each  other  and,  where  relevant,  with  the  Commission,  through  the
+consistency  mechanism  as  set  out  in  this  Section.
+
+Article  64
+
+Opinion  of  the  Board
+
+1.
+The  Board  shall  issue  an  opinion  where  a  competent  supervisory
+authority  intends  to  adopt  any  of  the  measures  below.  To  that  end,  the
+competent supervisory authority shall communicate the draft decision to
+the  Board,  when  it:
+
+(a)  aims  to  adopt  a  list  of  the  processing  operations  subject  to  the
+requirement  for  a  data  protection  impact  assessment  pursuant  to
+Article  35(4);
+
+(b)  concerns  a  matter pursuant  to  Article  40(7)  whether  a  draft  code  of
+conduct  or  an  amendment  or  extension  to  a  code  of  conduct
+complies  with  this  Regulation;
+
+(c)  aims  to  approve  the  requirements  for  accreditation  of  a  body
+pursuant  to  Article  41(3),  of  a  certification  body  pursuant  to
+in
+Article  43(3)  or
+Article  42(5);
+
+the  criteria  for  certification  referred  to
+
+(d)  aims  to  determine  standard  data  protection  clauses  referred  to  in
+
+point  (d)  of  Article  46(2)  and  in  Article  28(8);
+
+(e)  aims  to  authorise  contractual  clauses  referred  to  in  point  (a)  of
+
+Article  46(3);  or
+
+(f)  aims  to  approve  binding  corporate  rules  within  the  meaning  of
+
+Article  47.
+
+2.  Any  supervisory  authority,  the  Chair  of  the  Board  or  the
+Commission  may  request  that  any  matter  of  general  application  or
+producing  effects  in  more  than  one  Member  State  be  examined  by  the
+Board  with  a  view  to  obtaining  an  opinion,  in  particular  where  a
+competent  supervisory  authority  does  not  comply  with  the  obligations
+for  mutual  assistance  in  accordance  with  Article  61  or  for  joint  oper­
+ations  in  accordance  with  Article  62.
+
+▼C1
+
+▼B
+
+▼B
+
+02016R0679 — EN — 04.05.2016 — 000.002 — 60
+
+3.
+In  the  cases  referred  to  in  paragraphs  1  and  2,  the  Board  shall
+issue  an  opinion  on  the  matter  submitted  to  it  provided  that  it  has  not
+already  issued  an  opinion  on  the  same  matter.  That  opinion  shall  be
+adopted  within  eight  weeks  by  simple  majority  of  the  members  of  the
+Board. That period may be extended by  a further six weeks, taking into
+account  the  complexity  of  the  subject  matter.  Regarding  the  draft
+decision  referred  to  in  paragraph  1  circulated  to  the  members  of  the
+Board  in  accordance  with  paragraph  5,  a  member  which  has  not
+objected  within  a  reasonable  period  indicated  by  the  Chair,  shall  be
+deemed  to  be  in  agreement  with  the  draft  decision.
+
+4.
+Supervisory  authorities  and  the  Commission  shall,  without  undue
+delay,  communicate  by  electronic  means  to  the  Board,  using  a  stan­
+dardised  format  any  relevant  information,  including  as  the  case  may
+be  a  summary  of  the  facts,  the  draft  decision,  the  grounds  which
+make  the  enactment  of  such  measure  necessary,  and  the  views  of
+other  supervisory  authorities  concerned.
+
+The  Chair  of  the  Board  shall,  without  undue,  delay  inform  by
+
+5.
+electronic  means:
+
+(a)  the  members  of  the  Board  and  the  Commission  of  any  relevant
+information which has been communicated to it using a standardised
+format. The  secretariat of the Board  shall, where necessary,  provide
+translations  of  relevant  information;  and
+
+(b)  the  supervisory  authority  referred  to,  as  the  case  may  be,  in  para­
+graphs  1  and  2,  and  the  Commission  of  the  opinion  and  make  it
+public.
+
+▼C1
+
+6.
+The  competent  supervisory  authority  referred  to  in  paragraph  1
+shall  not  adopt  its  draft  decision  referred  to  in  paragraph  1  within  the
+period  referred  to  in  paragraph  3.
+
+7.
+The  competent  supervisory  authority  referred  to  in  paragraph  1
+shall  take  utmost  account  of  the  opinion  of  the  Board  and  shall,
+within  two  weeks  after  receiving  the  opinion,  communicate  to  the
+Chair  of  the  Board  by  electronic  means  whether  it  will  maintain  or
+amend  its  draft  decision  and,  if  any,  the  amended  draft  decision,
+using  a  standardised  format.
+
+the  competent  supervisory  authority  referred
+
+in
+8.  Where
+paragraph  1  informs  the  Chair  of  the  Board  within  the  period  referred
+to  in  paragraph  7  of  this  Article  that  it  does  not  intend  to  follow  the
+opinion  of  the  Board,  in  whole  or  in  part,  providing  the  relevant
+grounds,  Article  65(1)  shall  apply.
+
+to
+
+▼B
+
+Article  65
+
+Dispute  resolution  by  the  Board
+
+1.
+In  order  to  ensure  the  correct  and  consistent  application  of  this
+Regulation in individual cases, the Board shall adopt a binding  decision
+in  the  following  cases:
+
+(a)  ►C1  where,  in  a  case  referred  to  in  Article  60(4),  a  supervisory
+authority  concerned  has  raised  a  relevant  and  reasoned  objection  to
+a  draft decision  of the  lead  supervisory  authority and  the  lead  super­
+visory  authority  has  not  followed  the  objection  or  has  rejected  such
+
+02016R0679 — EN — 04.05.2016 — 000.002 — 61
+
+▼B
+
+an  objection  as  being  not  relevant  or  reasoned.  ◄  The  binding
+decision  shall  concern  all  the  matters  which  are  the  subject  of  the
+relevant  and  reasoned  objection,  in  particular  whether  there  is  an
+infringement  of  this  Regulation;
+
+(b)  where there are conflicting views on  which of the supervisory auth­
+
+orities  concerned  is  competent  for  the  main  establishment;
+
+(c)  where  a  competent  supervisory  authority  does  not  request  the
+opinion  of  the  Board  in  the  cases  referred  to  in  Article  64(1),  or
+does not follow the opinion of the Board issued under Article 64. In
+that  case,  any  supervisory  authority  concerned  or  the  Commission
+may  communicate  the  matter  to  the  Board.
+
+2.
+The  decision  referred  to  in  paragraph  1  shall  be  adopted  within
+one  month  from  the  referral  of  the  subject-matter  by  a  two-thirds
+majority  of  the  members  of  the  Board.  That  period  may  be  extended
+by  a  further  month  on  account  of  the  complexity  of  the  subject-matter.
+The decision referred to in paragraph 1 shall be reasoned and addressed
+to  the  lead  supervisory  authority  and  all  the  supervisory  authorities
+concerned  and  binding  on  them.
+
+3.  Where  the  Board  has  been  unable  to  adopt  a  decision  within  the
+periods  referred to  in paragraph  2,  it shall adopt  its decision  within  two
+weeks  following  the  expiration  of  the second  month  referred  to  in
+paragraph  2  by  a  simple  majority  of  the  members  of  the  Board.
+Where  the  members  of  the  Board  are  split,  the  decision  shall  by
+adopted  by  the  vote  of  its  Chair.
+
+4.
+The  supervisory  authorities  concerned  shall  not  adopt  a  decision
+on  the  subject  matter  submitted  to  the  Board  under  paragraph  1  during
+the  periods  referred  to  in  paragraphs  2  and  3.
+
+5.
+The  Chair  of  the  Board  shall  notify,  without  undue  delay,  the
+decision  referred  to  in  paragraph  1  to  the  supervisory  authorities
+concerned.  It  shall  inform  the  Commission  thereof.  The  decision  shall
+be  published  on  the website  of the  Board  without  delay  after the  super­
+visory  authority  has  notified
+in
+paragraph  6.
+
+the  final  decision  referred
+
+to
+
+6.
+The  lead  supervisory  authority  or,  as  the  case  may  be,  the  super­
+visory  authority  with  which  the  complaint  has  been  lodged  shall  adopt
+its  final  decision  on  the  basis  of  the  decision  referred to  in  paragraph  1
+of this Article, without undue delay and at the latest by one month after
+the Board has notified its decision. The lead supervisory authority or, as
+the case may be, the supervisory authority with which the complaint has
+been  lodged,  shall  inform  the  Board  of  the  date  when  its  final  decision
+is notified respectively to the controller or the processor and  to the data
+subject. The final decision of the supervisory authorities concerned shall
+be  adopted  under  the  terms  of  Article  60(7),  (8)  and  (9).  The  final
+decision  shall  refer  to  the  decision  referred  to  in  paragraph  1  of  this
+Article  and  shall  specify  that  the  decision  referred  to  in  that  paragraph
+will  be  published  on  the  website  of  the  Board  in  accordance  with
+paragraph  5  of  this  Article.  The  final  decision  shall  attach  the
+decision  referred  to  in  paragraph  1  of  this  Article.
+
+02016R0679 — EN — 04.05.2016 — 000.002 — 62
+
+▼B
+
+Article  66
+
+Urgency  procedure
+
+1.
+In  exceptional  circumstances,  where  a  supervisory  authority
+concerned  considers  that  there  is  an  urgent  need  to  act  in  order  to
+protect  the  rights  and  freedoms  of  data  subjects,  it  may,  by  way  of
+derogation  from  the  consistency  mechanism  referred  to  in  Articles  63,
+64  and  65  or the procedure  referred to  in Article 60,  immediately adopt
+provisional  measures  intended  to  produce  legal  effects  on  its  own
+territory  with  a  specified  period  of  validity  which  shall  not  exceed
+three  months.  The  supervisory  authority  shall,  without  delay,
+communicate  those  measures  and  the  reasons  for  adopting  them  to  the
+other  supervisory  authorities  concerned,  to  the  Board  and  to  the
+Commission.
+
+2.  Where  a  supervisory  authority  has  taken  a  measure  pursuant  to
+paragraph 1 and considers that final measures need urgently be adopted,
+it may request an urgent opinion  or an urgent binding  decision from the
+Board,  giving  reasons  for  requesting  such  opinion  or  decision.
+
+3.  Any  supervisory  authority  may  request  an  urgent  opinion  or  an
+urgent  binding  decision,  as  the  case  may  be,  from  the  Board  where  a
+competent supervisory authority has not taken an appropriate measure in
+a  situation  where  there  is  an  urgent  need  to  act,  in  order  to  protect  the
+rights and  freedoms of data subjects, giving  reasons for requesting  such
+opinion  or  decision,  including  for  the  urgent  need  to  act.
+
+4.  By  derogation  from  Article  64(3)  and  Article  65(2),  an  urgent
+opinion  or  an  urgent  binding  decision  referred  to  in  paragraphs  2
+and  3  of  this  Article  shall  be  adopted  within  two  weeks  by  simple
+majority  of  the  members  of  the  Board.
+
+Article  67
+
+Exchange  of  information
+
+The  Commission  may  adopt  implementing  acts  of  general  scope  in
+order  to  specify  the  arrangements  for  the  exchange  of  information  by
+electronic  means  between  supervisory  authorities,  and  between  super­
+visory  authorities  and  the  Board,  in  particular  the  standardised  format
+referred  to  in  Article  64.
+
+Those  implementing  acts  shall  be  adopted  in  accordance  with  the  exa­
+mination  procedure  referred  to  in  Article  93(2).
+
+S e c t i o n  3
+
+E u r o p e a n  d a t a  p r o t e c t i o n  b o a r d
+
+Article  68
+
+European  Data  Protection  Board
+
+The European Data Protection Board (the ‘Board’) is hereby estab­
+
+1.
+lished  as  a  body  of  the  Union  and  shall  have  legal  personality.
+
+2.
+
+The  Board  shall  be  represented  by  its  Chair.
+
+02016R0679 — EN — 04.05.2016 — 000.002 — 63
+
+▼B
+
+3.
+The  Board  shall  be  composed  of  the  head  of  one  supervisory
+authority  of  each  Member  State  and  of  the  European  Data  Protection
+Supervisor,  or  their  respective  representatives.
+
+4.  Where  in  a  Member  State  more  than  one  supervisory  authority  is
+responsible  for  monitoring  the  application  of  the  provisions  pursuant  to
+this  Regulation,  a  joint  representative  shall  be  appointed  in  accordance
+with  that  Member  State's  law.
+
+5.
+The Commission shall have the right to participate in the activities
+and  meetings  of  the  Board  without  voting  right.  The  Commission  shall
+designate a representative. The Chair of the Board shall communicate to
+the  Commission  the  activities  of  the  Board.
+
+6.
+In the cases referred to in Article 65, the European Data Protection
+Supervisor  shall  have  voting  rights  only  on  decisions  which  concern
+principles  and  rules  applicable  to  the  Union  institutions,  bodies,  offices
+and agencies which correspond in substance to those of this Regulation.
+
+Article  69
+
+Independence
+
+The  Board  shall  act  independently  when  performing  its  tasks  or
+
+1.
+exercising  its  powers  pursuant  to  Articles  70  and  71.
+
+2.  Without  prejudice  to  requests  by  the  Commission  referred  to  in
+Article 70(1) and (2), the Board shall, in the performance of its tasks or
+the  exercise  of  its  powers,  neither  seek  nor  take  instructions  from
+anybody.
+
+Article  70
+
+Tasks  of  the  Board
+
+1.
+The  Board  shall  ensure  the  consistent  application  of  this  Regu­
+lation.  To  that  end,  the  Board  shall,  on  its  own  initiative  or,  where
+relevant,  at  the  request  of  the  Commission,  in  particular:
+
+(a)  monitor and ensure the correct application of this Regulation in the
+cases  provided  for  in  Articles  64  and  65  without  prejudice  to  the
+tasks  of  national  supervisory  authorities;
+
+(b)  advise  the  Commission  on  any  issue  related  to  the  protection  of
+personal  data  in  the  Union,  including  on  any  proposed  amendment
+of  this  Regulation;
+
+(c)  advise  the  Commission  on  the  format  and  procedures  for  the
+exchange of information between controllers, processors and super­
+visory  authorities  for  binding  corporate  rules;
+
+▼C1
+
+▼B
+
+02016R0679 — EN — 04.05.2016 — 000.002 — 64
+
+▼B
+
+(d)  issue  guidelines,
+
+recommendations,  and  best  practices  on
+procedures  for  erasing  links,  copies  or  replications  of  personal
+data  from  publicly  available  communication  services  as  referred
+to  in  Article  17(2);
+
+(e)  examine, on  its own  initiative, on  request of one  of its members or
+on  request  of  the  Commission,  any  question  covering  the  appli­
+cation  of  this  Regulation  and  issue  guidelines,  recommendations
+and  best  practices  in  order  to  encourage  consistent  application  of
+this  Regulation;
+
+(f)
+
+issue guidelines, recommendations and best practices in accordance
+with  point  (e)  of  this  paragraph  for  further  specifying  the  criteria
+and  conditions  for  decisions  based  on  profiling  pursuant  to
+Article  22(2);
+
+(g)  issue guidelines, recommendations and best practices in accordance
+with  point  (e)  of  this  paragraph  for  establishing  the  personal  data
+in
+breaches  and  determining
+Article  33(1)  and  (2)  and  for  the  particular  circumstances  in
+which  a  controller  or  a  processor  is  required  to  notify  the
+personal  data  breach;
+
+the  undue  delay
+
+referred
+
+to
+
+(h)  issue guidelines, recommendations and best practices in accordance
+with  point  (e) of  this  paragraph  as  to  the  circumstances  in  which  a
+personal  data  breach  is  likely  to  result  in  a  high  risk  to  the  rights
+and  freedoms  of  the  natural  persons  referred  to  in  Article  34(1).
+
+(i)
+
+issue guidelines, recommendations and best practices in accordance
+with  point  (e)  of  this  paragraph  for  the  purpose  of  further  spec­
+ifying  the  criteria  and  requirements  for  personal  data  transfers
+based  on  binding  corporate  rules  adhered  to  by  controllers  and
+binding  corporate  rules  adhered  to  by  processors  and  on  further
+necessary  requirements  to  ensure  the  protection  of  personal  data
+of  the  data  subjects  concerned  referred  to  in  Article  47;
+
+(j)
+
+issue guidelines, recommendations and best practices in accordance
+with  point  (e)  of  this  paragraph  for  the  purpose  of  further  spec­
+ifying  the  criteria  and  requirements  for  the  personal  data  transfers
+on  the  basis  of  Article  49(1);
+
+(k)  draw up guidelines for supervisory authorities concerning the appli­
+cation  of  measures  referred to  in  Article  58(1),  (2)  and  (3)  and  the
+setting  of  administrative  fines  pursuant  to  Article  83;
+
+▼C1
+
+▼B
+
+(l)
+
+review the practical application of the guidelines, recommendations
+and  best  practices;
+
+(m)  issue guidelines, recommendations and best practices in accordance
+with  point  (e)  of
+this  paragraph  for  establishing  common
+procedures  for  reporting  by  natural  persons  of  infringements  of
+this  Regulation  pursuant  to  Article  54(2);
+
+02016R0679 — EN — 04.05.2016 — 000.002 — 65
+
+▼B
+
+▼C1
+
+▼B
+
+(n)  encourage  the  drawing-up  of  codes  of  conduct  and  the  estab­
+lishment  of  data  protection  certification  mechanisms  and  data
+protection  seals  and  marks  pursuant  to  Articles  40  and  42;
+
+(o)  approve  the  criteria  of  certification  pursuant  to  Article  42(5)  and
+maintain  a  public  register  of  certification  mechanisms  and  data
+protection  seals  and  marks  pursuant  to  Article  42(8)  and  of  the
+certified  controllers  or  processors  established  in  third  countries
+pursuant  to  Article  42(7);
+
+(p)  approve the requirements referred to in Article 43(3) with a view to
+the  accreditation  of  certification  bodies  referred  to  in  Article  43;
+
+(q)  provide  the  Commission  with  an  opinion  on  the  certification
+
+requirements  referred  to  in  Article  43(8);
+
+(r)  provide the Commission with an opinion on the icons referred to in
+
+Article  12(7);
+
+(s)  provide  the  Commission  with  an  opinion  for  the  assessment  of  the
+adequacy  of  the  level  of  protection  in  a  third  country  or  inter­
+national  organisation,  including  for  the  assessment  whether  a
+third  country,  a  territory  or  one  or  more  specified  sectors  within
+that  third  country,  or  an  international  organisation  no  longer
+ensures  an  adequate
+the
+Commission  shall  provide  the  Board  with  all  necessary  documen­
+tation,  including  correspondence  with  the  government  of  the  third
+country,  with  regard  to  that  third  country,  territory  or  specified
+sector,  or  with  the  international  organisation.
+
+level  of  protection.  To
+
+that  end,
+
+(t)
+
+issue opinions on draft decisions of supervisory authorities pursuant
+to  the  consistency  mechanism  referred  to  in  Article  64(1),  on
+matters  submitted  pursuant  to  Article  64(2)  and  to  issue  binding
+decisions  pursuant  to  Article  65,  including  in  cases  referred  to  in
+Article  66;
+
+(u)  promote  the  cooperation  and  the  effective bilateral  and  multilateral
+exchange of information and best practices between the supervisory
+authorities;
+
+(v)  promote  common  training  programmes  and  facilitate  personnel
+exchanges  between  the  supervisory  authorities  and,  where  appro­
+priate,  with  the  supervisory  authorities  of  third  countries  or  with
+international  organisations;
+
+(w)  promote  the  exchange  of  knowledge  and  documentation  on  data
+protection  legislation  and  practice  with  data  protection  supervisory
+authorities  worldwide.
+
+(x)  issue  opinions  on  codes  of  conduct  drawn  up  at  Union  level
+
+pursuant  to  Article  40(9);  and
+
+(y)  maintain a publicly  accessible electronic register of decisions  taken
+by  supervisory  authorities  and  courts  on  issues  handled  in  the
+consistency  mechanism.
+
+2.  Where  the  Commission  requests  advice  from  the  Board,  it  may
+indicate  a  time  limit,  taking  into  account  the  urgency  of  the  matter.
+
+02016R0679 — EN — 04.05.2016 — 000.002 — 66
+
+▼B
+
+3.
+The  Board  shall  forward  its  opinions,  guidelines,  recommen­
+dations,  and  best  practices  to  the  Commission  and  to  the  committee
+referred  to  in  Article  93  and  make  them  public.
+
+4.
+The  Board  shall,  where  appropriate,  consult  interested  parties  and
+give  them  the  opportunity  to  comment  within  a  reasonable  period.  The
+Board  shall,  without  prejudice  to  Article  76,  make  the  results  of  the
+consultation  procedure  publicly  available.
+
+Article  71
+
+Reports
+
+1.
+The Board shall draw up an annual report regarding the protection
+of  natural  persons  with  regard  to  processing  in  the  Union  and,  where
+relevant,  in  third  countries  and  international  organisations.  The  report
+shall  be  made  public  and  be  transmitted  to  the  European  Parliament,  to
+the  Council  and  to  the  Commission.
+
+The  annual  report  shall  include  a  review  of  the  practical  appli­
+2.
+cation of the guidelines,  recommendations  and  best practices referred to
+in  point  (l) of  Article  70(1)  as  well  as  of  the  binding  decisions  referred
+to  in  Article  65.
+
+Article  72
+
+Procedure
+
+The  Board  shall  take  decisions  by  a  simple  majority  of  its
+
+1.
+members,  unless  otherwise  provided  for  in  this  Regulation.
+
+2.
+The  Board  shall  adopt  its  own  rules  of  procedure  by  a  two-thirds
+majority of  its members  and  organise  its own  operational arrangements.
+
+Article  73
+
+Chair
+
+The Board shall elect a chair and  two deputy  chairs from amongst
+
+1.
+its  members  by  simple  majority.
+
+The  term  of  office  of  the  Chair  and  of  the  deputy  chairs  shall  be
+
+2.
+five  years  and  be  renewable  once.
+
+Article  74
+
+Tasks  of  the  Chair
+
+1.
+
+The  Chair  shall  have  the  following  tasks:
+
+(a)  to  convene  the  meetings  of  the  Board  and  prepare  its  agenda;
+
+(b)  to  notify  decisions  adopted  by  the  Board  pursuant  to  Article  65  to
+the  lead  supervisory  authority  and  the  supervisory  authorities
+concerned;
+
+02016R0679 — EN — 04.05.2016 — 000.002 — 67
+
+▼B
+
+(c)  to  ensure  the  timely  performance  of  the  tasks  of  the  Board,  in
+particular  in  relation  to  the  consistency  mechanism  referred  to  in
+Article  63.
+
+The  Board  shall  lay  down  the  allocation  of  tasks  between  the
+
+2.
+Chair  and  the  deputy  chairs  in  its  rules  of  procedure.
+
+Article  75
+
+Secretariat
+
+The Board shall have a secretariat, which shall be provided by the
+
+1.
+European  Data  Protection  Supervisor.
+
+The  secretariat  shall  perform  its  tasks  exclusively  under  the
+
+2.
+instructions  of  the  Chair  of  the  Board.
+
+The  staff  of  the  European  Data  Protection  Supervisor  involved  in
+3.
+carrying  out  the  tasks  conferred  on  the  Board  by  this  Regulation  shall
+be subject to separate reporting lines from the staff involved  in carrying
+out  tasks  conferred  on  the  European  Data  Protection  Supervisor.
+
+4.  Where  appropriate,  the  Board  and  the  European  Data  Protection
+Supervisor shall establish and publish a Memorandum of Understanding
+implementing  this  Article,  determining  the  terms  of  their  cooperation,
+and  applicable  to  the  staff  of  the  European  Data  Protection  Supervisor
+involved  in  carrying  out  the  tasks  conferred  on  the  Board  by  this
+Regulation.
+
+The  secretariat  shall  provide  analytical,  administrative  and
+
+5.
+logistical  support  to  the  Board.
+
+6.
+
+The  secretariat  shall  be  responsible  in  particular  for:
+
+(a)  the  day-to-day  business  of  the  Board;
+
+(b)  communication  between  the  members  of  the  Board,  its  Chair  and
+
+the  Commission;
+
+(c)  communication  with  other  institutions  and  the  public;
+
+(d)  the  use  of  electronic  means  for
+
+the
+
+internal  and  external
+
+communication;
+
+(e)  the  translation  of  relevant  information;
+
+(f)  the  preparation  and  follow-up  of  the  meetings  of  the  Board;
+
+(g)  the  preparation,  drafting  and  publication  of  opinions,  decisions  on
+the  settlement of disputes  between  supervisory  authorities and  other
+texts  adopted  by  the  Board.
+
+02016R0679 — EN — 04.05.2016 — 000.002 — 68
+
+▼B
+
+Article  76
+
+Confidentiality
+
+1.
+The  discussions  of  the  Board  shall  be  confidential  where  the
+Board  deems  it  necessary,  as  provided  for  in  its  rules  of  procedure.
+
+representatives  of
+
+2.  Access  to  documents  submitted  to  members  of  the  Board,  experts
+and
+shall  be  governed  by
+third  parties
+Regulation  (EC)  No  1049/2001  of  the  European  Parliament  and  of
+the  Council ( 1 ).
