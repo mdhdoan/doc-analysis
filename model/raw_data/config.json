@@ -1,0 +1,34 @@
+{
+  "calculate_probabilities": true,
+  "language": null,
+  "low_memory": false,
+  "min_topic_size": 10,
+  "n_gram_range": [
+    1,
+    1
+  ],
+  "nr_topics": null,
+  "seed_topic_list": null,
+  "top_n_words": 10,
+  "verbose": true,
+  "zeroshot_min_similarity": 0.7,
+  "zeroshot_topic_list": [
+    "Scope & Definitions",
+    "Roles & Responsibilities",
+    "Lawful Basis / Permission",
+    "Consent Management",
+    "Transparency / Notices",
+    "Data Subject Rights",
+    "Data Minimization & Purpose Limitation",
+    "Retention & Deletion",
+    "Security Safeguards",
+    "Breach / Incident Response",
+    "Third Parties & Processors",
+    "International Transfers",
+    "Risk & Assessments (DPIA)",
+    "Governance & Accountability",
+    "Enforcement / Complaints",
+    "Cookies / Tracking (Online Identifiers)"
+  ],
+  "embedding_model": "all-MiniLM-L6-v2"
+}

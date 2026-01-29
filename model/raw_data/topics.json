@@ -1,0 +1,196 @@
+{
+  "topic_representations": {
+    "0": [
+      [
+        "data subject rights",
+        0.7204304337501526
+      ],
+      [
+        "data subject shall",
+        0.5643421411514282
+      ],
+      [
+        "data restriction",
+        0.5572624206542969
+      ],
+      [
+        "data subject",
+        0.5091184377670288
+      ],
+      [
+        "data subject controller",
+        0.4981052279472351
+      ],
+      [
+        "subject rights",
+        0.4924227297306061
+      ],
+      [
+        "provide data",
+        0.49217715859413147
+      ],
+      [
+        "subject controller shall",
+        0.4732212722301483
+      ],
+      [
+        "personal data restriction",
+        0.46960610151290894
+      ],
+      [
+        "data restriction processing",
+        0.4641847610473633
+      ]
+    ],
+    "1": [
+      [
+        "compliance",
+        0.5180716514587402
+      ],
+      [
+        "personal data",
+        0.4707852602005005
+      ],
+      [
+        "specification",
+        0.4628935754299164
+      ],
+      [
+        "use disclosure",
+        0.4229470193386078
+      ],
+      [
+        "data",
+        0.38999155163764954
+      ],
+      [
+        "disclosures",
+        0.36822572350502014
+      ],
+      [
+        "information",
+        0.3681298494338989
+      ],
+      [
+        "disclosure",
+        0.3560234606266022
+      ],
+      [
+        "processing",
+        0.3439074456691742
+      ],
+      [
+        "authorization",
+        0.3432425558567047
+      ]
+    ],
+    "2": [
+      [
+        "supervisory authority shall",
+        0.6372678875923157
+      ],
+      [
+        "supervisory authority",
+        0.5672250986099243
+      ],
+      [
+        "supervisory authorities",
+        0.5362375378608704
+      ],
+      [
+        "regulation",
+        0.4585893750190735
+      ],
+      [
+        "authority shall",
+        0.4569687843322754
+      ],
+      [
+        "authority",
+        0.4215366244316101
+      ],
+      [
+        "supervisory",
+        0.4183831810951233
+      ],
+      [
+        "pursuant article",
+        0.3855381906032562
+      ],
+      [
+        "commission",
+        0.36853939294815063
+      ],
+      [
+        "access information",
+        0.3402233421802521
+      ]
+    ]
+  },
+  "topics": [
+    0,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "topic_sizes": {
+    "0": 1,
+    "1": 7,
+    "2": 25
+  },
+  "topic_mapper": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      2,
+      2
+    ]
+  ],
+  "topic_labels": {
+    "0": "Data Subject Rights",
+    "1": "1_compliance_personal data_specification_use disclosure",
+    "2": "2_supervisory authority shall_supervisory authority_supervisory authorities_regulation"
+  },
+  "custom_labels": [
+    "Data Subject Rights and Restrictions",
+    "Health Data Disclosure Compliance",
+    "Supervisory Authorities Regulation"
+  ],
+  "_outliers": 0,
+  "topic_aspects": {}
+}

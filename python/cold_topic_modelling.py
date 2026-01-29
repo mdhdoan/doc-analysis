@@ -27,7 +27,73 @@ from langchain_ollama import ChatOllama
 # Config
 # -----------------------------
 
-DEFAULT_HEADERS = ("abstractText",)
+# zeroshot list: # Option A: Compact labels (12–16)
+PRIVACY_GDPR_LABELS_COMPACT = [
+    "Scope & Definitions",
+    "Roles & Responsibilities",
+    "Lawful Basis / Permission",
+    "Consent Management",
+    "Transparency / Notices",
+    "Data Subject Rights",
+    "Data Minimization & Purpose Limitation",
+    "Retention & Deletion",
+    "Security Safeguards",
+    "Breach / Incident Response",
+    "Third Parties & Processors",
+    "International Transfers",
+    "Risk & Assessments (DPIA)",
+    "Governance & Accountability",
+    "Enforcement / Complaints",
+    "Cookies / Tracking (Online Identifiers)",
+]
+
+# Option B: Detailed labels (25–35)
+PRIVACY_GDPR_LABELS_DETAILED = [
+    "Personal Data Definition",
+    "Sensitive / Special Category Data",
+    "Children’s Data",
+    "Anonymization / Pseudonymization",
+    "Controller Duties",
+    "Processor Duties",
+    "Joint Controllers",
+    "DPO / Privacy Office",
+    "Records of Processing (ROPA)",
+    "Lawful Basis: Consent",
+    "Lawful Basis: Contract",
+    "Lawful Basis: Legal Obligation",
+    "Lawful Basis: Legitimate Interests",
+    "Transparency: Privacy Notice Content",
+    "Transparency: Collection Context / Just-in-time Notice",
+    "Right: Access",
+    "Right: Rectification",
+    "Right: Erasure",
+    "Right: Restriction",
+    "Right: Portability",
+    "Right: Objection / Marketing Opt-out",
+    "Automated Decision-making / Profiling",
+    "Purpose Limitation",
+    "Data Minimization",
+    "Accuracy",
+    "Retention Schedule",
+    "Deletion / Disposal",
+    "Security: Access Control",
+    "Security: Encryption / Key Mgmt",
+    "Security: Logging / Monitoring",
+    "Breach Detection",
+    "Breach Notification (Authority)",
+    "Breach Notification (Individuals)",
+    "Vendor Contracts / DPAs",
+    "Subprocessors",
+    "Disclosures / Sharing",
+    "International Transfers: Safeguards",
+    "Risk Assessment / DPIA",
+    "Privacy by Design / Default",
+    "Complaints & Supervisory Authority",
+    "Penalties / Enforcement",
+]
+
+
+DEFAULT_HEADERS = ("all_text",)
 
 
 @dataclass(frozen=True)
@@ -36,18 +102,18 @@ class TopicConfig:
     # If your corpus is meaningfully bilingual (EN/FR), consider:
     # embedding_model_id: str = "paraphrase-multilingual-MiniLM-L12-v2"
 
-    umap_n_neighbors: int = 15
+    umap_n_neighbors: int = 5
     umap_n_components: int = 5
     umap_min_dist: float = 0.0
     umap_metric: str = "cosine"
     random_state: int = 42
 
-    hdb_min_cluster_size: int = 15
+    hdb_min_cluster_size: int = 3
     hdb_metric: str = "euclidean"
     hdb_cluster_selection_method: str = "eom"
 
     ngram_range: tuple[int, int] = (1, 3)
-    min_df: int = 3
+    min_df: int = 2
     stop_words: str | None = "english"  # Set to None if you want to avoid dropping French words
 
     top_n_words: int = 10
@@ -136,6 +202,7 @@ def build_topic_model(cfg: TopicConfig, embedding_model: SentenceTransformer) ->
         representation_model=representation_model,
         top_n_words=cfg.top_n_words,
         calculate_probabilities=cfg.calculate_probabilities,
+        zeroshot_topic_list=PRIVACY_GDPR_LABELS_COMPACT,
         verbose=True,
     )
 
@@ -171,8 +238,8 @@ def make_label_chain(ollama_model: str, temperature: float = 0.0):
 def label_topics_with_llm(
     topic_model: BERTopic,
     chain,
-    max_docs_per_topic: int = 5,
-    max_words: int = 5,
+    max_docs_per_topic: int = 3,
+    max_words: int = 10,
 ) -> Dict[int, str]:
     info = topic_model.get_topic_info()  # DataFrame with Topic/Count/Name etc.
     topic_ids = [int(t) for t in info["Topic"].tolist()]
@@ -223,7 +290,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--output_dir", type=Path, default=Path("model"), help="Where to save the model")
     p.add_argument("--model_name", type=str, default=None, help="Output folder name (default: input dir name)")
     p.add_argument("--embedding_model", type=str, default=TopicConfig.embedding_model_id, help="SentenceTransformers model id")
-    p.add_argument("--ollama_model", type=str, default="llama3.2", help="Ollama model name for labeling")
+    p.add_argument("--ollama_model", type=str, default="qwen3-vl", help="Ollama model name for labeling")
     p.add_argument("--serialization", type=str, default="safetensors", choices=["safetensors", "pytorch", "pickle"])
     p.add_argument("--stop_words", type=str, default="english", help='CountVectorizer stop_words ("english" or "none")')
     p.add_argument("--min_cluster_size", type=int, default=TopicConfig.hdb_min_cluster_size)
