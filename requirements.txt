@@ -1,15 +1,8 @@
 pandas
 scikit-learn
-umap
-from hdbscan  HDBSCAN
-from sentence_transformers  SentenceTransformer
-from sklearn.feature_extraction.text  CountVectorizer
-
-from bertopic  BERTopic
-from bertopic.representation  KeyBERTInspired
-from bertopic.vectorizers  ClassTfidfTransformer
-
-from langchain.chains.llm  LLMChain
-from langchain_community.llms  Ollama
-from langchain.prompts  PromptTemplate
-from langchain.schema  Document
+umap-learn
+hdbscan
+# sentence-transformers 
+bertopic # brew install llvm
+langchain
+langchain_ollama

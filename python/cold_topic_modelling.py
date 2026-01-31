@@ -290,7 +290,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--output_dir", type=Path, default=Path("model"), help="Where to save the model")
     p.add_argument("--model_name", type=str, default=None, help="Output folder name (default: input dir name)")
     p.add_argument("--embedding_model", type=str, default=TopicConfig.embedding_model_id, help="SentenceTransformers model id")
-    p.add_argument("--ollama_model", type=str, default="qwen3-vl", help="Ollama model name for labeling")
+    p.add_argument("--ollama_model", type=str, default="llama3.1", help="Ollama model name for labeling")
     p.add_argument("--serialization", type=str, default="safetensors", choices=["safetensors", "pytorch", "pickle"])
     p.add_argument("--stop_words", type=str, default="english", help='CountVectorizer stop_words ("english" or "none")')
     p.add_argument("--min_cluster_size", type=int, default=TopicConfig.hdb_min_cluster_size)
@@ -327,7 +327,7 @@ def main() -> None:
     logging.info("Model fit complete. Found %d topics (incl. outliers).", len(set(topics)))
 
     # LLM labeling via Ollama
-    chain = make_label_chain(args.ollama_model, temperature=0.0)
+    chain = make_label_chain(args.ollama_model, temperature=0.1)
     label_dict = label_topics_with_llm(topic_model, chain)
     topic_model.set_topic_labels(label_dict)
 
