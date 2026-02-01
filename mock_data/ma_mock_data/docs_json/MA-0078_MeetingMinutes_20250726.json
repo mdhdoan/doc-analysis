@@ -1,0 +1,19 @@
+{
+  "doc_id": "MA-0078",
+  "title": "MeetingMinutes — Northstar / Riverbend — Diligence — 2025-07-26",
+  "doc_type": "MeetingMinutes",
+  "stage": "Diligence",
+  "date": "2025-07-26 08:45",
+  "from_entity": "Advisor",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "diligence",
+    "hr",
+    "quality-yield"
+  ],
+  "ground_truth_risks": [
+    "quality_yield"
+  ],
+  "all_text": "MEETING MINUTES — Northstar x Riverbend\nStage: Diligence\nDate: 2025-07-26 08:45\nLocation: Video call\n\nAttendees:\n- Maya Chen (CEO), Priya Nandakumar (Head of Product), Avery Patel (HR Director), Elena\nNovak (CFO), Noah Bennett (CEO), Omar Hassan (Head of Sales), Miles Grant (Director,\nCedarstone Advisory)\n\nAgenda:\n- Deal rationale and synergies\n- Financial performance overview\n- Diligence workstreams status\n- Key risks / mitigations\n- Next steps and owners\n\nDiscussion highlights:\n- Cost synergies are primarily in duplicated back-office functions; revenue synergies depend\non channel expansion into utilities and mining.\n- We modeled a base case with 18% ARR CAGR and a downside case with delayed component\navailability impacting shipments.\n- Potential IP gap: two legacy firmware modules were created by contractors—assignment\npaperwork is incomplete.\n\nDecisions:\n- Request updated firmware IP assignment documentation.\n- Move cybersecurity deep-dive to next week; BluePeak to lead.\n- Confirm manufacturing capacity assumptions and backup suppliers.\n\nAction items:\n- Miles Grant: Provide integration architecture and product roadmap by 2025-08-09.\n- Priya Nandakumar: Review revenue recognition and ARR definitions by 2025-08-06.\n- Avery Patel: Validate revenue recognition and ARR definitions by 2025-08-08.\n- Elena Novak: Review cybersecurity posture and incident history by 2025-08-03.\n- Noah Bennett: Share export controls and cross-border shipments by 2025-08-03.\n- Omar Hassan: Draft earn-out metrics and governance by 2025-08-09.\n- Elena Novak: Review privacy and data processing by 2025-08-01.\n"
+}

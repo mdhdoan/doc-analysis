@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0075",
+  "title": "EmailThread — Northstar / Riverbend — Marketing — 2025-10-05",
+  "doc_type": "EmailThread",
+  "stage": "Marketing",
+  "date": "2025-10-05 14:30",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "cyber",
+    "integration",
+    "key-person-dependency",
+    "marketing"
+  ],
+  "ground_truth_risks": [
+    "key_person_dependency"
+  ],
+  "all_text": "Subject: Cyber due diligence: evidence request\nDate: 2025-10-05 14:30\nFrom: Samira Ali <samira@riverbend.example>\nTo: Priya Nandakumar, Sofia Rios\n\nHi Priya,\n\nThanks for the call earlier. Below are a few items to keep momentum.\n- Customer concentration: requesting documents.\n- Supply chain and component lead times: proposing a working session.\n- Regulatory certifications: proposing a working session.\nWe’ll maintain a weekly cadence: diligence sync on Tuesdays, steering committee on Fridays.\nSupply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation\nplan needed.\n\nBest,\nSamira Ali\nHR Manager\nRiverbend\n"
+}

@@ -1,0 +1,61 @@
+{
+  "entities": {
+    "acquirer": {
+      "name": "Northstar Industrial Analytics Inc.",
+      "short": "Northstar",
+      "industry": "industrial analytics software",
+      "hq": "Vancouver, BC"
+    },
+    "target": {
+      "name": "Riverbend Sensorworks Ltd.",
+      "short": "Riverbend",
+      "industry": "wireless sensor hardware + embedded firmware",
+      "hq": "Seattle, WA"
+    },
+    "advisors": [
+      {
+        "name": "Pine & Alder Legal LLP",
+        "role": "legal counsel"
+      },
+      {
+        "name": "Cedarstone Advisory Group",
+        "role": "M&A advisor"
+      },
+      {
+        "name": "BluePeak Assurance",
+        "role": "cybersecurity assessor"
+      },
+      {
+        "name": "HarborGate Bank",
+        "role": "financing partner"
+      }
+    ]
+  },
+  "timeframe": {
+    "start": "2025-04-01",
+    "end": "2025-12-15"
+  },
+  "n_docs": 200,
+  "doc_types": [
+    "EmailThread",
+    "MeetingMinutes",
+    "NDA",
+    "Teaser",
+    "CIMExcerpt",
+    "IOI",
+    "LOI",
+    "DiligenceRequest",
+    "DiligenceResponse",
+    "FinancialModelNote",
+    "LegalRedlineMemo",
+    "CybersecurityAssessment",
+    "HRIntegrationPlan",
+    "ProductRoadmap",
+    "CustomerConcentrationAnalysis",
+    "BoardUpdate",
+    "PressReleaseDraft",
+    "ClosingChecklist",
+    "IntegrationStatusUpdate"
+  ],
+  "notes": "All content is synthetic. Designed for M&A due diligence / integration pipelines, topic modeling, and graph extraction tests."
+}

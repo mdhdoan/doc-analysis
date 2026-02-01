@@ -1,0 +1,21 @@
+Subject: Purchase agreement: key open items
+Date: 2025-05-25 13:15
+From: Caleb Morgan <caleb@advisor.example>
+To: Ethan Park, Samira Ali
+
+Hi Ethan,
+
+Following our last discussion, here are the key items we need to align on before moving
+forward.
+- Sales pipeline and channel partners: flagging a potential issue.
+- Integration architecture and product roadmap: proposing a working session.
+- Ip assignment and open-source licenses: seeking clarification.
+- Cybersecurity posture and incident history: flagging a potential issue.
+- Cybersecurity posture and incident history: confirming assumptions.
+Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+
+Best,
+Caleb Morgan
+VP, HarborGate Bank
+Advisor

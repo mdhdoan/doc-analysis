@@ -1,0 +1,16 @@
+{
+  "doc_id": "MA-0059",
+  "title": "DiligenceResponse — Northstar / Riverbend — DefinitiveAgreement — 2025-11-16",
+  "doc_type": "DiligenceResponse",
+  "stage": "DefinitiveAgreement",
+  "date": "2025-11-16 11:15",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Confidential",
+  "tags": [
+    "definitiveagreement",
+    "ops"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "DILIGENCE RESPONSES — STATUS UPDATE\nCompany: Riverbend Sensorworks Ltd.\nTo: Northstar diligence team\nDate: 2025-11-16\n\nSummary:\n- We have updated the tracker for the newest uploads.\n- A few items require legal review due to customer confidentiality.\n\nStatus by request:\n- Request 5: Pending legal review. See memo in /Legal/IP; assignment executed but\nnotarization pending.\n- Request 7: In progress. Document exists but contains customer-sensitive pricing; shared\nunder separate cover.\n- Request 13: In progress. We will provide an updated export after month-end close.\n- Request 15: Uploaded. Not applicable; no subsidiaries or foreign entities.\n- Request 16: Needs clarification. Document exists but contains customer-sensitive pricing;\nshared under separate cover.\n- Request 17: Uploaded. Document exists but contains customer-sensitive pricing; shared\nunder separate cover.\n\nFlagged items:\n- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.\n\nNext update: 2025-11-19\n"
+}

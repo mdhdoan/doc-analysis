@@ -1,0 +1,16 @@
+Subject: Purchase agreement: key open items
+Date: 2025-07-15 11:00
+From: Kara Whitman <kara@advisor.example>
+To: Ethan Park, Samira Ali
+
+Hi Ethan,
+
+Thanks for the call earlier. Below are a few items to keep momentum.
+- Privacy and data processing: seeking clarification.
+- Integration architecture and product roadmap: seeking clarification.
+- Ip assignment and open-source licenses: seeking clarification.
+
+Best,
+Kara Whitman
+Partner, Pine & Alder Legal
+Advisor

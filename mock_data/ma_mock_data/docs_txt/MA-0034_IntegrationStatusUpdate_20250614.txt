@@ -1,0 +1,27 @@
+INTEGRATION STATUS UPDATE — WEEK 1 (INTERNAL)
+Date: 2025-06-14
+Stage: Marketing
+
+Workstreams:
+1) Product & Engineering
+- Firmware repo migration: complete
+- Telemetry integration: scoping
+
+2) IT / Security
+- SSO rollout: pilot
+- Log centralization: complete
+
+3) Commercial
+- Bundle pricing: approved
+- Top-customer outreach: complete
+
+4) People
+- Role mapping: complete
+- Retention offers: issued
+
+Issues / risks:
+- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation
+plan needed.
+
+Next week focus:
+- Launch customer communications

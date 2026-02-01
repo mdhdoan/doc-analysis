@@ -1,0 +1,22 @@
+Subject: Confirm NDA + data room access
+Date: 2025-11-01 10:45
+From: Noah Bennett <noah@riverbend.example>
+To: Avery Patel, Maya Chen
+Cc: Renee Alvarez
+
+Hi Avery,
+
+Following our last discussion, here are the key items we need to align on before moving
+forward.
+- Synergy model: requesting documents.
+- Export controls and cross-border shipments: seeking clarification.
+- Sales pipeline and channel partners: confirming assumptions.
+- Customer concentration: requesting documents.
+- Revenue recognition and arr definitions: requesting documents.
+Redlines should be consolidated; propose using clause-by-clause comments rather than inline
+email edits.
+
+Best,
+Noah Bennett
+CEO
+Riverbend

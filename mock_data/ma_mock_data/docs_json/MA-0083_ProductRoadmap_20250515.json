@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0083",
+  "title": "ProductRoadmap — Northstar / Riverbend — Diligence — 2025-05-15",
+  "doc_type": "ProductRoadmap",
+  "stage": "Diligence",
+  "date": "2025-05-15 14:00",
+  "from_entity": "Riverbend",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "data-room",
+    "diligence",
+    "legal",
+    "privacy-compliance"
+  ],
+  "ground_truth_risks": [
+    "privacy_compliance"
+  ],
+  "all_text": "PRODUCT ROADMAP — COMBINED PLATFORM (DRAFT)\nDate: 2025-05-15\nStage: Diligence\n\nGoal:\nDeliver an integrated sensor-to-analytics offering with secure OTA updates and unified\nbilling.\n\nNow (0–3 months):\n- Stabilize firmware release pipeline; define signing + rollback.\n- Integrate Riverbend telemetry stream into Northstar ingestion API.\n- Draft pricing bundles and migration plan for existing customers.\n\nNext (3–9 months):\n- Release “Fleet Health” dashboard for predictive maintenance.\n- Deploy edge gateway option for low-connectivity sites.\n- Expand device management features (policy, remote config).\n\nLater (9–18 months):\n- New sensor SKU with improved battery life and radio resilience.\n- Multi-tenant portal redesign with SSO.\n- Advanced anomaly detection models tuned to sensor patterns.\n\nAssumptions:\n- The combined roadmap could reduce deployment time for customers by ~30–40% through tighter\nfirmware-to-cloud integration.\n"
+}

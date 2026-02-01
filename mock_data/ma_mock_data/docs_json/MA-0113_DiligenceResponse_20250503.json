@@ -1,0 +1,17 @@
+{
+  "doc_id": "MA-0113",
+  "title": "DiligenceResponse — Northstar / Riverbend — Diligence — 2025-05-03",
+  "doc_type": "DiligenceResponse",
+  "stage": "Diligence",
+  "date": "2025-05-03 16:45",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "cyber",
+    "diligence",
+    "escrow"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "DILIGENCE RESPONSES — STATUS UPDATE\nCompany: Riverbend Sensorworks Ltd.\nTo: Northstar diligence team\nDate: 2025-05-03\n\nSummary:\n- We have updated the tracker for the newest uploads.\n- A few items require legal review due to customer confidentiality.\n\nStatus by request:\n- Request 1: Uploaded. Uploaded to data room folder /Finance/2024 with supporting schedules.\n- Request 5: Pending legal review. Uploaded to data room folder /Finance/2024 with\nsupporting schedules.\n- Request 6: Uploaded. See memo in /Legal/IP; assignment executed but notarization pending.\n- Request 11: Pending legal review. Not applicable; no subsidiaries or foreign entities.\n- Request 13: Uploaded. Not applicable; no subsidiaries or foreign entities.\n- Request 16: In progress. See memo in /Legal/IP; assignment executed but notarization\npending.\n\nFlagged items:\n- Security note: one phishing incident last year; remediation appears adequate but evidence\nis partial.\n\nNext update: 2025-05-06\n"
+}

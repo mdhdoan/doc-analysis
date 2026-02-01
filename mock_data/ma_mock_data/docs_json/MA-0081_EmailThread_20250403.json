@@ -1,0 +1,16 @@
+{
+  "doc_id": "MA-0081",
+  "title": "EmailThread — Northstar / Riverbend — DefinitiveAgreement — 2025-04-03",
+  "doc_type": "EmailThread",
+  "stage": "DefinitiveAgreement",
+  "date": "2025-04-03 16:15",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Confidential",
+  "tags": [
+    "commercial",
+    "definitiveagreement"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "Subject: Integration planning: Day-1 priorities\nDate: 2025-04-03 16:15\nFrom: Avery Patel <avery@northstar.example>\nTo: Grace Kim, Samira Ali\nCc: Kara Whitman\n\nHi Grace,\n\nQuick update on diligence. We’re closing gaps in the tracker and would like to confirm the\nfollowing.\n- Employee retention and option pool: flagging a potential issue.\n- Ip assignment and open-source licenses: flagging a potential issue.\n- Integration architecture and product roadmap: requesting documents.\nInitial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin\nvolatility.\n\nBest,\nAvery Patel\nHR Director\nNorthstar\n"
+}

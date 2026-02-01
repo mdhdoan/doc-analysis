@@ -1,0 +1,26 @@
+INTEGRATION STATUS UPDATE — WEEK 10 (INTERNAL)
+Date: 2025-11-11
+Stage: NDA
+
+Workstreams:
+1) Product & Engineering
+- Firmware repo migration: in progress
+- Telemetry integration: scoping
+
+2) IT / Security
+- SSO rollout: planned
+- Log centralization: complete
+
+3) Commercial
+- Bundle pricing: reviewing
+- Top-customer outreach: underway
+
+4) People
+- Role mapping: complete
+- Retention offers: accepted
+
+Issues / risks:
+- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.
+
+Next week focus:
+- Finalize Day-30 roadmap

@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0118",
+  "title": "EmailThread — Northstar / Riverbend — DefinitiveAgreement — 2025-11-02",
+  "doc_type": "EmailThread",
+  "stage": "DefinitiveAgreement",
+  "date": "2025-11-02 13:15",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Confidential",
+  "tags": [
+    "definitiveagreement",
+    "escrow",
+    "ops",
+    "quality-yield"
+  ],
+  "ground_truth_risks": [
+    "quality_yield"
+  ],
+  "all_text": "Subject: Purchase agreement: key open items\nDate: 2025-11-02 13:15\nFrom: Talia Reyes <talia@riverbend.example>\nTo: Sofia Rios, Jordan Lee\n\nHi Sofia,\n\nQuick update on diligence. We’re closing gaps in the tracker and would like to confirm the\nfollowing.\n- Supply chain and component lead times: confirming assumptions.\n- Synergy model: flagging a potential issue.\n- Revenue recognition and arr definitions: flagging a potential issue.\n- Customer concentration: proposing a working session.\n- Synergy model: proposing a working session.\n- Synergy model: flagging a potential issue.\nSecurity note: one phishing incident last year; remediation appears adequate but evidence is\npartial.\n\nBest,\nTalia Reyes\nHead of Firmware\nRiverbend\n"
+}

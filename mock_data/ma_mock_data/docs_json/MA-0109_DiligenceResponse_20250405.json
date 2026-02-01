@@ -1,0 +1,19 @@
+{
+  "doc_id": "MA-0109",
+  "title": "DiligenceResponse — Northstar / Riverbend — DefinitiveAgreement — 2025-04-05",
+  "doc_type": "DiligenceResponse",
+  "stage": "DefinitiveAgreement",
+  "date": "2025-04-05 15:15",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "definitiveagreement",
+    "key-person-dependency",
+    "ops"
+  ],
+  "ground_truth_risks": [
+    "key_person_dependency"
+  ],
+  "all_text": "DILIGENCE RESPONSES — STATUS UPDATE\nCompany: Riverbend Sensorworks Ltd.\nTo: Northstar diligence team\nDate: 2025-04-05\n\nSummary:\n- We have updated the tracker for the newest uploads.\n- A few items require legal review due to customer confidentiality.\n\nStatus by request:\n- Request 1: Needs clarification. Uploaded to data room folder /Finance/2024 with supporting\nschedules.\n- Request 2: Needs clarification. See memo in /Legal/IP; assignment executed but\nnotarization pending.\n- Request 3: Needs clarification. See memo in /Legal/IP; assignment executed but\nnotarization pending.\n- Request 4: Pending legal review. Document exists but contains customer-sensitive pricing;\nshared under separate cover.\n- Request 10: Pending legal review. Document exists but contains customer-sensitive pricing;\nshared under separate cover.\n- Request 15: Uploaded. Document exists but contains customer-sensitive pricing; shared\nunder separate cover.\n- Request 16: Uploaded. We will provide an updated export after month-end close.\n\nFlagged items:\n- Security note: one phishing incident last year; remediation appears adequate but evidence\nis partial.\n\nNext update: 2025-04-08\n"
+}

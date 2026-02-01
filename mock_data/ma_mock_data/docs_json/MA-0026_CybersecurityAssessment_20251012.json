@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0026",
+  "title": "CybersecurityAssessment — Northstar / Riverbend — Diligence — 2025-10-12",
+  "doc_type": "CybersecurityAssessment",
+  "stage": "Diligence",
+  "date": "2025-10-12 13:00",
+  "from_entity": "Advisor",
+  "to_entity": "Riverbend",
+  "confidentiality": "Highly Confidential",
+  "tags": [
+    "diligence",
+    "escrow",
+    "export-controls",
+    "ops"
+  ],
+  "ground_truth_risks": [
+    "export_controls"
+  ],
+  "all_text": "CYBERSECURITY ASSESSMENT — SUMMARY (CONFIDENTIAL)\nAssessor: BluePeak Assurance\nCompany: Riverbend Sensorworks Ltd.\nDate: 2025-10-12\nStage: Diligence\n\nScope:\n- Corporate IT controls (identity, endpoint, patching)\n- Cloud services supporting telemetry ingestion and customer portal\n- Firmware update pipeline (OTA) and signing practices\n\nFindings (high level):\n- Identity & access management: strong for size; MFA coverage 70%\n- Vulnerability management: patch SLAs vary; scanning is ad hoc\n- Incident history: no known material incidents\n- Data handling: telemetry contains device identifiers; customer portal stores limited PII\n\nRisks:\n- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.\n\nRecommendations:\n1) Enforce MFA for all privileged accounts and VPN access.\n2) Formalize secure SDLC controls for firmware releases (signing key rotation, peer review).\n3) Centralize logging and retention; define incident response playbook.\n"
+}

@@ -1,0 +1,22 @@
+CUSTOMER CONCENTRATION ANALYSIS (INTERNAL)
+Date: 2025-07-15
+Stage: LOI
+
+Summary:
+- Top-1 customer: 26% of revenue
+- Top-5 customers: 59% of revenue
+- Renewal schedule: two key accounts renew within 12 months
+
+Key observations:
+- Contracts often bundle hardware shipments with annual maintenance.
+- Price escalation clauses vary; some include caps tied to CPI.
+- Churn risk is highest where deployments are small and channel-driven.
+
+Mitigations:
+- Prioritize executive outreach to top accounts within 30 days post-close.
+- Offer roadmap visibility and bundle incentives for multi-year renewals.
+- Build a pipeline heatmap to diversify mid-market segment.
+
+Flag:
+- Security note: one phishing incident last year; remediation appears adequate but evidence
+is partial.

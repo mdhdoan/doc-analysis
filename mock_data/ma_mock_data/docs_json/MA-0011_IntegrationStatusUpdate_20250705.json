@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0011",
+  "title": "IntegrationStatusUpdate — Northstar / Riverbend — Outreach — 2025-07-05",
+  "doc_type": "IntegrationStatusUpdate",
+  "stage": "Outreach",
+  "date": "2025-07-05 09:00",
+  "from_entity": "Northstar",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "cyber",
+    "integration",
+    "outreach",
+    "quality-yield"
+  ],
+  "ground_truth_risks": [
+    "quality_yield"
+  ],
+  "all_text": "INTEGRATION STATUS UPDATE — WEEK 2 (INTERNAL)\nDate: 2025-07-05\nStage: Outreach\n\nWorkstreams:\n1) Product & Engineering\n- Firmware repo migration: complete\n- Telemetry integration: scoping\n\n2) IT / Security\n- SSO rollout: complete\n- Log centralization: complete\n\n3) Commercial\n- Bundle pricing: approved\n- Top-customer outreach: underway\n\n4) People\n- Role mapping: complete\n- Retention offers: issued\n\nIssues / risks:\n- Security note: one phishing incident last year; remediation appears adequate but evidence\nis partial.\n\nNext week focus:\n- Finalize Day-30 roadmap\n"
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0054",
+  "title": "EmailThread — Northstar / Riverbend — DefinitiveAgreement — 2025-05-10",
+  "doc_type": "EmailThread",
+  "stage": "DefinitiveAgreement",
+  "date": "2025-05-10 16:00",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "definitiveagreement",
+    "open-source-license",
+    "ops",
+    "working-capital"
+  ],
+  "ground_truth_risks": [
+    "open_source_license"
+  ],
+  "all_text": "Subject: Cyber due diligence: evidence request\nDate: 2025-05-10 16:00\nFrom: Avery Patel <avery@northstar.example>\nTo: Samira Ali, Devon Price\nCc: Caleb Morgan\n\nHi Samira,\n\nQuick update on diligence. We’re closing gaps in the tracker and would like to confirm the\nfollowing.\n- Regulatory certifications: flagging a potential issue.\n- Regulatory certifications: flagging a potential issue.\n- Cybersecurity posture and incident history: flagging a potential issue.\n- Employee retention and option pool: flagging a potential issue.\n- Export controls and cross-border shipments: proposing a working session.\n- Customer concentration: confirming assumptions.\nWe’ll maintain a weekly cadence: diligence sync on Tuesdays, steering committee on Fridays.\n\nBest,\nAvery Patel\nHR Director\nNorthstar\n"
+}

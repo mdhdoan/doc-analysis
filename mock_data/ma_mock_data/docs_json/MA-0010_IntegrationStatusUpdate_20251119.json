@@ -1,0 +1,19 @@
+{
+  "doc_id": "MA-0010",
+  "title": "IntegrationStatusUpdate — Northstar / Riverbend — Marketing — 2025-11-19",
+  "doc_type": "IntegrationStatusUpdate",
+  "stage": "Marketing",
+  "date": "2025-11-19 12:45",
+  "from_entity": "Northstar",
+  "to_entity": "Northstar",
+  "confidentiality": "Confidential",
+  "tags": [
+    "legal",
+    "marketing",
+    "privacy-compliance"
+  ],
+  "ground_truth_risks": [
+    "privacy_compliance"
+  ],
+  "all_text": "INTEGRATION STATUS UPDATE — WEEK 9 (INTERNAL)\nDate: 2025-11-19\nStage: Marketing\n\nWorkstreams:\n1) Product & Engineering\n- Firmware repo migration: in progress\n- Telemetry integration: scoping\n\n2) IT / Security\n- SSO rollout: pilot\n- Log centralization: planned\n\n3) Commercial\n- Bundle pricing: drafted\n- Top-customer outreach: complete\n\n4) People\n- Role mapping: complete\n- Retention offers: pending\n\nIssues / risks:\n- Potential IP gap: two legacy firmware modules were created by contractors—assignment\npaperwork is incomplete.\n\nNext week focus:\n- Close remaining data room gaps\n"
+}

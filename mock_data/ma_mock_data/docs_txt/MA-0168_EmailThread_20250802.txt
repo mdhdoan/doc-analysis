@@ -1,0 +1,22 @@
+Subject: LOI terms: earn-out + exclusivity
+Date: 2025-08-02 18:15
+From: Renee Alvarez <renee@advisor.example>
+To: Maya Chen, Talia Reyes
+
+Hi Maya,
+
+Following our last discussion, here are the key items we need to align on before moving
+forward.
+- Revenue recognition and arr definitions: flagging a potential issue.
+- Cybersecurity posture and incident history: confirming assumptions.
+- Valuation and comps: proposing a working session.
+- Sales pipeline and channel partners: seeking clarification.
+- Export controls and cross-border shipments: flagging a potential issue.
+Please route questions through the diligence tracker to keep responses auditable.
+Earn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to
+avoid disputes.
+
+Best,
+Renee Alvarez
+Lead Assessor, BluePeak
+Advisor

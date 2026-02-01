@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0156",
+  "title": "DiligenceResponse — Northstar / Riverbend — DefinitiveAgreement — 2025-04-15",
+  "doc_type": "DiligenceResponse",
+  "stage": "DefinitiveAgreement",
+  "date": "2025-04-15 18:15",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Confidential",
+  "tags": [
+    "cyber",
+    "definitiveagreement",
+    "earnout",
+    "revenue-recognition"
+  ],
+  "ground_truth_risks": [
+    "revenue_recognition"
+  ],
+  "all_text": "DILIGENCE RESPONSES — STATUS UPDATE\nCompany: Riverbend Sensorworks Ltd.\nTo: Northstar diligence team\nDate: 2025-04-15\n\nSummary:\n- We have updated the tracker for the newest uploads.\n- A few items require legal review due to customer confidentiality.\n\nStatus by request:\n- Request 8: Needs clarification. Document exists but contains customer-sensitive pricing;\nshared under separate cover.\n- Request 11: Uploaded. Not applicable; no subsidiaries or foreign entities.\n- Request 14: In progress. Not applicable; no subsidiaries or foreign entities.\n- Request 17: Needs clarification. Not applicable; no subsidiaries or foreign entities.\n\nFlagged items:\n- Potential IP gap: two legacy firmware modules were created by contractors—assignment\npaperwork is incomplete.\n\nNext update: 2025-04-18\n"
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0009",
+  "title": "EmailThread — Northstar / Riverbend — Diligence — 2025-05-26",
+  "doc_type": "EmailThread",
+  "stage": "Diligence",
+  "date": "2025-05-26 11:15",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "data-room",
+    "diligence",
+    "hr",
+    "revenue-recognition"
+  ],
+  "ground_truth_risks": [
+    "revenue_recognition"
+  ],
+  "all_text": "Subject: Follow-up on customer concentration\nDate: 2025-05-26 11:15\nFrom: Kara Whitman <kara@advisor.example>\nTo: Maya Chen, Devon Price\n\nHi Maya,\n\nQuick update on diligence. We’re closing gaps in the tracker and would like to confirm the\nfollowing.\n- Synergy model: seeking clarification.\n- Customer concentration: confirming assumptions.\n- Cybersecurity posture and incident history: confirming assumptions.\nWe’ll maintain a weekly cadence: diligence sync on Tuesdays, steering committee on Fridays.\nKey risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.\n\nBest,\nKara Whitman\nPartner, Pine & Alder Legal\nAdvisor\n"
+}

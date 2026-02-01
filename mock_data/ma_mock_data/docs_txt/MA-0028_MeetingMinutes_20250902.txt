@@ -1,0 +1,37 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: Indication
+Date: 2025-09-02 08:15
+Location: Video call
+
+Attendees:
+- Jordan Lee (Director, IT Security), Liam O'Neill (General Counsel), Maya Chen (CEO),
+Samira Ali (HR Manager), Noah Bennett (CEO), Talia Reyes (Head of Firmware), Caleb Morgan
+(VP, HarborGate Bank)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- Cost synergies are primarily in duplicated back-office functions; revenue synergies depend
+on channel expansion into utilities and mining.
+- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation
+plan needed.
+
+Decisions:
+- Align on earn-out definitions and reporting cadence.
+- Request updated firmware IP assignment documentation.
+- Proceed with expanded customer calls (top 10 accounts).
+
+Action items:
+- Caleb Morgan: Provide manufacturing yields and QA by 2025-09-12.
+- Jordan Lee: Validate synergy model by 2025-09-11.
+- Noah Bennett: Provide customer concentration by 2025-09-15.
+- Liam O'Neill: Draft synergy model by 2025-09-14.
+- Liam O'Neill: Share regulatory certifications by 2025-09-06.
+- Samira Ali: Share regulatory certifications by 2025-09-14.

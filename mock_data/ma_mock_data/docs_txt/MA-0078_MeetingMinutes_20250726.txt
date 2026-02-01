@@ -1,0 +1,38 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: Diligence
+Date: 2025-07-26 08:45
+Location: Video call
+
+Attendees:
+- Maya Chen (CEO), Priya Nandakumar (Head of Product), Avery Patel (HR Director), Elena
+Novak (CFO), Noah Bennett (CEO), Omar Hassan (Head of Sales), Miles Grant (Director,
+Cedarstone Advisory)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- Cost synergies are primarily in duplicated back-office functions; revenue synergies depend
+on channel expansion into utilities and mining.
+- We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.
+- Potential IP gap: two legacy firmware modules were created by contractors—assignment
+paperwork is incomplete.
+
+Decisions:
+- Request updated firmware IP assignment documentation.
+- Move cybersecurity deep-dive to next week; BluePeak to lead.
+- Confirm manufacturing capacity assumptions and backup suppliers.
+
+Action items:
+- Miles Grant: Provide integration architecture and product roadmap by 2025-08-09.
+- Priya Nandakumar: Review revenue recognition and ARR definitions by 2025-08-06.
+- Avery Patel: Validate revenue recognition and ARR definitions by 2025-08-08.
+- Elena Novak: Review cybersecurity posture and incident history by 2025-08-03.
+- Noah Bennett: Share export controls and cross-border shipments by 2025-08-03.
+- Omar Hassan: Draft earn-out metrics and governance by 2025-08-09.
+- Elena Novak: Review privacy and data processing by 2025-08-01.

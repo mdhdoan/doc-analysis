@@ -1,0 +1,37 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: Diligence
+Date: 2025-06-18 17:30
+Location: Video call
+
+Attendees:
+- Sofia Rios (VP Corp Dev), Avery Patel (HR Director), Ethan Park (CFO), Devon Price
+(Operations Lead), Samira Ali (HR Manager), Grace Kim (VP Engineering)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- The combined roadmap could reduce deployment time for customers by ~30–40% through tighter
+firmware-to-cloud integration.
+- Earn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to
+avoid disputes.
+- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation
+plan needed.
+
+Decisions:
+- Move cybersecurity deep-dive to next week; BluePeak to lead.
+- Align on earn-out definitions and reporting cadence.
+- Align on earn-out definitions and reporting cadence.
+
+Action items:
+- Samira Ali: Review employee retention and option pool by 2025-06-22.
+- Samira Ali: Draft manufacturing yields and QA by 2025-06-22.
+- Avery Patel: Review privacy and data processing by 2025-06-29.
+- Grace Kim: Provide integration architecture and product roadmap by 2025-07-01.
+- Sofia Rios: Share employee retention and option pool by 2025-06-21.
+- Sofia Rios: Share supply chain and component lead times by 2025-06-30.
+- Samira Ali: Provide revenue recognition and ARR definitions by 2025-06-24.

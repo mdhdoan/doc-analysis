@@ -1,0 +1,22 @@
+Subject: Follow-up on customer concentration
+Date: 2025-08-02 11:30
+From: Sofia Rios <sofia@northstar.example>
+To: Elena Novak, Grace Kim
+
+Hi Elena,
+
+Quick update on diligence. We’re closing gaps in the tracker and would like to confirm the
+following.
+- Manufacturing yields and qa: proposing a working session.
+- Synergy model: flagging a potential issue.
+- Integration architecture and product roadmap: seeking clarification.
+- Valuation and comps: proposing a working session.
+- Supply chain and component lead times: flagging a potential issue.
+- Earn-out metrics and governance: requesting documents.
+Earn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to
+avoid disputes.
+
+Best,
+Sofia Rios
+VP Corp Dev
+Northstar

@@ -1,0 +1,24 @@
+LETTER OF INTENT (DRAFT, NON-BINDING EXCEPT AS NOTED)
+Date: October 01, 2025
+Parties: Northstar Industrial Analytics Inc. (“Buyer”) and Riverbend Sensorworks Ltd.
+(“Company”)
+
+1. Transaction. Buyer proposes to acquire 100% of the Company’s equity.
+2. Consideration. Enterprise Value: $130M, subject to net working capital and debt-like
+adjustments.
+3. Earn-out. Up to $15M based on (a) ARR growth and (b) sensor-unit shipments over 12 months
+post-close.
+4. Exclusivity. Company agrees to an exclusivity period of 60 days (binding).
+5. Diligence. Company to provide access to data room, management interviews, and customer
+references.
+6. Confidentiality. Existing NDA remains in effect (binding).
+7. Expenses. Each party bears its own costs; advisors are responsible for their own fees
+unless otherwise agreed.
+
+Open points:
+- Definitions of ARR and shipments (timing, returns, cancellations).
+- Treatment of existing customer prepayments and deferred revenue.
+- Escrow / indemnity cap and basket.
+
+We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.

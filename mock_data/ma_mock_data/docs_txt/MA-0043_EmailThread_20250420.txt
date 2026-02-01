@@ -1,0 +1,25 @@
+Subject: Cyber due diligence: evidence request
+Date: 2025-04-20 12:45
+From: Miles Grant <miles@advisor.example>
+To: Liam O'Neill, Devon Price
+Cc: Caleb Morgan
+
+Hi Liam,
+
+Thanks for the call earlier. Below are a few items to keep momentum.
+- Privacy and data processing: requesting documents.
+- Integration architecture and product roadmap: proposing a working session.
+- Ip assignment and open-source licenses: confirming assumptions.
+- Cybersecurity posture and incident history: seeking clarification.
+- Manufacturing yields and qa: proposing a working session.
+- Synergy model: proposing a working session.
+Redlines should be consolidated; propose using clause-by-clause comments rather than inline
+email edits.
+We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.
+Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.
+
+Best,
+Miles Grant
+Director, Cedarstone Advisory
+Advisor

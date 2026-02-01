@@ -1,0 +1,34 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: DefinitiveAgreement
+Date: 2025-08-18 15:15
+Location: Video call
+
+Attendees:
+- Liam O'Neill (General Counsel), Maya Chen (CEO), Avery Patel (HR Director), Talia Reyes
+(Head of Firmware), Grace Kim (VP Engineering), Elena Novak (CFO), Kara Whitman (Partner,
+Pine & Alder Legal)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- We see immediate pull-through by bundling Riverbend’s sensors with Northstar’s analytics
+suite into a single subscription.
+- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.
+
+Decisions:
+- Request updated firmware IP assignment documentation.
+- Proceed with expanded customer calls (top 10 accounts).
+- Align on earn-out definitions and reporting cadence.
+
+Action items:
+- Kara Whitman: Draft regulatory certifications by 2025-09-01.
+- Maya Chen: Provide privacy and data processing by 2025-08-23.
+- Kara Whitman: Review regulatory certifications by 2025-08-28.
+- Elena Novak: Validate earn-out metrics and governance by 2025-08-28.

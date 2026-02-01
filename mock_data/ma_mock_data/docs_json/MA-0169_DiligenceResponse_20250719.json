@@ -1,0 +1,17 @@
+{
+  "doc_id": "MA-0169",
+  "title": "DiligenceResponse — Northstar / Riverbend — Marketing — 2025-07-19",
+  "doc_type": "DiligenceResponse",
+  "stage": "Marketing",
+  "date": "2025-07-19 18:45",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "legal",
+    "marketing",
+    "revenue-recognition"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "DILIGENCE RESPONSES — STATUS UPDATE\nCompany: Riverbend Sensorworks Ltd.\nTo: Northstar diligence team\nDate: 2025-07-19\n\nSummary:\n- We have updated the tracker for the newest uploads.\n- A few items require legal review due to customer confidentiality.\n\nStatus by request:\n- Request 1: Uploaded. Uploaded to data room folder /Finance/2024 with supporting schedules.\n- Request 2: In progress. We will provide an updated export after month-end close.\n- Request 11: Uploaded. Document exists but contains customer-sensitive pricing; shared\nunder separate cover.\n- Request 15: In progress. We will provide an updated export after month-end close.\n\nFlagged items:\n- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation\nplan needed.\n\nNext update: 2025-07-22\n"
+}

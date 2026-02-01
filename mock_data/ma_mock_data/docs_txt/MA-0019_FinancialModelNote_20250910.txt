@@ -1,0 +1,25 @@
+FINANCIAL MODEL NOTE — Northstar (INTERNAL)
+Date: 2025-09-10
+Stage: Integration
+
+Purpose:
+Document key modeling assumptions for the Riverbend acquisition.
+
+Key inputs:
+- Revenue: base case CAGR 15% with recurring mix increasing to 55% by Year 3
+- Hardware gross margin: 38% (sensitivity +/- 5%)
+- R&D: 22% of revenue to support firmware + sensor refresh cycle
+- Sales efficiency: payback 17 months; churn 9%
+
+Valuation:
+- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+
+Sensitivities:
+- Component lead times and pricing
+- Top customer renewal and expansion
+- Earn-out payout probability
+
+Risks / mitigations:
+- Security note: one phishing incident last year; remediation appears adequate but evidence
+is partial.

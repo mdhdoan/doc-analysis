@@ -1,0 +1,23 @@
+Subject: Integration planning: Day-1 priorities
+Date: 2025-09-01 16:30
+From: Miles Grant <miles@advisor.example>
+To: Priya Nandakumar, Talia Reyes
+
+Hi Priya,
+
+Quick update on diligence. We’re closing gaps in the tracker and would like to confirm the
+following.
+- Integration architecture and product roadmap: requesting documents.
+- Regulatory certifications: proposing a working session.
+- Revenue recognition and arr definitions: confirming assumptions.
+- Earn-out metrics and governance: flagging a potential issue.
+- Employee retention and option pool: confirming assumptions.
+Redlines should be consolidated; propose using clause-by-clause comments rather than inline
+email edits.
+We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.
+
+Best,
+Miles Grant
+Director, Cedarstone Advisory
+Advisor

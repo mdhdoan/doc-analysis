@@ -1,0 +1,33 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: Diligence
+Date: 2025-05-15 12:45
+Location: Video call
+
+Attendees:
+- Ethan Park (CFO), Jordan Lee (Director, IT Security), Liam O'Neill (General Counsel),
+Samira Ali (HR Manager), Talia Reyes (Head of Firmware), Grace Kim (VP Engineering)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- The combined roadmap could reduce deployment time for customers by ~30–40% through tighter
+firmware-to-cloud integration.
+- Earn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to
+avoid disputes.
+- Potential IP gap: two legacy firmware modules were created by contractors—assignment
+paperwork is incomplete.
+
+Decisions:
+- Align on earn-out definitions and reporting cadence.
+- Align on earn-out definitions and reporting cadence.
+
+Action items:
+- Talia Reyes: Review synergy model by 2025-05-26.
+- Ethan Park: Share earn-out metrics and governance by 2025-05-18.
+- Samira Ali: Share synergy model by 2025-05-26.
+- Liam O'Neill: Draft IP assignment and open-source licenses by 2025-05-21.

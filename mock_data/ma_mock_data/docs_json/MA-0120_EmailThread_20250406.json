@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0120",
+  "title": "EmailThread — Northstar / Riverbend — NDA — 2025-04-06",
+  "doc_type": "EmailThread",
+  "stage": "NDA",
+  "date": "2025-04-06 10:45",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Confidential",
+  "tags": [
+    "cyber-incident",
+    "hr",
+    "nda",
+    "working-capital"
+  ],
+  "ground_truth_risks": [
+    "cyber_incident"
+  ],
+  "all_text": "Subject: Integration planning: Day-1 priorities\nDate: 2025-04-06 10:45\nFrom: Avery Patel <avery@northstar.example>\nTo: Noah Bennett, Grace Kim\n\nHi Noah,\n\nThanks for the call earlier. Below are a few items to keep momentum.\n- Revenue recognition and arr definitions: requesting documents.\n- Privacy and data processing: flagging a potential issue.\n- Employee retention and option pool: requesting documents.\n- Cybersecurity posture and incident history: confirming assumptions.\n- Revenue recognition and arr definitions: proposing a working session.\nRedlines should be consolidated; propose using clause-by-clause comments rather than inline\nemail edits.\nInitial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin\nvolatility.\nKey risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.\n\nBest,\nAvery Patel\nHR Director\nNorthstar\n"
+}

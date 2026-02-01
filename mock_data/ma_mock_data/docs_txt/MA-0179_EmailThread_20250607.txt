@@ -1,0 +1,21 @@
+Subject: Purchase agreement: key open items
+Date: 2025-06-07 09:00
+From: Priya Nandakumar <priya@northstar.example>
+To: Noah Bennett, Elena Novak
+
+Hi Noah,
+
+Following our last discussion, here are the key items we need to align on before moving
+forward.
+- Sales pipeline and channel partners: flagging a potential issue.
+- Revenue recognition and arr definitions: requesting documents.
+- Synergy model: confirming assumptions.
+Redlines should be consolidated; propose using clause-by-clause comments rather than inline
+email edits.
+Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation
+plan needed.
+
+Best,
+Priya Nandakumar
+Head of Product
+Northstar

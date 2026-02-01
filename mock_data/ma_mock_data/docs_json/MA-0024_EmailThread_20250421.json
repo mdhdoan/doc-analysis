@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0024",
+  "title": "EmailThread — Northstar / Riverbend — Outreach — 2025-04-21",
+  "doc_type": "EmailThread",
+  "stage": "Outreach",
+  "date": "2025-04-21 08:15",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "data-room",
+    "open-source-license",
+    "ops",
+    "outreach"
+  ],
+  "ground_truth_risks": [
+    "open_source_license"
+  ],
+  "all_text": "Subject: Follow-up on customer concentration\nDate: 2025-04-21 08:15\nFrom: Renee Alvarez <renee@advisor.example>\nTo: Avery Patel, Grace Kim\nCc: Kara Whitman\n\nHi Avery,\n\nThanks for the call earlier. Below are a few items to keep momentum.\n- Privacy and data processing: requesting documents.\n- Earn-out metrics and governance: requesting documents.\n- Sales pipeline and channel partners: proposing a working session.\n- Earn-out metrics and governance: confirming assumptions.\nRedlines should be consolidated; propose using clause-by-clause comments rather than inline\nemail edits.\nEarn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to\navoid disputes.\n\nBest,\nRenee Alvarez\nLead Assessor, BluePeak\nAdvisor\n"
+}

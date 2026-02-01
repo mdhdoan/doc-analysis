@@ -1,0 +1,19 @@
+Subject: Integration planning: Day-1 priorities
+Date: 2025-08-22 11:15
+From: Liam O'Neill <liam@northstar.example>
+To: Devon Price, Omar Hassan
+
+Hi Devon,
+
+Thanks for the call earlier. Below are a few items to keep momentum.
+- Employee retention and option pool: confirming assumptions.
+- Valuation and comps: seeking clarification.
+- Valuation and comps: seeking clarification.
+- Earn-out metrics and governance: flagging a potential issue.
+Redlines should be consolidated; propose using clause-by-clause comments rather than inline
+email edits.
+
+Best,
+Liam O'Neill
+General Counsel
+Northstar

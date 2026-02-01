@@ -1,0 +1,16 @@
+{
+  "doc_id": "MA-0172",
+  "title": "EmailThread — Northstar / Riverbend — Marketing — 2025-08-08",
+  "doc_type": "EmailThread",
+  "stage": "Marketing",
+  "date": "2025-08-08 11:00",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "commercial",
+    "marketing"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "Subject: Integration planning: Day-1 priorities\nDate: 2025-08-08 11:00\nFrom: Kara Whitman <kara@advisor.example>\nTo: Sofia Rios, Devon Price\nCc: Kara Whitman\n\nHi Sofia,\n\nThanks for the call earlier. Below are a few items to keep momentum.\n- Integration architecture and product roadmap: flagging a potential issue.\n- Cybersecurity posture and incident history: proposing a working session.\n- Export controls and cross-border shipments: seeking clarification.\n- Employee retention and option pool: seeking clarification.\nRedlines should be consolidated; propose using clause-by-clause comments rather than inline\nemail edits.\nInitial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin\nvolatility.\nSupply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation\nplan needed.\n\nBest,\nKara Whitman\nPartner, Pine & Alder Legal\nAdvisor\n"
+}

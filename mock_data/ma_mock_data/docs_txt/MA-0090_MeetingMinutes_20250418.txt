@@ -1,0 +1,35 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: Outreach
+Date: 2025-04-18 15:00
+Location: Video call
+
+Attendees:
+- Priya Nandakumar (Head of Product), Sofia Rios (VP Corp Dev), Ethan Park (CFO), Samira Ali
+(HR Manager), Devon Price (Operations Lead), Talia Reyes (Head of Firmware), Renee Alvarez
+(Lead Assessor, BluePeak)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- We see immediate pull-through by bundling Riverbend’s sensors with Northstar’s analytics
+suite into a single subscription.
+- We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.
+- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation
+plan needed.
+
+Decisions:
+- Align on earn-out definitions and reporting cadence.
+- Request updated firmware IP assignment documentation.
+
+Action items:
+- Samira Ali: Draft valuation and comps by 2025-04-25.
+- Devon Price: Review employee retention and option pool by 2025-04-30.
+- Talia Reyes: Share cybersecurity posture and incident history by 2025-04-27.
+- Priya Nandakumar: Validate regulatory certifications by 2025-04-26.
+- Devon Price: Validate supply chain and component lead times by 2025-04-26.

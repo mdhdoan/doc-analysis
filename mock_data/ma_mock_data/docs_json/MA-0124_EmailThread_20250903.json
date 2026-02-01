@@ -1,0 +1,19 @@
+{
+  "doc_id": "MA-0124",
+  "title": "EmailThread — Northstar / Riverbend — Marketing — 2025-09-03",
+  "doc_type": "EmailThread",
+  "stage": "Marketing",
+  "date": "2025-09-03 17:15",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Confidential",
+  "tags": [
+    "export-controls",
+    "marketing",
+    "tech"
+  ],
+  "ground_truth_risks": [
+    "export_controls"
+  ],
+  "all_text": "Subject: Confirm NDA + data room access\nDate: 2025-09-03 17:15\nFrom: Liam O'Neill <liam@northstar.example>\nTo: Noah Bennett, Elena Novak\n\nHi Noah,\n\nThanks for the call earlier. Below are a few items to keep momentum.\n- Export controls and cross-border shipments: requesting documents.\n- Regulatory certifications: confirming assumptions.\n- Manufacturing yields and qa: proposing a working session.\nRedlines should be consolidated; propose using clause-by-clause comments rather than inline\nemail edits.\nKey risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.\n\nBest,\nLiam O'Neill\nGeneral Counsel\nNorthstar\n"
+}

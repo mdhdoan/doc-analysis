@@ -1,0 +1,16 @@
+{
+  "doc_id": "MA-0002",
+  "title": "EmailThread — Northstar / Riverbend — DefinitiveAgreement — 2025-05-23",
+  "doc_type": "EmailThread",
+  "stage": "DefinitiveAgreement",
+  "date": "2025-05-23 09:45",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "definitiveagreement",
+    "tech"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "Subject: Integration planning: Day-1 priorities\nDate: 2025-05-23 09:45\nFrom: Talia Reyes <talia@riverbend.example>\nTo: Maya Chen, Liam O'Neill\nCc: Renee Alvarez\n\nHi Maya,\n\nQuick update on diligence. We’re closing gaps in the tracker and would like to confirm the\nfollowing.\n- Earn-out metrics and governance: seeking clarification.\n- Integration architecture and product roadmap: requesting documents.\n- Valuation and comps: seeking clarification.\n- Regulatory certifications: proposing a working session.\n- Synergy model: seeking clarification.\nWe modeled a base case with 18% ARR CAGR and a downside case with delayed component\navailability impacting shipments.\n\nBest,\nTalia Reyes\nHead of Firmware\nRiverbend\n"
+}

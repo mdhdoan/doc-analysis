@@ -1,0 +1,18 @@
+{
+  "doc_id": "MA-0097",
+  "title": "EmailThread — Northstar / Riverbend — DefinitiveAgreement — 2025-09-17",
+  "doc_type": "EmailThread",
+  "stage": "DefinitiveAgreement",
+  "date": "2025-09-17 17:00",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "definitiveagreement",
+    "earnout",
+    "legal",
+    "quality-yield"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "Subject: Cyber due diligence: evidence request\nDate: 2025-09-17 17:00\nFrom: Kara Whitman <kara@advisor.example>\nTo: Ethan Park, Samira Ali\nCc: Miles Grant\n\nHi Ethan,\n\nQuick update on diligence. We’re closing gaps in the tracker and would like to confirm the\nfollowing.\n- Regulatory certifications: confirming assumptions.\n- Sales pipeline and channel partners: requesting documents.\n- Privacy and data processing: seeking clarification.\n- Earn-out metrics and governance: seeking clarification.\nWe’ll maintain a weekly cadence: diligence sync on Tuesdays, steering committee on Fridays.\n\nBest,\nKara Whitman\nPartner, Pine & Alder Legal\nAdvisor\n"
+}

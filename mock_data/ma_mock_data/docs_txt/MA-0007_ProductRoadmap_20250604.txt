@@ -1,0 +1,26 @@
+PRODUCT ROADMAP — COMBINED PLATFORM (DRAFT)
+Date: 2025-06-04
+Stage: Integration
+
+Goal:
+Deliver an integrated sensor-to-analytics offering with secure OTA updates and unified
+billing.
+
+Now (0–3 months):
+- Stabilize firmware release pipeline; define signing + rollback.
+- Integrate Riverbend telemetry stream into Northstar ingestion API.
+- Draft pricing bundles and migration plan for existing customers.
+
+Next (3–9 months):
+- Release “Fleet Health” dashboard for predictive maintenance.
+- Deploy edge gateway option for low-connectivity sites.
+- Expand device management features (policy, remote config).
+
+Later (9–18 months):
+- New sensor SKU with improved battery life and radio resilience.
+- Multi-tenant portal redesign with SSO.
+- Advanced anomaly detection models tuned to sensor patterns.
+
+Assumptions:
+- Cost synergies are primarily in duplicated back-office functions; revenue synergies depend
+on channel expansion into utilities and mining.

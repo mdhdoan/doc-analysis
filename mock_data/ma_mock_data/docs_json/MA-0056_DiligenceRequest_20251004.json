@@ -1,0 +1,16 @@
+{
+  "doc_id": "MA-0056",
+  "title": "DiligenceRequest — Northstar / Riverbend — Diligence — 2025-10-04",
+  "doc_type": "DiligenceRequest",
+  "stage": "Diligence",
+  "date": "2025-10-04 13:30",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Confidential",
+  "tags": [
+    "cyber",
+    "diligence"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "DUE DILIGENCE REQUEST LIST\nBuyer: Northstar Industrial Analytics Inc.\nCompany: Riverbend Sensorworks Ltd.\nStage: Diligence\nDate: 2025-10-04\n\nWorkstreams:\nA. Corporate / Legal\nB. Finance / Tax\nC. Technology / IP\nD. Cybersecurity / Privacy\nE. Commercial / Customers\nF. Operations / Supply Chain\nG. HR / Benefits\n\nRequests:\n1. Share customer contracts (last 3 years if applicable).\n2. Upload supplier agreements (last 3 years if applicable).\n3. Share security policies (last 3 years if applicable).\n4. Share supplier agreements (last 3 years if applicable).\n5. Upload board minutes (last 3 years if applicable).\n6. Provide security policies (last 3 years if applicable).\n7. Provide board minutes (last 3 years if applicable).\n8. Upload IP assignments (last 3 years if applicable).\n9. Share security policies (last 3 years if applicable).\n10. Upload supplier agreements (last 3 years if applicable).\n\nNotes:\n- Please label uploads with request number and date.\n- If an item is not applicable, mark N/A with a brief explanation.\n"
+}

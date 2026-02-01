@@ -1,0 +1,17 @@
+{
+  "doc_id": "MA-0067",
+  "title": "IntegrationStatusUpdate — Northstar / Riverbend — NDA — 2025-11-11",
+  "doc_type": "IntegrationStatusUpdate",
+  "stage": "NDA",
+  "date": "2025-11-11 08:15",
+  "from_entity": "Northstar",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "data-room",
+    "legal",
+    "nda"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "INTEGRATION STATUS UPDATE — WEEK 10 (INTERNAL)\nDate: 2025-11-11\nStage: NDA\n\nWorkstreams:\n1) Product & Engineering\n- Firmware repo migration: in progress\n- Telemetry integration: scoping\n\n2) IT / Security\n- SSO rollout: planned\n- Log centralization: complete\n\n3) Commercial\n- Bundle pricing: reviewing\n- Top-customer outreach: underway\n\n4) People\n- Role mapping: complete\n- Retention offers: accepted\n\nIssues / risks:\n- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.\n\nNext week focus:\n- Finalize Day-30 roadmap\n"
+}

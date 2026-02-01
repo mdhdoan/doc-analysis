@@ -1,0 +1,16 @@
+{
+  "doc_id": "MA-0178",
+  "title": "EmailThread — Northstar / Riverbend — NDA — 2025-07-02",
+  "doc_type": "EmailThread",
+  "stage": "NDA",
+  "date": "2025-07-02 16:45",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "commercial",
+    "nda"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "Subject: Confirm NDA + data room access\nDate: 2025-07-02 16:45\nFrom: Talia Reyes <talia@riverbend.example>\nTo: Liam O'Neill, Avery Patel\nCc: Caleb Morgan\n\nHi Liam,\n\nThanks for the call earlier. Below are a few items to keep momentum.\n- Regulatory certifications: flagging a potential issue.\n- Manufacturing yields and qa: seeking clarification.\n- Earn-out metrics and governance: flagging a potential issue.\n- Privacy and data processing: seeking clarification.\nWe modeled a base case with 18% ARR CAGR and a downside case with delayed component\navailability impacting shipments.\n\nBest,\nTalia Reyes\nHead of Firmware\nRiverbend\n"
+}

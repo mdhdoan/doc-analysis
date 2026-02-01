@@ -1,0 +1,30 @@
+CONFIDENTIAL INFORMATION MEMORANDUM (EXCERPT)
+Target: Riverbend Sensorworks Ltd.
+Date: May 07, 2025
+
+Product
+Riverbend’s platform combines battery-efficient firmware, mesh networking, and secure OTA
+updates.
+
+Key notes:
+- Potential IP gap: two legacy firmware modules were created by contractors—assignment
+paperwork is incomplete.
+- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+Operations
+Manufacturing is outsourced with final QA performed in-house; component lead times are the
+primary constraint.
+
+Key notes:
+- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.
+- Earn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to
+avoid disputes.
+Market
+Industrial IoT adoption is accelerating as operators seek predictive maintenance and remote
+monitoring.
+
+Key notes:
+- Potential IP gap: two legacy firmware modules were created by contractors—assignment
+paperwork is incomplete.
+- We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.

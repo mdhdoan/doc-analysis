@@ -1,0 +1,21 @@
+Subject: Purchase agreement: key open items
+Date: 2025-05-15 12:45
+From: Sofia Rios <sofia@northstar.example>
+To: Samira Ali, Omar Hassan
+
+Hi Samira,
+
+Thanks for the call earlier. Below are a few items to keep momentum.
+- Synergy model: flagging a potential issue.
+- Supply chain and component lead times: seeking clarification.
+- Export controls and cross-border shipments: confirming assumptions.
+- Export controls and cross-border shipments: seeking clarification.
+- Cybersecurity posture and incident history: requesting documents.
+We’ll maintain a weekly cadence: diligence sync on Tuesdays, steering committee on Fridays.
+We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.
+
+Best,
+Sofia Rios
+VP Corp Dev
+Northstar

@@ -1,0 +1,17 @@
+{
+  "doc_id": "MA-0144",
+  "title": "EmailThread — Northstar / Riverbend — Integration — 2025-09-14",
+  "doc_type": "EmailThread",
+  "stage": "Integration",
+  "date": "2025-09-14 12:30",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Confidential",
+  "tags": [
+    "integration",
+    "legal",
+    "privacy-compliance"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "Subject: Integration planning: Day-1 priorities\nDate: 2025-09-14 12:30\nFrom: Devon Price <devon@riverbend.example>\nTo: Ethan Park, Jordan Lee\nCc: Caleb Morgan\n\nHi Ethan,\n\nAs we approach closing / Day-1, we want to make sure no operational items fall through the\ncracks.\n- Privacy and data processing: confirming assumptions.\n- Supply chain and component lead times: confirming assumptions.\n- Integration architecture and product roadmap: requesting documents.\n- Earn-out metrics and governance: flagging a potential issue.\n- Manufacturing yields and qa: seeking clarification.\nRedlines should be consolidated; propose using clause-by-clause comments rather than inline\nemail edits.\nEarn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to\navoid disputes.\n\nBest,\nDevon Price\nOperations Lead\nRiverbend\n"
+}

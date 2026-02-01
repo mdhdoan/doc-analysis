@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0057",
+  "title": "FinancialModelNote — Northstar / Riverbend — NDA — 2025-05-14",
+  "doc_type": "FinancialModelNote",
+  "stage": "NDA",
+  "date": "2025-05-14 12:45",
+  "from_entity": "Northstar",
+  "to_entity": "Northstar",
+  "confidentiality": "Confidential",
+  "tags": [
+    "key-person-dependency",
+    "nda",
+    "ops",
+    "pricing"
+  ],
+  "ground_truth_risks": [
+    "key_person_dependency"
+  ],
+  "all_text": "FINANCIAL MODEL NOTE — Northstar (INTERNAL)\nDate: 2025-05-14\nStage: NDA\n\nPurpose:\nDocument key modeling assumptions for the Riverbend acquisition.\n\nKey inputs:\n- Revenue: base case CAGR 17% with recurring mix increasing to 35% by Year 3\n- Hardware gross margin: 39% (sensitivity +/- 5%)\n- R&D: 18% of revenue to support firmware + sensor refresh cycle\n- Sales efficiency: payback 12 months; churn 5%\n\nValuation:\n- We modeled a base case with 18% ARR CAGR and a downside case with delayed component\navailability impacting shipments.\n\nSensitivities:\n- Component lead times and pricing\n- Top customer renewal and expansion\n- Earn-out payout probability\n\nRisks / mitigations:\n- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation\nplan needed.\n"
+}

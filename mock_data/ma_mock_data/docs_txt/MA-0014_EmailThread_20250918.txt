@@ -1,0 +1,24 @@
+Subject: Confirm NDA + data room access
+Date: 2025-09-18 14:15
+From: Avery Patel <avery@northstar.example>
+To: Omar Hassan, Grace Kim
+Cc: Miles Grant
+
+Hi Omar,
+
+Quick update on diligence. We’re closing gaps in the tracker and would like to confirm the
+following.
+- Valuation and comps: seeking clarification.
+- Supply chain and component lead times: proposing a working session.
+- Privacy and data processing: requesting documents.
+- Regulatory certifications: proposing a working session.
+Redlines should be consolidated; propose using clause-by-clause comments rather than inline
+email edits.
+Earn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to
+avoid disputes.
+Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.
+
+Best,
+Avery Patel
+HR Director
+Northstar

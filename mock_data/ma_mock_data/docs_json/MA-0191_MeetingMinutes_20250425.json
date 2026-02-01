@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0191",
+  "title": "MeetingMinutes — Northstar / Riverbend — DefinitiveAgreement — 2025-04-25",
+  "doc_type": "MeetingMinutes",
+  "stage": "DefinitiveAgreement",
+  "date": "2025-04-25 14:00",
+  "from_entity": "Advisor",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "cyber-incident",
+    "definitiveagreement",
+    "finance",
+    "pricing"
+  ],
+  "ground_truth_risks": [
+    "cyber_incident"
+  ],
+  "all_text": "MEETING MINUTES — Northstar x Riverbend\nStage: DefinitiveAgreement\nDate: 2025-04-25 14:00\nLocation: Video call\n\nAttendees:\n- Sofia Rios (VP Corp Dev), Avery Patel (HR Director), Jordan Lee (Director, IT Security),\nTalia Reyes (Head of Firmware), Samira Ali (HR Manager), Grace Kim (VP Engineering), Caleb\nMorgan (VP, HarborGate Bank)\n\nAgenda:\n- Deal rationale and synergies\n- Financial performance overview\n- Diligence workstreams status\n- Key risks / mitigations\n- Next steps and owners\n\nDiscussion highlights:\n- We see immediate pull-through by bundling Riverbend’s sensors with Northstar’s analytics\nsuite into a single subscription.\n- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin\nvolatility.\n- Security note: one phishing incident last year; remediation appears adequate but evidence\nis partial.\n\nDecisions:\n- Align on earn-out definitions and reporting cadence.\n- Confirm manufacturing capacity assumptions and backup suppliers.\n\nAction items:\n- Samira Ali: Share customer concentration by 2025-05-07.\n- Caleb Morgan: Draft export controls and cross-border shipments by 2025-05-02.\n- Grace Kim: Validate regulatory certifications by 2025-05-06.\n- Grace Kim: Provide supply chain and component lead times by 2025-05-05.\n- Samira Ali: Validate employee retention and option pool by 2025-05-02.\n"
+}

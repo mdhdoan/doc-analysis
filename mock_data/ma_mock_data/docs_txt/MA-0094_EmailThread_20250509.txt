@@ -1,0 +1,22 @@
+Subject: LOI terms: earn-out + exclusivity
+Date: 2025-05-09 18:00
+From: Priya Nandakumar <priya@northstar.example>
+To: Devon Price, Samira Ali
+
+Hi Devon,
+
+Thanks for the call earlier. Below are a few items to keep momentum.
+- Employee retention and option pool: confirming assumptions.
+- Valuation and comps: requesting documents.
+- Revenue recognition and arr definitions: flagging a potential issue.
+- Supply chain and component lead times: requesting documents.
+- Valuation and comps: flagging a potential issue.
+- Integration architecture and product roadmap: proposing a working session.
+We’ll maintain a weekly cadence: diligence sync on Tuesdays, steering committee on Fridays.
+Earn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to
+avoid disputes.
+
+Best,
+Priya Nandakumar
+Head of Product
+Northstar

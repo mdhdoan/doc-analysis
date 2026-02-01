@@ -1,0 +1,16 @@
+{
+  "doc_id": "MA-0131",
+  "title": "EmailThread — Northstar / Riverbend — Diligence — 2025-06-12",
+  "doc_type": "EmailThread",
+  "stage": "Diligence",
+  "date": "2025-06-12 09:30",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "diligence",
+    "tech"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "Subject: LOI terms: earn-out + exclusivity\nDate: 2025-06-12 09:30\nFrom: Grace Kim <grace@riverbend.example>\nTo: Ethan Park, Avery Patel\n\nHi Ethan,\n\nQuick update on diligence. We’re closing gaps in the tracker and would like to confirm the\nfollowing.\n- Regulatory certifications: confirming assumptions.\n- Employee retention and option pool: proposing a working session.\n- Customer concentration: flagging a potential issue.\n- Integration architecture and product roadmap: flagging a potential issue.\n- Regulatory certifications: proposing a working session.\n- Ip assignment and open-source licenses: flagging a potential issue.\nEarn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to\navoid disputes.\n\nBest,\nGrace Kim\nVP Engineering\nRiverbend\n"
+}

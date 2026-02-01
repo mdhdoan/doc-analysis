@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0200",
+  "title": "HRIntegrationPlan — Northstar / Riverbend — Diligence — 2025-06-19",
+  "doc_type": "HRIntegrationPlan",
+  "stage": "Diligence",
+  "date": "2025-06-19 13:00",
+  "from_entity": "Northstar",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "diligence",
+    "legal",
+    "pricing",
+    "quality-yield"
+  ],
+  "ground_truth_risks": [
+    "quality_yield"
+  ],
+  "all_text": "HR INTEGRATION PLAN — DAY-1 THROUGH DAY-90 (INTERNAL)\nDate: 2025-06-19\nStage: Diligence\n\nObjectives:\n- Retain key technical staff and customer-facing leaders\n- Harmonize compensation/benefits without disrupting operations\n- Communicate clearly and reduce uncertainty\n\nKey actions:\n- Offer retention bonuses to 8 key employees (engineering + sales).\n- Confirm role mapping and reporting lines within 2 weeks post-close.\n- Align benefits enrollment window; maintain current plans through Day-30.\n- Set up weekly Q&A sessions; publish integration FAQ.\n\nRisks:\n- Key-person dependency in firmware team; propose pairing and documentation sprint.\n- Culture mismatch between fast-moving hardware ops and software cadence.\n\nOwners:\n- Northstar HR: Jordan Lee\n- Riverbend HR: Elena Novak\n"
+}

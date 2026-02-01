@@ -1,0 +1,38 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: Marketing
+Date: 2025-06-14 09:15
+Location: Video call
+
+Attendees:
+- Priya Nandakumar (Head of Product), Avery Patel (HR Director), Ethan Park (CFO), Omar
+Hassan (Head of Sales), Noah Bennett (CEO), Elena Novak (CFO), Caleb Morgan (VP, HarborGate
+Bank)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- Cost synergies are primarily in duplicated back-office functions; revenue synergies depend
+on channel expansion into utilities and mining.
+- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+- Potential IP gap: two legacy firmware modules were created by contractors—assignment
+paperwork is incomplete.
+
+Decisions:
+- Confirm manufacturing capacity assumptions and backup suppliers.
+- Move cybersecurity deep-dive to next week; BluePeak to lead.
+- Align on earn-out definitions and reporting cadence.
+
+Action items:
+- Ethan Park: Share customer concentration by 2025-06-23.
+- Ethan Park: Share integration architecture and product roadmap by 2025-06-22.
+- Avery Patel: Draft customer concentration by 2025-06-24.
+- Omar Hassan: Draft integration architecture and product roadmap by 2025-06-22.
+- Elena Novak: Validate earn-out metrics and governance by 2025-06-27.
+- Caleb Morgan: Draft supply chain and component lead times by 2025-06-20.
+- Ethan Park: Draft synergy model by 2025-06-23.

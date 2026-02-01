@@ -1,0 +1,17 @@
+{
+  "doc_id": "MA-0091",
+  "title": "EmailThread — Northstar / Riverbend — Diligence — 2025-08-02",
+  "doc_type": "EmailThread",
+  "stage": "Diligence",
+  "date": "2025-08-02 11:30",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "customer-concentration",
+    "diligence",
+    "ops"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "Subject: Follow-up on customer concentration\nDate: 2025-08-02 11:30\nFrom: Sofia Rios <sofia@northstar.example>\nTo: Elena Novak, Grace Kim\n\nHi Elena,\n\nQuick update on diligence. We’re closing gaps in the tracker and would like to confirm the\nfollowing.\n- Manufacturing yields and qa: proposing a working session.\n- Synergy model: flagging a potential issue.\n- Integration architecture and product roadmap: seeking clarification.\n- Valuation and comps: proposing a working session.\n- Supply chain and component lead times: flagging a potential issue.\n- Earn-out metrics and governance: requesting documents.\nEarn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to\navoid disputes.\n\nBest,\nSofia Rios\nVP Corp Dev\nNorthstar\n"
+}

@@ -1,0 +1,35 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: Diligence
+Date: 2025-05-12 15:30
+Location: Video call
+
+Attendees:
+- Liam O'Neill (General Counsel), Maya Chen (CEO), Ethan Park (CFO), Talia Reyes (Head of
+Firmware), Omar Hassan (Head of Sales), Devon Price (Operations Lead), Caleb Morgan (VP,
+HarborGate Bank)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- The combined roadmap could reduce deployment time for customers by ~30–40% through tighter
+firmware-to-cloud integration.
+- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.
+
+Decisions:
+- Proceed with expanded customer calls (top 10 accounts).
+- Proceed with expanded customer calls (top 10 accounts).
+- Confirm manufacturing capacity assumptions and backup suppliers.
+
+Action items:
+- Devon Price: Provide sales pipeline and channel partners by 2025-05-20.
+- Ethan Park: Review valuation and comps by 2025-05-23.
+- Devon Price: Review IP assignment and open-source licenses by 2025-05-15.
+- Devon Price: Draft customer concentration by 2025-05-20.
+- Liam O'Neill: Share earn-out metrics and governance by 2025-05-21.

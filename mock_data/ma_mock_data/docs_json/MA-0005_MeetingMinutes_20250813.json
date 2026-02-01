@@ -1,0 +1,19 @@
+{
+  "doc_id": "MA-0005",
+  "title": "MeetingMinutes — Northstar / Riverbend — Diligence — 2025-08-13",
+  "doc_type": "MeetingMinutes",
+  "stage": "Diligence",
+  "date": "2025-08-13 17:45",
+  "from_entity": "Northstar",
+  "to_entity": "Northstar",
+  "confidentiality": "Confidential",
+  "tags": [
+    "diligence",
+    "open-source-license",
+    "tech"
+  ],
+  "ground_truth_risks": [
+    "open_source_license"
+  ],
+  "all_text": "MEETING MINUTES — Northstar x Riverbend\nStage: Diligence\nDate: 2025-08-13 17:45\nLocation: Video call\n\nAttendees:\n- Ethan Park (CFO), Jordan Lee (Director, IT Security), Avery Patel (HR Director), Samira\nAli (HR Manager), Devon Price (Operations Lead), Omar Hassan (Head of Sales)\n\nAgenda:\n- Deal rationale and synergies\n- Financial performance overview\n- Diligence workstreams status\n- Key risks / mitigations\n- Next steps and owners\n\nDiscussion highlights:\n- We see immediate pull-through by bundling Riverbend’s sensors with Northstar’s analytics\nsuite into a single subscription.\n- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin\nvolatility.\n- Security note: one phishing incident last year; remediation appears adequate but evidence\nis partial.\n\nDecisions:\n- Move cybersecurity deep-dive to next week; BluePeak to lead.\n- Confirm manufacturing capacity assumptions and backup suppliers.\n- Move cybersecurity deep-dive to next week; BluePeak to lead.\n\nAction items:\n- Devon Price: Provide employee retention and option pool by 2025-08-16.\n- Devon Price: Draft synergy model by 2025-08-20.\n- Avery Patel: Review cybersecurity posture and incident history by 2025-08-22.\n- Ethan Park: Draft revenue recognition and ARR definitions by 2025-08-27.\n- Jordan Lee: Provide manufacturing yields and QA by 2025-08-24.\n- Omar Hassan: Share earn-out metrics and governance by 2025-08-20.\n"
+}

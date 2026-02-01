@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0146",
+  "title": "FinancialModelNote — Northstar / Riverbend — Marketing — 2025-07-24",
+  "doc_type": "FinancialModelNote",
+  "stage": "Marketing",
+  "date": "2025-07-24 12:45",
+  "from_entity": "Northstar",
+  "to_entity": "Northstar",
+  "confidentiality": "Confidential",
+  "tags": [
+    "cyber-incident",
+    "earnout",
+    "marketing",
+    "tech"
+  ],
+  "ground_truth_risks": [
+    "cyber_incident"
+  ],
+  "all_text": "FINANCIAL MODEL NOTE — Northstar (INTERNAL)\nDate: 2025-07-24\nStage: Marketing\n\nPurpose:\nDocument key modeling assumptions for the Riverbend acquisition.\n\nKey inputs:\n- Revenue: base case CAGR 22% with recurring mix increasing to 53% by Year 3\n- Hardware gross margin: 43% (sensitivity +/- 5%)\n- R&D: 15% of revenue to support firmware + sensor refresh cycle\n- Sales efficiency: payback 17 months; churn 5%\n\nValuation:\n- Earn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to\navoid disputes.\n\nSensitivities:\n- Component lead times and pricing\n- Top customer renewal and expansion\n- Earn-out payout probability\n\nRisks / mitigations:\n- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.\n"
+}

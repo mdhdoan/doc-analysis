@@ -1,0 +1,23 @@
+MUTUAL NON-DISCLOSURE AGREEMENT (DRAFT)
+
+This Mutual Non-Disclosure Agreement (“Agreement”) is entered into as of October 11, 2025
+between Northstar Industrial Analytics Inc. (“Disclosing Party” or “Northstar”) and
+Riverbend Sensorworks Ltd. (“Receiving Party” or “Riverbend”).
+
+1. Purpose. The parties wish to explore a potential business transaction, including a
+merger, acquisition, or other strategic relationship (“Transaction”).
+2. Confidential Information. Includes non-public technical, financial, customer, employee,
+and operational information disclosed in any form.
+3. Exclusions. Information that is publicly available, independently developed, or
+rightfully received from a third party is excluded.
+4. Obligations. Receiving Party shall protect Confidential Information using at least
+reasonable care and not disclose it except to Representatives who need to know.
+5. Term. Confidentiality obligations survive for 3 years from the Effective Date.
+6. Return/Destruction. Upon request, Receiving Party will return or destroy Confidential
+Information, subject to legal retention requirements.
+7. No License / No Obligation. No rights are granted except as expressly stated. Neither
+party is obligated to proceed with the Transaction.
+
+Signatures:
+Northstar: ____________________   Name/Title: Jordan Lee, HR Director
+Riverbend: ____________________   Name/Title: Omar Hassan, Head of Sales

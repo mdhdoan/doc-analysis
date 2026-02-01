@@ -1,0 +1,16 @@
+{
+  "doc_id": "MA-0038",
+  "title": "DiligenceResponse — Northstar / Riverbend — Marketing — 2025-08-26",
+  "doc_type": "DiligenceResponse",
+  "stage": "Marketing",
+  "date": "2025-08-26 11:00",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Confidential",
+  "tags": [
+    "finance",
+    "marketing"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "DILIGENCE RESPONSES — STATUS UPDATE\nCompany: Riverbend Sensorworks Ltd.\nTo: Northstar diligence team\nDate: 2025-08-26\n\nSummary:\n- We have updated the tracker for the newest uploads.\n- A few items require legal review due to customer confidentiality.\n\nStatus by request:\n- Request 1: Needs clarification. We will provide an updated export after month-end close.\n- Request 6: Needs clarification. Not applicable; no subsidiaries or foreign entities.\n- Request 10: In progress. See memo in /Legal/IP; assignment executed but notarization\npending.\n- Request 13: Pending legal review. Document exists but contains customer-sensitive pricing;\nshared under separate cover.\n- Request 14: In progress. See memo in /Legal/IP; assignment executed but notarization\npending.\n- Request 15: In progress. Uploaded to data room folder /Finance/2024 with supporting\nschedules.\n- Request 17: Pending legal review. Document exists but contains customer-sensitive pricing;\nshared under separate cover.\n\nFlagged items:\n- Potential IP gap: two legacy firmware modules were created by contractors—assignment\npaperwork is incomplete.\n\nNext update: 2025-08-29\n"
+}

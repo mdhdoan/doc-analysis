@@ -1,0 +1,17 @@
+{
+  "doc_id": "MA-0044",
+  "title": "IntegrationStatusUpdate — Northstar / Riverbend — DefinitiveAgreement — 2025-05-17",
+  "doc_type": "IntegrationStatusUpdate",
+  "stage": "DefinitiveAgreement",
+  "date": "2025-05-17 18:15",
+  "from_entity": "Northstar",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "definitiveagreement",
+    "finance",
+    "working-capital"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "INTEGRATION STATUS UPDATE — WEEK 10 (INTERNAL)\nDate: 2025-05-17\nStage: DefinitiveAgreement\n\nWorkstreams:\n1) Product & Engineering\n- Firmware repo migration: in progress\n- Telemetry integration: in progress\n\n2) IT / Security\n- SSO rollout: complete\n- Log centralization: planned\n\n3) Commercial\n- Bundle pricing: approved\n- Top-customer outreach: scheduled\n\n4) People\n- Role mapping: underway\n- Retention offers: accepted\n\nIssues / risks:\n- Potential IP gap: two legacy firmware modules were created by contractors—assignment\npaperwork is incomplete.\n\nNext week focus:\n- Close remaining data room gaps\n"
+}

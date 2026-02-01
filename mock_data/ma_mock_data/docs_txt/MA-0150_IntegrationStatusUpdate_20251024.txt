@@ -1,0 +1,27 @@
+INTEGRATION STATUS UPDATE — WEEK 10 (INTERNAL)
+Date: 2025-10-24
+Stage: Closing
+
+Workstreams:
+1) Product & Engineering
+- Firmware repo migration: blocked
+- Telemetry integration: in progress
+
+2) IT / Security
+- SSO rollout: planned
+- Log centralization: in progress
+
+3) Commercial
+- Bundle pricing: approved
+- Top-customer outreach: complete
+
+4) People
+- Role mapping: underway
+- Retention offers: accepted
+
+Issues / risks:
+- Security note: one phishing incident last year; remediation appears adequate but evidence
+is partial.
+
+Next week focus:
+- Close remaining data room gaps

@@ -1,0 +1,30 @@
+LEGAL MEMO — PURCHASE AGREEMENT REDLINE SUMMARY (INTERNAL)
+Date: 2025-05-11
+Stage: Diligence
+Prepared by: Miles Grant (Pine & Alder Legal LLP)
+
+Key redline themes:
+1) Representations & warranties
+- IP ownership: request stronger rep on firmware source code and contractor assignments.
+- Compliance: include privacy/security reps appropriate for device telemetry and support
+portals.
+
+2) Indemnities
+- Proposed cap: 10% of enterprise value; survival 18 months for general reps.
+- Special indemnity for known issues: customer concentration renewal risk and open-source
+license audit findings.
+
+3) Covenants
+- Employee retention plan and non-solicitation.
+- Interim operations: limitations on new supplier commitments without Buyer consent.
+
+4) Closing conditions
+- Bring-down of reps; receipt of key third-party consents (top customer + major supplier).
+
+Open questions:
+- Definition of “Material Adverse Effect”
+- Earn-out dispute resolution and audit rights
+
+Note:
+- Redlines should be consolidated; propose using clause-by-clause comments rather than
+inline email edits.

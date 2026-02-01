@@ -1,0 +1,21 @@
+Subject: Cyber due diligence: evidence request
+Date: 2025-05-14 11:30
+From: Miles Grant <miles@advisor.example>
+To: Jordan Lee, Omar Hassan
+Cc: Kara Whitman
+
+Hi Jordan,
+
+Following our last discussion, here are the key items we need to align on before moving
+forward.
+- Cybersecurity posture and incident history: confirming assumptions.
+- Synergy model: seeking clarification.
+- Cybersecurity posture and incident history: flagging a potential issue.
+- Synergy model: flagging a potential issue.
+We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.
+
+Best,
+Miles Grant
+Director, Cedarstone Advisory
+Advisor

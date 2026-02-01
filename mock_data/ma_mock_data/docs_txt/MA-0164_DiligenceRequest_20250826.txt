@@ -1,0 +1,32 @@
+DUE DILIGENCE REQUEST LIST
+Buyer: Northstar Industrial Analytics Inc.
+Company: Riverbend Sensorworks Ltd.
+Stage: DefinitiveAgreement
+Date: 2025-08-26
+
+Workstreams:
+A. Corporate / Legal
+B. Finance / Tax
+C. Technology / IP
+D. Cybersecurity / Privacy
+E. Commercial / Customers
+F. Operations / Supply Chain
+G. HR / Benefits
+
+Requests:
+1. Upload employee option grants (last 3 years if applicable).
+2. Share employee option grants (last 3 years if applicable).
+3. Provide supplier agreements (last 3 years if applicable).
+4. Upload supplier agreements (last 3 years if applicable).
+5. Upload security policies (last 3 years if applicable).
+6. Upload board minutes (last 3 years if applicable).
+7. Upload board minutes (last 3 years if applicable).
+8. Provide employee option grants (last 3 years if applicable).
+9. Upload IP assignments (last 3 years if applicable).
+10. Share financial statements (last 3 years if applicable).
+11. Provide supplier agreements (last 3 years if applicable).
+12. Provide IP assignments (last 3 years if applicable).
+
+Notes:
+- Please label uploads with request number and date.
+- If an item is not applicable, mark N/A with a brief explanation.

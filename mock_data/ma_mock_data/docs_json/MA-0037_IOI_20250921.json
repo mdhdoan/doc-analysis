@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0037",
+  "title": "IOI — Northstar / Riverbend — Integration — 2025-09-21",
+  "doc_type": "IOI",
+  "stage": "Integration",
+  "date": "2025-09-21 17:45",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Confidential",
+  "tags": [
+    "escrow",
+    "integration",
+    "key-person-dependency",
+    "ops"
+  ],
+  "ground_truth_risks": [
+    "key_person_dependency"
+  ],
+  "all_text": "INDICATION OF INTEREST (NON-BINDING)\nFrom: Northstar Industrial Analytics Inc.\nTo: Riverbend Sensorworks Ltd.\nDate: September 21, 2025\n\nWe are pleased to submit a non-binding indication of interest to acquire 100% of the equity\nof Riverbend.\n\nProposed consideration:\n- Enterprise Value: approximately $119M, subject to diligence and customary adjustments.\n- Structure: cash at closing; potential earn-out tied to ARR and shipment volume.\n- Timeline: diligence completion within 6–8 weeks; definitive agreement shortly thereafter.\n\nKey assumptions:\n- Continued access to key engineering staff for integration support.\n- Confirmed ownership/assignment of firmware and radio stack IP.\n- No material undisclosed cybersecurity incidents or data breaches.\n\nWe see immediate pull-through by bundling Riverbend’s sensors with Northstar’s analytics\nsuite into a single subscription.\n\nThis IOI is confidential and non-binding.\n"
+}

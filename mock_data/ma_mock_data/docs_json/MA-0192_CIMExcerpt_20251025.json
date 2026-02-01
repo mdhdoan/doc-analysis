@@ -1,0 +1,19 @@
+{
+  "doc_id": "MA-0192",
+  "title": "CIMExcerpt — Northstar / Riverbend — Diligence — 2025-10-25",
+  "doc_type": "CIMExcerpt",
+  "stage": "Diligence",
+  "date": "2025-10-25 09:00",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "diligence",
+    "supply-chain",
+    "tech"
+  ],
+  "ground_truth_risks": [
+    "supply_chain"
+  ],
+  "all_text": "CONFIDENTIAL INFORMATION MEMORANDUM (EXCERPT)\nTarget: Riverbend Sensorworks Ltd.\nDate: October 25, 2025\n\nCustomers\nDeployments skew mid-market; renewals are tied to replacement cycles and maintenance\ncontracts.\n\nKey notes:\n- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation\nplan needed.\n- We modeled a base case with 18% ARR CAGR and a downside case with delayed component\navailability impacting shipments.\nOperations\nManufacturing is outsourced with final QA performed in-house; component lead times are the\nprimary constraint.\n\nKey notes:\n- Potential IP gap: two legacy firmware modules were created by contractors—assignment\npaperwork is incomplete.\n- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin\nvolatility.\nProduct\nRiverbend’s platform combines battery-efficient firmware, mesh networking, and secure OTA\nupdates.\n\nKey notes:\n- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.\n- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin\nvolatility.\n"
+}

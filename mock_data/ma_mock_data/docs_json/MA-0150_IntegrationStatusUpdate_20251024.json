@@ -1,0 +1,17 @@
+{
+  "doc_id": "MA-0150",
+  "title": "IntegrationStatusUpdate — Northstar / Riverbend — Closing — 2025-10-24",
+  "doc_type": "IntegrationStatusUpdate",
+  "stage": "Closing",
+  "date": "2025-10-24 08:15",
+  "from_entity": "Northstar",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "closing",
+    "commercial",
+    "earnout"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "INTEGRATION STATUS UPDATE — WEEK 10 (INTERNAL)\nDate: 2025-10-24\nStage: Closing\n\nWorkstreams:\n1) Product & Engineering\n- Firmware repo migration: blocked\n- Telemetry integration: in progress\n\n2) IT / Security\n- SSO rollout: planned\n- Log centralization: in progress\n\n3) Commercial\n- Bundle pricing: approved\n- Top-customer outreach: complete\n\n4) People\n- Role mapping: underway\n- Retention offers: accepted\n\nIssues / risks:\n- Security note: one phishing incident last year; remediation appears adequate but evidence\nis partial.\n\nNext week focus:\n- Close remaining data room gaps\n"
+}

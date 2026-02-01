@@ -1,0 +1,22 @@
+Subject: Integration planning: Day-1 priorities
+Date: 2025-05-23 09:45
+From: Talia Reyes <talia@riverbend.example>
+To: Maya Chen, Liam O'Neill
+Cc: Renee Alvarez
+
+Hi Maya,
+
+Quick update on diligence. We’re closing gaps in the tracker and would like to confirm the
+following.
+- Earn-out metrics and governance: seeking clarification.
+- Integration architecture and product roadmap: requesting documents.
+- Valuation and comps: seeking clarification.
+- Regulatory certifications: proposing a working session.
+- Synergy model: seeking clarification.
+We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.
+
+Best,
+Talia Reyes
+Head of Firmware
+Riverbend

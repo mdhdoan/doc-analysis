@@ -1,0 +1,35 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: Marketing
+Date: 2025-09-12 15:45
+Location: Video call
+
+Attendees:
+- Jordan Lee (Director, IT Security), Maya Chen (CEO), Sofia Rios (VP Corp Dev), Talia Reyes
+(Head of Firmware), Devon Price (Operations Lead), Samira Ali (HR Manager), Miles Grant
+(Director, Cedarstone Advisory)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- We see immediate pull-through by bundling Riverbend’s sensors with Northstar’s analytics
+suite into a single subscription.
+- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.
+
+Decisions:
+- Align on earn-out definitions and reporting cadence.
+- Request updated firmware IP assignment documentation.
+- Request updated firmware IP assignment documentation.
+- Request updated firmware IP assignment documentation.
+
+Action items:
+- Jordan Lee: Validate earn-out metrics and governance by 2025-09-18.
+- Miles Grant: Validate supply chain and component lead times by 2025-09-16.
+- Samira Ali: Review integration architecture and product roadmap by 2025-09-24.
+- Samira Ali: Validate supply chain and component lead times by 2025-09-21.

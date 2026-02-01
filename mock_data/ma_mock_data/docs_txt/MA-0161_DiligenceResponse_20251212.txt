@@ -1,0 +1,22 @@
+DILIGENCE RESPONSES — STATUS UPDATE
+Company: Riverbend Sensorworks Ltd.
+To: Northstar diligence team
+Date: 2025-12-12
+
+Summary:
+- We have updated the tracker for the newest uploads.
+- A few items require legal review due to customer confidentiality.
+
+Status by request:
+- Request 4: Needs clarification. Document exists but contains customer-sensitive pricing;
+shared under separate cover.
+- Request 10: Pending legal review. Not applicable; no subsidiaries or foreign entities.
+- Request 11: In progress. We will provide an updated export after month-end close.
+- Request 13: Pending legal review. We will provide an updated export after month-end close.
+- Request 14: Needs clarification. Not applicable; no subsidiaries or foreign entities.
+
+Flagged items:
+- Potential IP gap: two legacy firmware modules were created by contractors—assignment
+paperwork is incomplete.
+
+Next update: 2025-12-15

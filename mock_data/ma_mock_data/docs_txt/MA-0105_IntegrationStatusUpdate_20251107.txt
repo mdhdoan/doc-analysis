@@ -1,0 +1,26 @@
+INTEGRATION STATUS UPDATE — WEEK 4 (INTERNAL)
+Date: 2025-11-07
+Stage: Indication
+
+Workstreams:
+1) Product & Engineering
+- Firmware repo migration: complete
+- Telemetry integration: complete
+
+2) IT / Security
+- SSO rollout: pilot
+- Log centralization: in progress
+
+3) Commercial
+- Bundle pricing: approved
+- Top-customer outreach: complete
+
+4) People
+- Role mapping: underway
+- Retention offers: accepted
+
+Issues / risks:
+- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.
+
+Next week focus:
+- Launch customer communications

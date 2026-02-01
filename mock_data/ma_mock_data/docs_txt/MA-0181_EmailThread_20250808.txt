@@ -1,0 +1,24 @@
+Subject: Confirm NDA + data room access
+Date: 2025-08-08 12:45
+From: Talia Reyes <talia@riverbend.example>
+To: Priya Nandakumar, Liam O'Neill
+Cc: Renee Alvarez
+
+Hi Priya,
+
+Quick update on diligence. We’re closing gaps in the tracker and would like to confirm the
+following.
+- Regulatory certifications: confirming assumptions.
+- Integration architecture and product roadmap: seeking clarification.
+- Manufacturing yields and qa: requesting documents.
+- Integration architecture and product roadmap: seeking clarification.
+- Cybersecurity posture and incident history: seeking clarification.
+Redlines should be consolidated; propose using clause-by-clause comments rather than inline
+email edits.
+We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.
+
+Best,
+Talia Reyes
+Head of Firmware
+Riverbend

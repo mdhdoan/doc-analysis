@@ -1,0 +1,29 @@
+CONFIDENTIAL INFORMATION MEMORANDUM (EXCERPT)
+Target: Riverbend Sensorworks Ltd.
+Date: July 03, 2025
+
+Market
+Industrial IoT adoption is accelerating as operators seek predictive maintenance and remote
+monitoring.
+
+Key notes:
+- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.
+- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+Product
+Riverbend’s platform combines battery-efficient firmware, mesh networking, and secure OTA
+updates.
+
+Key notes:
+- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.
+- We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.
+Financials
+Revenue mix is shifting toward recurring software/maintenance; hardware remains a meaningful
+component.
+
+Key notes:
+- Security note: one phishing incident last year; remediation appears adequate but evidence
+is partial.
+- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.

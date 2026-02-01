@@ -1,0 +1,22 @@
+Subject: Confirm NDA + data room access
+Date: 2025-12-10 10:30
+From: Caleb Morgan <caleb@advisor.example>
+To: Sofia Rios, Elena Novak
+
+Hi Sofia,
+
+Quick update on diligence. We’re closing gaps in the tracker and would like to confirm the
+following.
+- Customer concentration: confirming assumptions.
+- Employee retention and option pool: proposing a working session.
+- Integration architecture and product roadmap: seeking clarification.
+- Valuation and comps: proposing a working session.
+- Regulatory certifications: proposing a working session.
+Please route questions through the diligence tracker to keep responses auditable.
+Earn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to
+avoid disputes.
+
+Best,
+Caleb Morgan
+VP, HarborGate Bank
+Advisor

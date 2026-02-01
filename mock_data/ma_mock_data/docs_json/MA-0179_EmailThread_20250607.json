@@ -1,0 +1,16 @@
+{
+  "doc_id": "MA-0179",
+  "title": "EmailThread — Northstar / Riverbend — LOI — 2025-06-07",
+  "doc_type": "EmailThread",
+  "stage": "LOI",
+  "date": "2025-06-07 09:00",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "hr",
+    "loi"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "Subject: Purchase agreement: key open items\nDate: 2025-06-07 09:00\nFrom: Priya Nandakumar <priya@northstar.example>\nTo: Noah Bennett, Elena Novak\n\nHi Noah,\n\nFollowing our last discussion, here are the key items we need to align on before moving\nforward.\n- Sales pipeline and channel partners: flagging a potential issue.\n- Revenue recognition and arr definitions: requesting documents.\n- Synergy model: confirming assumptions.\nRedlines should be consolidated; propose using clause-by-clause comments rather than inline\nemail edits.\nSupply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation\nplan needed.\n\nBest,\nPriya Nandakumar\nHead of Product\nNorthstar\n"
+}

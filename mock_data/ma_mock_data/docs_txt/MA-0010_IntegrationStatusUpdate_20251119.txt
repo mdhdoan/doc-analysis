@@ -1,0 +1,27 @@
+INTEGRATION STATUS UPDATE — WEEK 9 (INTERNAL)
+Date: 2025-11-19
+Stage: Marketing
+
+Workstreams:
+1) Product & Engineering
+- Firmware repo migration: in progress
+- Telemetry integration: scoping
+
+2) IT / Security
+- SSO rollout: pilot
+- Log centralization: planned
+
+3) Commercial
+- Bundle pricing: drafted
+- Top-customer outreach: complete
+
+4) People
+- Role mapping: complete
+- Retention offers: pending
+
+Issues / risks:
+- Potential IP gap: two legacy firmware modules were created by contractors—assignment
+paperwork is incomplete.
+
+Next week focus:
+- Close remaining data room gaps

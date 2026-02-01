@@ -1,0 +1,16 @@
+{
+  "doc_id": "MA-0058",
+  "title": "EmailThread — Northstar / Riverbend — Integration — 2025-06-19",
+  "doc_type": "EmailThread",
+  "stage": "Integration",
+  "date": "2025-06-19 09:30",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "hr",
+    "integration"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "Subject: Integration planning: Day-1 priorities\nDate: 2025-06-19 09:30\nFrom: Samira Ali <samira@riverbend.example>\nTo: Priya Nandakumar, Ethan Park\n\nHi Priya,\n\nAs we approach closing / Day-1, we want to make sure no operational items fall through the\ncracks.\n- Customer concentration: seeking clarification.\n- Manufacturing yields and qa: flagging a potential issue.\n- Regulatory certifications: seeking clarification.\n- Integration architecture and product roadmap: confirming assumptions.\nWe’ll maintain a weekly cadence: diligence sync on Tuesdays, steering committee on Fridays.\nSupply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation\nplan needed.\n\nBest,\nSamira Ali\nHR Manager\nRiverbend\n"
+}

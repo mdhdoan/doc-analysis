@@ -1,0 +1,18 @@
+{
+  "doc_id": "MA-0089",
+  "title": "IntegrationStatusUpdate — Northstar / Riverbend — LOI — 2025-06-05",
+  "doc_type": "IntegrationStatusUpdate",
+  "stage": "LOI",
+  "date": "2025-06-05 11:00",
+  "from_entity": "Northstar",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "data-room",
+    "key-person-dependency",
+    "loi",
+    "tech"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "INTEGRATION STATUS UPDATE — WEEK 4 (INTERNAL)\nDate: 2025-06-05\nStage: LOI\n\nWorkstreams:\n1) Product & Engineering\n- Firmware repo migration: complete\n- Telemetry integration: complete\n\n2) IT / Security\n- SSO rollout: planned\n- Log centralization: in progress\n\n3) Commercial\n- Bundle pricing: drafted\n- Top-customer outreach: complete\n\n4) People\n- Role mapping: underway\n- Retention offers: issued\n\nIssues / risks:\n- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation\nplan needed.\n\nNext week focus:\n- Close remaining data room gaps\n"
+}

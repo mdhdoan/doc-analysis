@@ -1,0 +1,17 @@
+{
+  "doc_id": "MA-0019",
+  "title": "FinancialModelNote — Northstar / Riverbend — Integration — 2025-09-10",
+  "doc_type": "FinancialModelNote",
+  "stage": "Integration",
+  "date": "2025-09-10 15:45",
+  "from_entity": "Northstar",
+  "to_entity": "Northstar",
+  "confidentiality": "Confidential",
+  "tags": [
+    "escrow",
+    "integration",
+    "legal"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "FINANCIAL MODEL NOTE — Northstar (INTERNAL)\nDate: 2025-09-10\nStage: Integration\n\nPurpose:\nDocument key modeling assumptions for the Riverbend acquisition.\n\nKey inputs:\n- Revenue: base case CAGR 15% with recurring mix increasing to 55% by Year 3\n- Hardware gross margin: 38% (sensitivity +/- 5%)\n- R&D: 22% of revenue to support firmware + sensor refresh cycle\n- Sales efficiency: payback 17 months; churn 9%\n\nValuation:\n- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin\nvolatility.\n\nSensitivities:\n- Component lead times and pricing\n- Top customer renewal and expansion\n- Earn-out payout probability\n\nRisks / mitigations:\n- Security note: one phishing incident last year; remediation appears adequate but evidence\nis partial.\n"
+}

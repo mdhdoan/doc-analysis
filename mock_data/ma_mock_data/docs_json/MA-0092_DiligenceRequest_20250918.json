@@ -1,0 +1,17 @@
+{
+  "doc_id": "MA-0092",
+  "title": "DiligenceRequest — Northstar / Riverbend — Diligence — 2025-09-18",
+  "doc_type": "DiligenceRequest",
+  "stage": "Diligence",
+  "date": "2025-09-18 12:00",
+  "from_entity": "Northstar",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "data-room",
+    "diligence",
+    "legal"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "DUE DILIGENCE REQUEST LIST\nBuyer: Northstar Industrial Analytics Inc.\nCompany: Riverbend Sensorworks Ltd.\nStage: Diligence\nDate: 2025-09-18\n\nWorkstreams:\nA. Corporate / Legal\nB. Finance / Tax\nC. Technology / IP\nD. Cybersecurity / Privacy\nE. Commercial / Customers\nF. Operations / Supply Chain\nG. HR / Benefits\n\nRequests:\n1. Provide board minutes (last 3 years if applicable).\n2. Share employee option grants (last 3 years if applicable).\n3. Share financial statements (last 3 years if applicable).\n4. Share board minutes (last 3 years if applicable).\n5. Upload security policies (last 3 years if applicable).\n6. Share security policies (last 3 years if applicable).\n7. Share board minutes (last 3 years if applicable).\n8. Share financial statements (last 3 years if applicable).\n9. Provide employee option grants (last 3 years if applicable).\n10. Upload financial statements (last 3 years if applicable).\n11. Share IP assignments (last 3 years if applicable).\n12. Share security policies (last 3 years if applicable).\n13. Share customer contracts (last 3 years if applicable).\n14. Upload employee option grants (last 3 years if applicable).\n15. Provide supplier agreements (last 3 years if applicable).\n\nNotes:\n- Please label uploads with request number and date.\n- If an item is not applicable, mark N/A with a brief explanation.\n"
+}

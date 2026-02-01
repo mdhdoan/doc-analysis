@@ -1,0 +1,23 @@
+Subject: Follow-up on customer concentration
+Date: 2025-06-15 09:15
+From: Caleb Morgan <caleb@advisor.example>
+To: Maya Chen, Samira Ali
+
+Hi Maya,
+
+Thanks for the call earlier. Below are a few items to keep momentum.
+- Supply chain and component lead times: confirming assumptions.
+- Sales pipeline and channel partners: seeking clarification.
+- Supply chain and component lead times: proposing a working session.
+- Manufacturing yields and qa: confirming assumptions.
+Redlines should be consolidated; propose using clause-by-clause comments rather than inline
+email edits.
+We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.
+Security note: one phishing incident last year; remediation appears adequate but evidence is
+partial.
+
+Best,
+Caleb Morgan
+VP, HarborGate Bank
+Advisor

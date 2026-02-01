@@ -1,0 +1,36 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: Indication
+Date: 2025-10-22 18:30
+Location: Video call
+
+Attendees:
+- Ethan Park (CFO), Jordan Lee (Director, IT Security), Avery Patel (HR Director), Omar
+Hassan (Head of Sales), Devon Price (Operations Lead), Elena Novak (CFO), Miles Grant
+(Director, Cedarstone Advisory)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- The combined roadmap could reduce deployment time for customers by ~30–40% through tighter
+firmware-to-cloud integration.
+- Earn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to
+avoid disputes.
+- Security note: one phishing incident last year; remediation appears adequate but evidence
+is partial.
+
+Decisions:
+- Request updated firmware IP assignment documentation.
+- Request updated firmware IP assignment documentation.
+- Request updated firmware IP assignment documentation.
+
+Action items:
+- Miles Grant: Draft customer concentration by 2025-11-03.
+- Miles Grant: Provide sales pipeline and channel partners by 2025-10-26.
+- Ethan Park: Validate earn-out metrics and governance by 2025-11-04.
+- Ethan Park: Provide manufacturing yields and QA by 2025-11-02.
+- Omar Hassan: Share export controls and cross-border shipments by 2025-10-30.

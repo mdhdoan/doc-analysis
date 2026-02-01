@@ -1,0 +1,22 @@
+Subject: Purchase agreement: key open items
+Date: 2025-11-02 13:15
+From: Talia Reyes <talia@riverbend.example>
+To: Sofia Rios, Jordan Lee
+
+Hi Sofia,
+
+Quick update on diligence. We’re closing gaps in the tracker and would like to confirm the
+following.
+- Supply chain and component lead times: confirming assumptions.
+- Synergy model: flagging a potential issue.
+- Revenue recognition and arr definitions: flagging a potential issue.
+- Customer concentration: proposing a working session.
+- Synergy model: proposing a working session.
+- Synergy model: flagging a potential issue.
+Security note: one phishing incident last year; remediation appears adequate but evidence is
+partial.
+
+Best,
+Talia Reyes
+Head of Firmware
+Riverbend

@@ -1,0 +1,19 @@
+{
+  "doc_id": "MA-0046",
+  "title": "EmailThread — Northstar / Riverbend — Outreach — 2025-06-15",
+  "doc_type": "EmailThread",
+  "stage": "Outreach",
+  "date": "2025-06-15 09:15",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Confidential",
+  "tags": [
+    "hr",
+    "key-person-dependency",
+    "outreach"
+  ],
+  "ground_truth_risks": [
+    "key_person_dependency"
+  ],
+  "all_text": "Subject: Follow-up on customer concentration\nDate: 2025-06-15 09:15\nFrom: Caleb Morgan <caleb@advisor.example>\nTo: Maya Chen, Samira Ali\n\nHi Maya,\n\nThanks for the call earlier. Below are a few items to keep momentum.\n- Supply chain and component lead times: confirming assumptions.\n- Sales pipeline and channel partners: seeking clarification.\n- Supply chain and component lead times: proposing a working session.\n- Manufacturing yields and qa: confirming assumptions.\nRedlines should be consolidated; propose using clause-by-clause comments rather than inline\nemail edits.\nWe modeled a base case with 18% ARR CAGR and a downside case with delayed component\navailability impacting shipments.\nSecurity note: one phishing incident last year; remediation appears adequate but evidence is\npartial.\n\nBest,\nCaleb Morgan\nVP, HarborGate Bank\nAdvisor\n"
+}

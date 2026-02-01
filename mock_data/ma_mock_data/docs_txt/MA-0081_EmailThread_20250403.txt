@@ -1,0 +1,20 @@
+Subject: Integration planning: Day-1 priorities
+Date: 2025-04-03 16:15
+From: Avery Patel <avery@northstar.example>
+To: Grace Kim, Samira Ali
+Cc: Kara Whitman
+
+Hi Grace,
+
+Quick update on diligence. We’re closing gaps in the tracker and would like to confirm the
+following.
+- Employee retention and option pool: flagging a potential issue.
+- Ip assignment and open-source licenses: flagging a potential issue.
+- Integration architecture and product roadmap: requesting documents.
+Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+
+Best,
+Avery Patel
+HR Director
+Northstar

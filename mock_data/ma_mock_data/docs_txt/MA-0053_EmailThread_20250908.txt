@@ -1,0 +1,18 @@
+Subject: Purchase agreement: key open items
+Date: 2025-09-08 17:45
+From: Caleb Morgan <caleb@advisor.example>
+To: Avery Patel, Devon Price
+
+Hi Avery,
+
+As we approach closing / Day-1, we want to make sure no operational items fall through the
+cracks.
+- Supply chain and component lead times: requesting documents.
+- Ip assignment and open-source licenses: confirming assumptions.
+- Earn-out metrics and governance: confirming assumptions.
+We’ll maintain a weekly cadence: diligence sync on Tuesdays, steering committee on Fridays.
+
+Best,
+Caleb Morgan
+VP, HarborGate Bank
+Advisor

@@ -1,0 +1,18 @@
+{
+  "doc_id": "MA-0136",
+  "title": "EmailThread — Northstar / Riverbend — Diligence — 2025-05-20",
+  "doc_type": "EmailThread",
+  "stage": "Diligence",
+  "date": "2025-05-20 09:30",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Confidential",
+  "tags": [
+    "data-room",
+    "diligence",
+    "key-person-dependency",
+    "ops"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "Subject: Cyber due diligence: evidence request\nDate: 2025-05-20 09:30\nFrom: Caleb Morgan <caleb@advisor.example>\nTo: Priya Nandakumar, Elena Novak\n\nHi Priya,\n\nQuick update on diligence. We’re closing gaps in the tracker and would like to confirm the\nfollowing.\n- Supply chain and component lead times: requesting documents.\n- Revenue recognition and arr definitions: flagging a potential issue.\n- Sales pipeline and channel partners: flagging a potential issue.\n\nBest,\nCaleb Morgan\nVP, HarborGate Bank\nAdvisor\n"
+}

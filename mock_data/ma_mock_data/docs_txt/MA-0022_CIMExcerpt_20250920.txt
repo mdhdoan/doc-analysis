@@ -1,0 +1,30 @@
+CONFIDENTIAL INFORMATION MEMORANDUM (EXCERPT)
+Target: Riverbend Sensorworks Ltd.
+Date: September 20, 2025
+
+Financials
+Revenue mix is shifting toward recurring software/maintenance; hardware remains a meaningful
+component.
+
+Key notes:
+- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation
+plan needed.
+- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+Market
+Industrial IoT adoption is accelerating as operators seek predictive maintenance and remote
+monitoring.
+
+Key notes:
+- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation
+plan needed.
+- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+Operations
+Manufacturing is outsourced with final QA performed in-house; component lead times are the
+primary constraint.
+
+Key notes:
+- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.
+- We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.

@@ -1,0 +1,35 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: Integration
+Date: 2025-04-16 14:45
+Location: Video call
+
+Attendees:
+- Ethan Park (CFO), Liam O'Neill (General Counsel), Sofia Rios (VP Corp Dev), Devon Price
+(Operations Lead), Samira Ali (HR Manager), Noah Bennett (CEO)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- The combined roadmap could reduce deployment time for customers by ~30–40% through tighter
+firmware-to-cloud integration.
+- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+- Potential IP gap: two legacy firmware modules were created by contractors—assignment
+paperwork is incomplete.
+
+Decisions:
+- Proceed with expanded customer calls (top 10 accounts).
+- Proceed with expanded customer calls (top 10 accounts).
+- Proceed with expanded customer calls (top 10 accounts).
+
+Action items:
+- Noah Bennett: Review synergy model by 2025-04-26.
+- Sofia Rios: Provide cybersecurity posture and incident history by 2025-04-20.
+- Ethan Park: Share supply chain and component lead times by 2025-04-21.
+- Noah Bennett: Validate valuation and comps by 2025-04-25.
+- Devon Price: Validate customer concentration by 2025-04-29.

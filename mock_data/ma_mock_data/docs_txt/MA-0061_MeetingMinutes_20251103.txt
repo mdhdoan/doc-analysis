@@ -1,0 +1,36 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: DefinitiveAgreement
+Date: 2025-11-03 09:30
+Location: Video call
+
+Attendees:
+- Priya Nandakumar (Head of Product), Avery Patel (HR Director), Maya Chen (CEO), Devon
+Price (Operations Lead), Talia Reyes (Head of Firmware), Samira Ali (HR Manager), Miles
+Grant (Director, Cedarstone Advisory)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- We see immediate pull-through by bundling Riverbend’s sensors with Northstar’s analytics
+suite into a single subscription.
+- We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.
+- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.
+
+Decisions:
+- Move cybersecurity deep-dive to next week; BluePeak to lead.
+- Proceed with expanded customer calls (top 10 accounts).
+- Confirm manufacturing capacity assumptions and backup suppliers.
+
+Action items:
+- Avery Patel: Validate customer concentration by 2025-11-15.
+- Samira Ali: Provide revenue recognition and ARR definitions by 2025-11-16.
+- Maya Chen: Share revenue recognition and ARR definitions by 2025-11-07.
+- Talia Reyes: Share valuation and comps by 2025-11-14.
+- Devon Price: Provide employee retention and option pool by 2025-11-13.
+- Devon Price: Draft integration architecture and product roadmap by 2025-11-11.

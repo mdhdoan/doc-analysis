@@ -1,0 +1,36 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: Diligence
+Date: 2025-08-13 17:45
+Location: Video call
+
+Attendees:
+- Ethan Park (CFO), Jordan Lee (Director, IT Security), Avery Patel (HR Director), Samira
+Ali (HR Manager), Devon Price (Operations Lead), Omar Hassan (Head of Sales)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- We see immediate pull-through by bundling Riverbend’s sensors with Northstar’s analytics
+suite into a single subscription.
+- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+- Security note: one phishing incident last year; remediation appears adequate but evidence
+is partial.
+
+Decisions:
+- Move cybersecurity deep-dive to next week; BluePeak to lead.
+- Confirm manufacturing capacity assumptions and backup suppliers.
+- Move cybersecurity deep-dive to next week; BluePeak to lead.
+
+Action items:
+- Devon Price: Provide employee retention and option pool by 2025-08-16.
+- Devon Price: Draft synergy model by 2025-08-20.
+- Avery Patel: Review cybersecurity posture and incident history by 2025-08-22.
+- Ethan Park: Draft revenue recognition and ARR definitions by 2025-08-27.
+- Jordan Lee: Provide manufacturing yields and QA by 2025-08-24.
+- Omar Hassan: Share earn-out metrics and governance by 2025-08-20.

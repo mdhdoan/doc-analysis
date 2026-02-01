@@ -1,0 +1,19 @@
+{
+  "doc_id": "MA-0079",
+  "title": "IntegrationStatusUpdate — Northstar / Riverbend — Integration — 2025-08-26",
+  "doc_type": "IntegrationStatusUpdate",
+  "stage": "Integration",
+  "date": "2025-08-26 11:45",
+  "from_entity": "Northstar",
+  "to_entity": "Northstar",
+  "confidentiality": "Confidential",
+  "tags": [
+    "cyber",
+    "cyber-incident",
+    "integration"
+  ],
+  "ground_truth_risks": [
+    "cyber_incident"
+  ],
+  "all_text": "INTEGRATION STATUS UPDATE — WEEK 7 (INTERNAL)\nDate: 2025-08-26\nStage: Integration\n\nWorkstreams:\n1) Product & Engineering\n- Firmware repo migration: complete\n- Telemetry integration: complete\n\n2) IT / Security\n- SSO rollout: planned\n- Log centralization: in progress\n\n3) Commercial\n- Bundle pricing: drafted\n- Top-customer outreach: underway\n\n4) People\n- Role mapping: underway\n- Retention offers: accepted\n\nIssues / risks:\n- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation\nplan needed.\n\nNext week focus:\n- Complete security hardening items\n"
+}

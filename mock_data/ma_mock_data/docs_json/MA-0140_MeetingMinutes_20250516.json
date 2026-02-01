@@ -1,0 +1,17 @@
+{
+  "doc_id": "MA-0140",
+  "title": "MeetingMinutes — Northstar / Riverbend — LOI — 2025-05-16",
+  "doc_type": "MeetingMinutes",
+  "stage": "LOI",
+  "date": "2025-05-16 11:45",
+  "from_entity": "Northstar",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "export-controls",
+    "loi",
+    "ops"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "MEETING MINUTES — Northstar x Riverbend\nStage: LOI\nDate: 2025-05-16 11:45\nLocation: Video call\n\nAttendees:\n- Maya Chen (CEO), Sofia Rios (VP Corp Dev), Priya Nandakumar (Head of Product), Omar Hassan\n(Head of Sales), Elena Novak (CFO), Talia Reyes (Head of Firmware)\n\nAgenda:\n- Deal rationale and synergies\n- Financial performance overview\n- Diligence workstreams status\n- Key risks / mitigations\n- Next steps and owners\n\nDiscussion highlights:\n- We see immediate pull-through by bundling Riverbend’s sensors with Northstar’s analytics\nsuite into a single subscription.\n- We modeled a base case with 18% ARR CAGR and a downside case with delayed component\navailability impacting shipments.\n- Security note: one phishing incident last year; remediation appears adequate but evidence\nis partial.\n\nDecisions:\n- Request updated firmware IP assignment documentation.\n- Request updated firmware IP assignment documentation.\n\nAction items:\n- Maya Chen: Provide cybersecurity posture and incident history by 2025-05-22.\n- Maya Chen: Review privacy and data processing by 2025-05-24.\n- Priya Nandakumar: Share supply chain and component lead times by 2025-05-26.\n- Talia Reyes: Provide IP assignment and open-source licenses by 2025-05-20.\n- Priya Nandakumar: Share cybersecurity posture and incident history by 2025-05-26.\n"
+}

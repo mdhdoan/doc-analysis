@@ -1,0 +1,24 @@
+DILIGENCE RESPONSES — STATUS UPDATE
+Company: Riverbend Sensorworks Ltd.
+To: Northstar diligence team
+Date: 2025-11-21
+
+Summary:
+- We have updated the tracker for the newest uploads.
+- A few items require legal review due to customer confidentiality.
+
+Status by request:
+- Request 3: Pending legal review. Not applicable; no subsidiaries or foreign entities.
+- Request 5: In progress. Not applicable; no subsidiaries or foreign entities.
+- Request 7: In progress. Document exists but contains customer-sensitive pricing; shared
+under separate cover.
+- Request 10: In progress. Not applicable; no subsidiaries or foreign entities.
+- Request 13: Needs clarification. See memo in /Legal/IP; assignment executed but
+notarization pending.
+- Request 14: In progress. We will provide an updated export after month-end close.
+
+Flagged items:
+- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation
+plan needed.
+
+Next update: 2025-11-24

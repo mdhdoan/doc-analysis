@@ -1,0 +1,17 @@
+{
+  "doc_id": "MA-0168",
+  "title": "EmailThread — Northstar / Riverbend — Indication — 2025-08-02",
+  "doc_type": "EmailThread",
+  "stage": "Indication",
+  "date": "2025-08-02 18:15",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "commercial",
+    "earnout",
+    "indication"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "Subject: LOI terms: earn-out + exclusivity\nDate: 2025-08-02 18:15\nFrom: Renee Alvarez <renee@advisor.example>\nTo: Maya Chen, Talia Reyes\n\nHi Maya,\n\nFollowing our last discussion, here are the key items we need to align on before moving\nforward.\n- Revenue recognition and arr definitions: flagging a potential issue.\n- Cybersecurity posture and incident history: confirming assumptions.\n- Valuation and comps: proposing a working session.\n- Sales pipeline and channel partners: seeking clarification.\n- Export controls and cross-border shipments: flagging a potential issue.\nPlease route questions through the diligence tracker to keep responses auditable.\nEarn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to\navoid disputes.\n\nBest,\nRenee Alvarez\nLead Assessor, BluePeak\nAdvisor\n"
+}

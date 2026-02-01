@@ -1,0 +1,19 @@
+{
+  "doc_id": "MA-0032",
+  "title": "DiligenceResponse — Northstar / Riverbend — Diligence — 2025-05-17",
+  "doc_type": "DiligenceResponse",
+  "stage": "Diligence",
+  "date": "2025-05-17 15:30",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Confidential",
+  "tags": [
+    "diligence",
+    "ip-ownership",
+    "tech"
+  ],
+  "ground_truth_risks": [
+    "ip_ownership"
+  ],
+  "all_text": "DILIGENCE RESPONSES — STATUS UPDATE\nCompany: Riverbend Sensorworks Ltd.\nTo: Northstar diligence team\nDate: 2025-05-17\n\nSummary:\n- We have updated the tracker for the newest uploads.\n- A few items require legal review due to customer confidentiality.\n\nStatus by request:\n- Request 2: Needs clarification. Uploaded to data room folder /Finance/2024 with supporting\nschedules.\n- Request 5: Pending legal review. Document exists but contains customer-sensitive pricing;\nshared under separate cover.\n- Request 6: Uploaded. Document exists but contains customer-sensitive pricing; shared under\nseparate cover.\n- Request 8: Pending legal review. Not applicable; no subsidiaries or foreign entities.\n- Request 13: Uploaded. See memo in /Legal/IP; assignment executed but notarization pending.\n- Request 16: Needs clarification. Document exists but contains customer-sensitive pricing;\nshared under separate cover.\n\nFlagged items:\n- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation\nplan needed.\n\nNext update: 2025-05-20\n"
+}

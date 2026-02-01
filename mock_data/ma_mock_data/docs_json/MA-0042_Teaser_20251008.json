@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0042",
+  "title": "Teaser — Northstar / Riverbend — Diligence — 2025-10-08",
+  "doc_type": "Teaser",
+  "stage": "Diligence",
+  "date": "2025-10-08 09:15",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Confidential",
+  "tags": [
+    "diligence",
+    "finance",
+    "integration",
+    "key-person-dependency"
+  ],
+  "ground_truth_risks": [
+    "key_person_dependency"
+  ],
+  "all_text": "CONFIDENTIAL TEASER — Riverbend Sensorworks Ltd. (SENSOR PLATFORM)\n\nOverview:\n- Business: wireless sensor hardware + embedded firmware\n- Headquarters: Seattle, WA\n- Primary offering: wireless industrial sensors with embedded firmware and cloud connectors\n- Customers: industrial operators across utilities, logistics, and light manufacturing\n\nInvestment highlights:\n- Cost synergies are primarily in duplicated back-office functions; revenue synergies depend\non channel expansion into utilities and mining.\n- Gross margin improvement opportunity through component re-sourcing and pricing discipline.\n- Sticky deployments: high switching costs due to sensor calibration + integration.\n\nKey metrics (unaudited):\n- FY revenue: $31M\n- ARR (software/maintenance): $9M\n- Hardware gross margin: 41%\n- Top-5 customers: 58% of revenue\n\nProcess:\n- NDA required for data room access\n- Management presentation in 2–3 weeks\n- IOIs due by October 29, 2025\n"
+}

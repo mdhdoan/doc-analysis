@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0107",
+  "title": "DiligenceRequest — Northstar / Riverbend — Indication — 2025-11-05",
+  "doc_type": "DiligenceRequest",
+  "stage": "Indication",
+  "date": "2025-11-05 15:15",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Confidential",
+  "tags": [
+    "commercial",
+    "indication",
+    "pricing",
+    "revenue-recognition"
+  ],
+  "ground_truth_risks": [
+    "revenue_recognition"
+  ],
+  "all_text": "DUE DILIGENCE REQUEST LIST\nBuyer: Northstar Industrial Analytics Inc.\nCompany: Riverbend Sensorworks Ltd.\nStage: Indication\nDate: 2025-11-05\n\nWorkstreams:\nA. Corporate / Legal\nB. Finance / Tax\nC. Technology / IP\nD. Cybersecurity / Privacy\nE. Commercial / Customers\nF. Operations / Supply Chain\nG. HR / Benefits\n\nRequests:\n1. Share customer contracts (last 3 years if applicable).\n2. Upload IP assignments (last 3 years if applicable).\n3. Provide security policies (last 3 years if applicable).\n4. Upload employee option grants (last 3 years if applicable).\n5. Provide board minutes (last 3 years if applicable).\n6. Provide employee option grants (last 3 years if applicable).\n7. Upload IP assignments (last 3 years if applicable).\n8. Share security policies (last 3 years if applicable).\n9. Provide financial statements (last 3 years if applicable).\n10. Provide security policies (last 3 years if applicable).\n11. Upload employee option grants (last 3 years if applicable).\n12. Share board minutes (last 3 years if applicable).\n13. Upload security policies (last 3 years if applicable).\n14. Upload financial statements (last 3 years if applicable).\n15. Upload financial statements (last 3 years if applicable).\n\nNotes:\n- Please label uploads with request number and date.\n- If an item is not applicable, mark N/A with a brief explanation.\n"
+}

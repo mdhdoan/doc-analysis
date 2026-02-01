@@ -1,0 +1,19 @@
+Subject: Follow-up on customer concentration
+Date: 2025-05-26 11:15
+From: Kara Whitman <kara@advisor.example>
+To: Maya Chen, Devon Price
+
+Hi Maya,
+
+Quick update on diligence. We’re closing gaps in the tracker and would like to confirm the
+following.
+- Synergy model: seeking clarification.
+- Customer concentration: confirming assumptions.
+- Cybersecurity posture and incident history: confirming assumptions.
+We’ll maintain a weekly cadence: diligence sync on Tuesdays, steering committee on Fridays.
+Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.
+
+Best,
+Kara Whitman
+Partner, Pine & Alder Legal
+Advisor

@@ -1,0 +1,19 @@
+{
+  "doc_id": "MA-0087",
+  "title": "LegalRedlineMemo — Northstar / Riverbend — LOI — 2025-04-02",
+  "doc_type": "LegalRedlineMemo",
+  "stage": "LOI",
+  "date": "2025-04-02 11:00",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Confidential",
+  "tags": [
+    "cyber",
+    "ip-ownership",
+    "loi"
+  ],
+  "ground_truth_risks": [
+    "ip_ownership"
+  ],
+  "all_text": "LEGAL MEMO — PURCHASE AGREEMENT REDLINE SUMMARY (INTERNAL)\nDate: 2025-04-02\nStage: LOI\nPrepared by: Renee Alvarez (Pine & Alder Legal LLP)\n\nKey redline themes:\n1) Representations & warranties\n- IP ownership: request stronger rep on firmware source code and contractor assignments.\n- Compliance: include privacy/security reps appropriate for device telemetry and support\nportals.\n\n2) Indemnities\n- Proposed cap: 12.5% of enterprise value; survival 18 months for general reps.\n- Special indemnity for known issues: customer concentration renewal risk and open-source\nlicense audit findings.\n\n3) Covenants\n- Employee retention plan and non-solicitation.\n- Interim operations: limitations on new supplier commitments without Buyer consent.\n\n4) Closing conditions\n- Bring-down of reps; receipt of key third-party consents (top customer + major supplier).\n\nOpen questions:\n- Definition of “Material Adverse Effect”\n- Earn-out dispute resolution and audit rights\n\nNote:\n- Please route questions through the diligence tracker to keep responses auditable.\n"
+}

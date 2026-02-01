@@ -1,0 +1,17 @@
+{
+  "doc_id": "MA-0021",
+  "title": "CustomerConcentrationAnalysis — Northstar / Riverbend — LOI — 2025-04-11",
+  "doc_type": "CustomerConcentrationAnalysis",
+  "stage": "LOI",
+  "date": "2025-04-11 17:45",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Confidential",
+  "tags": [
+    "data-room",
+    "finance",
+    "loi"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "CUSTOMER CONCENTRATION ANALYSIS (INTERNAL)\nDate: 2025-04-11\nStage: LOI\n\nSummary:\n- Top-1 customer: 25% of revenue\n- Top-5 customers: 52% of revenue\n- Renewal schedule: two key accounts renew within 12 months\n\nKey observations:\n- Contracts often bundle hardware shipments with annual maintenance.\n- Price escalation clauses vary; some include caps tied to CPI.\n- Churn risk is highest where deployments are small and channel-driven.\n\nMitigations:\n- Prioritize executive outreach to top accounts within 30 days post-close.\n- Offer roadmap visibility and bundle incentives for multi-year renewals.\n- Build a pipeline heatmap to diversify mid-market segment.\n\nFlag:\n- Security note: one phishing incident last year; remediation appears adequate but evidence\nis partial.\n"
+}

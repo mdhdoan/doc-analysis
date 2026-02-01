@@ -1,0 +1,22 @@
+Subject: LOI terms: earn-out + exclusivity
+Date: 2025-06-12 09:30
+From: Grace Kim <grace@riverbend.example>
+To: Ethan Park, Avery Patel
+
+Hi Ethan,
+
+Quick update on diligence. We’re closing gaps in the tracker and would like to confirm the
+following.
+- Regulatory certifications: confirming assumptions.
+- Employee retention and option pool: proposing a working session.
+- Customer concentration: flagging a potential issue.
+- Integration architecture and product roadmap: flagging a potential issue.
+- Regulatory certifications: proposing a working session.
+- Ip assignment and open-source licenses: flagging a potential issue.
+Earn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to
+avoid disputes.
+
+Best,
+Grace Kim
+VP Engineering
+Riverbend

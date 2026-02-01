@@ -1,0 +1,22 @@
+Subject: Confirm NDA + data room access
+Date: 2025-06-14 15:30
+From: Jordan Lee <jordan@northstar.example>
+To: Elena Novak, Talia Reyes
+
+Hi Elena,
+
+As we approach closing / Day-1, we want to make sure no operational items fall through the
+cracks.
+- Supply chain and component lead times: confirming assumptions.
+- Sales pipeline and channel partners: confirming assumptions.
+- Sales pipeline and channel partners: requesting documents.
+- Valuation and comps: proposing a working session.
+- Synergy model: flagging a potential issue.
+We’ll maintain a weekly cadence: diligence sync on Tuesdays, steering committee on Fridays.
+Potential IP gap: two legacy firmware modules were created by contractors—assignment
+paperwork is incomplete.
+
+Best,
+Jordan Lee
+Director, IT Security
+Northstar

@@ -1,0 +1,25 @@
+CYBERSECURITY ASSESSMENT — SUMMARY (CONFIDENTIAL)
+Assessor: BluePeak Assurance
+Company: Riverbend Sensorworks Ltd.
+Date: 2025-11-02
+Stage: DefinitiveAgreement
+
+Scope:
+- Corporate IT controls (identity, endpoint, patching)
+- Cloud services supporting telemetry ingestion and customer portal
+- Firmware update pipeline (OTA) and signing practices
+
+Findings (high level):
+- Identity & access management: strong for size; MFA coverage 97%
+- Vulnerability management: patch SLAs vary; scanning is quarterly
+- Incident history: no known material incidents
+- Data handling: telemetry contains device identifiers; customer portal stores limited PII
+
+Risks:
+- Potential IP gap: two legacy firmware modules were created by contractors—assignment
+paperwork is incomplete.
+
+Recommendations:
+1) Enforce MFA for all privileged accounts and VPN access.
+2) Formalize secure SDLC controls for firmware releases (signing key rotation, peer review).
+3) Centralize logging and retention; define incident response playbook.

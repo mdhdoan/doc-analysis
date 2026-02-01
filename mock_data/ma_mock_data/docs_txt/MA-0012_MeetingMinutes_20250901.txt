@@ -1,0 +1,35 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: NDA
+Date: 2025-09-01 15:30
+Location: Video call
+
+Attendees:
+- Ethan Park (CFO), Sofia Rios (VP Corp Dev), Maya Chen (CEO), Elena Novak (CFO), Grace Kim
+(VP Engineering), Devon Price (Operations Lead), Renee Alvarez (Lead Assessor, BluePeak)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- Cost synergies are primarily in duplicated back-office functions; revenue synergies depend
+on channel expansion into utilities and mining.
+- We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.
+- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation
+plan needed.
+
+Decisions:
+- Confirm manufacturing capacity assumptions and backup suppliers.
+- Proceed with expanded customer calls (top 10 accounts).
+- Confirm manufacturing capacity assumptions and backup suppliers.
+- Align on earn-out definitions and reporting cadence.
+
+Action items:
+- Sofia Rios: Provide sales pipeline and channel partners by 2025-09-08.
+- Ethan Park: Share customer concentration by 2025-09-15.
+- Maya Chen: Share IP assignment and open-source licenses by 2025-09-08.
+- Devon Price: Review employee retention and option pool by 2025-09-09.

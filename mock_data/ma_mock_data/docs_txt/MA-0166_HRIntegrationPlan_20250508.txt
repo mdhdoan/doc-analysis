@@ -1,0 +1,22 @@
+HR INTEGRATION PLAN — DAY-1 THROUGH DAY-90 (INTERNAL)
+Date: 2025-05-08
+Stage: Diligence
+
+Objectives:
+- Retain key technical staff and customer-facing leaders
+- Harmonize compensation/benefits without disrupting operations
+- Communicate clearly and reduce uncertainty
+
+Key actions:
+- Offer retention bonuses to 6 key employees (engineering + sales).
+- Confirm role mapping and reporting lines within 2 weeks post-close.
+- Align benefits enrollment window; maintain current plans through Day-30.
+- Set up weekly Q&A sessions; publish integration FAQ.
+
+Risks:
+- Key-person dependency in firmware team; propose pairing and documentation sprint.
+- Culture mismatch between fast-moving hardware ops and software cadence.
+
+Owners:
+- Northstar HR: Sofia Rios
+- Riverbend HR: Elena Novak

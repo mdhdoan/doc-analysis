@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0048",
+  "title": "BoardUpdate — Northstar / Riverbend — Diligence — 2025-08-26",
+  "doc_type": "BoardUpdate",
+  "stage": "Diligence",
+  "date": "2025-08-26 17:30",
+  "from_entity": "Northstar",
+  "to_entity": "Northstar",
+  "confidentiality": "Confidential",
+  "tags": [
+    "data-room",
+    "diligence",
+    "finance",
+    "privacy-compliance"
+  ],
+  "ground_truth_risks": [
+    "privacy_compliance"
+  ],
+  "all_text": "BOARD UPDATE — POTENTIAL ACQUISITION OF RIVERBEND (INTERNAL)\nDate: 2025-08-26\nStage: Diligence\n\nHighlights:\n- Deal thesis: expand into sensor + edge footprint to accelerate Northstar’s industrial\nanalytics growth.\n- Status: on track; key diligence workstreams active.\n- Economics: pricing within modeled range; earn-out under discussion.\n\nKey risks:\n- Security note: one phishing incident last year; remediation appears adequate but evidence\nis partial.\n\nNext steps:\n- Finalize definitive agreement draft\n- Confirm financing terms with HarborGate Bank\n- Prepare Day-1 communications plan\n"
+}

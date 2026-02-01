@@ -1,0 +1,23 @@
+CLOSING CHECKLIST (INTERNAL)
+Date: 2025-07-27
+Stage: LOI
+
+- [x] Obtain bring-down certificates.
+- [x] Confirm wire instructions.
+- [x] Obtain bring-down certificates.
+- [x] Obtain officer certificates.
+- [ ] Obtain bring-down certificates.
+- [x] Obtain bring-down certificates.
+- [ ] Deliver board approvals.
+- [ ] Confirm escrow agreement.
+- [x] Obtain board approvals.
+- [x] Obtain bring-down certificates.
+- [ ] Obtain bring-down certificates.
+- [ ] Finalize escrow agreement.
+- [ ] Obtain employment agreements.
+- [x] Confirm wire instructions.
+- [x] Obtain officer certificates.
+- [x] Finalize employment agreements.
+- [ ] Deliver bring-down certificates.
+
+Owner: Renee Alvarez (Pine & Alder Legal LLP)

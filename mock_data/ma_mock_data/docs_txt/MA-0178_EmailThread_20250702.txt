@@ -1,0 +1,20 @@
+Subject: Confirm NDA + data room access
+Date: 2025-07-02 16:45
+From: Talia Reyes <talia@riverbend.example>
+To: Liam O'Neill, Avery Patel
+Cc: Caleb Morgan
+
+Hi Liam,
+
+Thanks for the call earlier. Below are a few items to keep momentum.
+- Regulatory certifications: flagging a potential issue.
+- Manufacturing yields and qa: seeking clarification.
+- Earn-out metrics and governance: flagging a potential issue.
+- Privacy and data processing: seeking clarification.
+We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.
+
+Best,
+Talia Reyes
+Head of Firmware
+Riverbend

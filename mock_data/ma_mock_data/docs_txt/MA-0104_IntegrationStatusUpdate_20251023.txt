@@ -1,0 +1,26 @@
+INTEGRATION STATUS UPDATE — WEEK 9 (INTERNAL)
+Date: 2025-10-23
+Stage: Diligence
+
+Workstreams:
+1) Product & Engineering
+- Firmware repo migration: blocked
+- Telemetry integration: scoping
+
+2) IT / Security
+- SSO rollout: planned
+- Log centralization: planned
+
+3) Commercial
+- Bundle pricing: drafted
+- Top-customer outreach: complete
+
+4) People
+- Role mapping: complete
+- Retention offers: issued
+
+Issues / risks:
+- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.
+
+Next week focus:
+- Launch customer communications

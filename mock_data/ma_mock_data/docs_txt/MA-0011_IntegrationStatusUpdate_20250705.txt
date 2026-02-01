@@ -1,0 +1,27 @@
+INTEGRATION STATUS UPDATE — WEEK 2 (INTERNAL)
+Date: 2025-07-05
+Stage: Outreach
+
+Workstreams:
+1) Product & Engineering
+- Firmware repo migration: complete
+- Telemetry integration: scoping
+
+2) IT / Security
+- SSO rollout: complete
+- Log centralization: complete
+
+3) Commercial
+- Bundle pricing: approved
+- Top-customer outreach: underway
+
+4) People
+- Role mapping: complete
+- Retention offers: issued
+
+Issues / risks:
+- Security note: one phishing incident last year; remediation appears adequate but evidence
+is partial.
+
+Next week focus:
+- Finalize Day-30 roadmap

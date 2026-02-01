@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0148",
+  "title": "MeetingMinutes — Northstar / Riverbend — Diligence — 2025-05-12",
+  "doc_type": "MeetingMinutes",
+  "stage": "Diligence",
+  "date": "2025-05-12 15:30",
+  "from_entity": "Northstar",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "customer-concentration",
+    "diligence",
+    "tech",
+    "working-capital"
+  ],
+  "ground_truth_risks": [
+    "customer_concentration"
+  ],
+  "all_text": "MEETING MINUTES — Northstar x Riverbend\nStage: Diligence\nDate: 2025-05-12 15:30\nLocation: Video call\n\nAttendees:\n- Liam O'Neill (General Counsel), Maya Chen (CEO), Ethan Park (CFO), Talia Reyes (Head of\nFirmware), Omar Hassan (Head of Sales), Devon Price (Operations Lead), Caleb Morgan (VP,\nHarborGate Bank)\n\nAgenda:\n- Deal rationale and synergies\n- Financial performance overview\n- Diligence workstreams status\n- Key risks / mitigations\n- Next steps and owners\n\nDiscussion highlights:\n- The combined roadmap could reduce deployment time for customers by ~30–40% through tighter\nfirmware-to-cloud integration.\n- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin\nvolatility.\n- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.\n\nDecisions:\n- Proceed with expanded customer calls (top 10 accounts).\n- Proceed with expanded customer calls (top 10 accounts).\n- Confirm manufacturing capacity assumptions and backup suppliers.\n\nAction items:\n- Devon Price: Provide sales pipeline and channel partners by 2025-05-20.\n- Ethan Park: Review valuation and comps by 2025-05-23.\n- Devon Price: Review IP assignment and open-source licenses by 2025-05-15.\n- Devon Price: Draft customer concentration by 2025-05-20.\n- Liam O'Neill: Share earn-out metrics and governance by 2025-05-21.\n"
+}

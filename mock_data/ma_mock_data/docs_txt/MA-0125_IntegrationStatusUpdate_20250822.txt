@@ -1,0 +1,27 @@
+INTEGRATION STATUS UPDATE — WEEK 2 (INTERNAL)
+Date: 2025-08-22
+Stage: NDA
+
+Workstreams:
+1) Product & Engineering
+- Firmware repo migration: blocked
+- Telemetry integration: in progress
+
+2) IT / Security
+- SSO rollout: complete
+- Log centralization: in progress
+
+3) Commercial
+- Bundle pricing: drafted
+- Top-customer outreach: complete
+
+4) People
+- Role mapping: underway
+- Retention offers: accepted
+
+Issues / risks:
+- Potential IP gap: two legacy firmware modules were created by contractors—assignment
+paperwork is incomplete.
+
+Next week focus:
+- Finalize Day-30 roadmap

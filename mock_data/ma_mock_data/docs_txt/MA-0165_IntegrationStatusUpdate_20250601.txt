@@ -1,0 +1,27 @@
+INTEGRATION STATUS UPDATE — WEEK 8 (INTERNAL)
+Date: 2025-06-01
+Stage: Diligence
+
+Workstreams:
+1) Product & Engineering
+- Firmware repo migration: blocked
+- Telemetry integration: in progress
+
+2) IT / Security
+- SSO rollout: planned
+- Log centralization: planned
+
+3) Commercial
+- Bundle pricing: reviewing
+- Top-customer outreach: complete
+
+4) People
+- Role mapping: underway
+- Retention offers: pending
+
+Issues / risks:
+- Security note: one phishing incident last year; remediation appears adequate but evidence
+is partial.
+
+Next week focus:
+- Launch customer communications

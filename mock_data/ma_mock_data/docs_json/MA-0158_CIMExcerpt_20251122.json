@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0158",
+  "title": "CIMExcerpt — Northstar / Riverbend — Marketing — 2025-11-22",
+  "doc_type": "CIMExcerpt",
+  "stage": "Marketing",
+  "date": "2025-11-22 15:45",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "data-room",
+    "marketing",
+    "ops",
+    "supply-chain"
+  ],
+  "ground_truth_risks": [
+    "supply_chain"
+  ],
+  "all_text": "CONFIDENTIAL INFORMATION MEMORANDUM (EXCERPT)\nTarget: Riverbend Sensorworks Ltd.\nDate: November 22, 2025\n\nMarket\nIndustrial IoT adoption is accelerating as operators seek predictive maintenance and remote\nmonitoring.\n\nKey notes:\n- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.\n- Earn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to\navoid disputes.\nOperations\nManufacturing is outsourced with final QA performed in-house; component lead times are the\nprimary constraint.\n\nKey notes:\n- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.\n- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin\nvolatility.\nProduct\nRiverbend’s platform combines battery-efficient firmware, mesh networking, and secure OTA\nupdates.\n\nKey notes:\n- Security note: one phishing incident last year; remediation appears adequate but evidence\nis partial.\n- Earn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to\navoid disputes.\n"
+}

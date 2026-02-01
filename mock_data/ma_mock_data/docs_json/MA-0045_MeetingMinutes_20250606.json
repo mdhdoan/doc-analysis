@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0045",
+  "title": "MeetingMinutes — Northstar / Riverbend — Integration — 2025-06-06",
+  "doc_type": "MeetingMinutes",
+  "stage": "Integration",
+  "date": "2025-06-06 16:30",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "customer-concentration",
+    "escrow",
+    "finance",
+    "integration"
+  ],
+  "ground_truth_risks": [
+    "customer_concentration"
+  ],
+  "all_text": "MEETING MINUTES — Northstar x Riverbend\nStage: Integration\nDate: 2025-06-06 16:30\nLocation: Video call\n\nAttendees:\n- Maya Chen (CEO), Ethan Park (CFO), Sofia Rios (VP Corp Dev), Noah Bennett (CEO), Elena\nNovak (CFO), Omar Hassan (Head of Sales)\n\nAgenda:\n- Deal rationale and synergies\n- Financial performance overview\n- Diligence workstreams status\n- Key risks / mitigations\n- Next steps and owners\n\nDiscussion highlights:\n- We see immediate pull-through by bundling Riverbend’s sensors with Northstar’s analytics\nsuite into a single subscription.\n- We modeled a base case with 18% ARR CAGR and a downside case with delayed component\navailability impacting shipments.\n- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation\nplan needed.\n\nDecisions:\n- Proceed with expanded customer calls (top 10 accounts).\n- Move cybersecurity deep-dive to next week; BluePeak to lead.\n- Move cybersecurity deep-dive to next week; BluePeak to lead.\n- Align on earn-out definitions and reporting cadence.\n\nAction items:\n- Noah Bennett: Review earn-out metrics and governance by 2025-06-17.\n- Maya Chen: Share privacy and data processing by 2025-06-20.\n- Noah Bennett: Provide valuation and comps by 2025-06-19.\n- Noah Bennett: Validate employee retention and option pool by 2025-06-15.\n"
+}

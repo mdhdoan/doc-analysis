@@ -1,0 +1,22 @@
+Subject: Confirm NDA + data room access
+Date: 2025-10-18 17:00
+From: Devon Price <devon@riverbend.example>
+To: Maya Chen, Ethan Park
+Cc: Renee Alvarez
+
+Hi Maya,
+
+Quick update on diligence. We’re closing gaps in the tracker and would like to confirm the
+following.
+- Employee retention and option pool: requesting documents.
+- Manufacturing yields and qa: proposing a working session.
+- Cybersecurity posture and incident history: requesting documents.
+- Privacy and data processing: seeking clarification.
+Please route questions through the diligence tracker to keep responses auditable.
+Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+
+Best,
+Devon Price
+Operations Lead
+Riverbend

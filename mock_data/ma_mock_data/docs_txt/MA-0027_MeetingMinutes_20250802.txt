@@ -1,0 +1,35 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: LOI
+Date: 2025-08-02 15:45
+Location: Video call
+
+Attendees:
+- Liam O'Neill (General Counsel), Priya Nandakumar (Head of Product), Jordan Lee (Director,
+IT Security), Grace Kim (VP Engineering), Omar Hassan (Head of Sales), Talia Reyes (Head of
+Firmware), Caleb Morgan (VP, HarborGate Bank)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- The combined roadmap could reduce deployment time for customers by ~30–40% through tighter
+firmware-to-cloud integration.
+- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+- Potential IP gap: two legacy firmware modules were created by contractors—assignment
+paperwork is incomplete.
+
+Decisions:
+- Align on earn-out definitions and reporting cadence.
+- Align on earn-out definitions and reporting cadence.
+- Request updated firmware IP assignment documentation.
+
+Action items:
+- Talia Reyes: Draft synergy model by 2025-08-08.
+- Talia Reyes: Review IP assignment and open-source licenses by 2025-08-13.
+- Priya Nandakumar: Validate privacy and data processing by 2025-08-16.
+- Talia Reyes: Share earn-out metrics and governance by 2025-08-14.

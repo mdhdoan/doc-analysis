@@ -1,0 +1,18 @@
+{
+  "doc_id": "MA-0053",
+  "title": "EmailThread — Northstar / Riverbend — Closing — 2025-09-08",
+  "doc_type": "EmailThread",
+  "stage": "Closing",
+  "date": "2025-09-08 17:45",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Confidential",
+  "tags": [
+    "closing",
+    "commercial",
+    "cyber-incident",
+    "earnout"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "Subject: Purchase agreement: key open items\nDate: 2025-09-08 17:45\nFrom: Caleb Morgan <caleb@advisor.example>\nTo: Avery Patel, Devon Price\n\nHi Avery,\n\nAs we approach closing / Day-1, we want to make sure no operational items fall through the\ncracks.\n- Supply chain and component lead times: requesting documents.\n- Ip assignment and open-source licenses: confirming assumptions.\n- Earn-out metrics and governance: confirming assumptions.\nWe’ll maintain a weekly cadence: diligence sync on Tuesdays, steering committee on Fridays.\n\nBest,\nCaleb Morgan\nVP, HarborGate Bank\nAdvisor\n"
+}

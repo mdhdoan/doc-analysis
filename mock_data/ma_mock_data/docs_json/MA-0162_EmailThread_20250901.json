@@ -1,0 +1,17 @@
+{
+  "doc_id": "MA-0162",
+  "title": "EmailThread — Northstar / Riverbend — Diligence — 2025-09-01",
+  "doc_type": "EmailThread",
+  "stage": "Diligence",
+  "date": "2025-09-01 16:30",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "cyber-incident",
+    "diligence",
+    "legal"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "Subject: Integration planning: Day-1 priorities\nDate: 2025-09-01 16:30\nFrom: Miles Grant <miles@advisor.example>\nTo: Priya Nandakumar, Talia Reyes\n\nHi Priya,\n\nQuick update on diligence. We’re closing gaps in the tracker and would like to confirm the\nfollowing.\n- Integration architecture and product roadmap: requesting documents.\n- Regulatory certifications: proposing a working session.\n- Revenue recognition and arr definitions: confirming assumptions.\n- Earn-out metrics and governance: flagging a potential issue.\n- Employee retention and option pool: confirming assumptions.\nRedlines should be consolidated; propose using clause-by-clause comments rather than inline\nemail edits.\nWe modeled a base case with 18% ARR CAGR and a downside case with delayed component\navailability impacting shipments.\n\nBest,\nMiles Grant\nDirector, Cedarstone Advisory\nAdvisor\n"
+}

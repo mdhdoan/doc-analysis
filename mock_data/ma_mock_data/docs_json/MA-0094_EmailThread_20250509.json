@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0094",
+  "title": "EmailThread — Northstar / Riverbend — Outreach — 2025-05-09",
+  "doc_type": "EmailThread",
+  "stage": "Outreach",
+  "date": "2025-05-09 18:00",
+  "from_entity": "Riverbend",
+  "to_entity": "Northstar",
+  "confidentiality": "Internal",
+  "tags": [
+    "cyber",
+    "outreach",
+    "privacy-compliance",
+    "working-capital"
+  ],
+  "ground_truth_risks": [
+    "privacy_compliance"
+  ],
+  "all_text": "Subject: LOI terms: earn-out + exclusivity\nDate: 2025-05-09 18:00\nFrom: Priya Nandakumar <priya@northstar.example>\nTo: Devon Price, Samira Ali\n\nHi Devon,\n\nThanks for the call earlier. Below are a few items to keep momentum.\n- Employee retention and option pool: confirming assumptions.\n- Valuation and comps: requesting documents.\n- Revenue recognition and arr definitions: flagging a potential issue.\n- Supply chain and component lead times: requesting documents.\n- Valuation and comps: flagging a potential issue.\n- Integration architecture and product roadmap: proposing a working session.\nWe’ll maintain a weekly cadence: diligence sync on Tuesdays, steering committee on Fridays.\nEarn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to\navoid disputes.\n\nBest,\nPriya Nandakumar\nHead of Product\nNorthstar\n"
+}

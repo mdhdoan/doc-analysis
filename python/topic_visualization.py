@@ -22,10 +22,10 @@ def increase_count(count, character):
 
 
 if __name__ == '__main__':
-    # model_name = sys.argv[1][2:]
-    model_name = 'data/method'
-    topic_model = BERTopic.load("model/" + model_name)
-    label_file_path = "model/" + model_name
+    model_name = sys.argv[1][2:]
+    # model_name = 'data/docs_json'
+    topic_model = BERTopic.load("model/" + 'docs_json')
+    label_file_path = "model/" + 'docs_json'
     label_file_name = os.path.join(label_file_path, 'topics.json')
     with open(label_file_name, 'r') as l_file:
         label_data = json.load(l_file)

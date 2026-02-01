@@ -1,0 +1,24 @@
+CONFIDENTIAL TEASER — Riverbend Sensorworks Ltd. (SENSOR PLATFORM)
+
+Overview:
+- Business: wireless sensor hardware + embedded firmware
+- Headquarters: Seattle, WA
+- Primary offering: wireless industrial sensors with embedded firmware and cloud connectors
+- Customers: industrial operators across utilities, logistics, and light manufacturing
+
+Investment highlights:
+- The combined roadmap could reduce deployment time for customers by ~30–40% through tighter
+firmware-to-cloud integration.
+- Gross margin improvement opportunity through component re-sourcing and pricing discipline.
+- Sticky deployments: high switching costs due to sensor calibration + integration.
+
+Key metrics (unaudited):
+- FY revenue: $32M
+- ARR (software/maintenance): $11M
+- Hardware gross margin: 39%
+- Top-5 customers: 55% of revenue
+
+Process:
+- NDA required for data room access
+- Management presentation in 2–3 weeks
+- IOIs due by August 07, 2025

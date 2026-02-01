@@ -1,0 +1,23 @@
+Subject: Integration planning: Day-1 priorities
+Date: 2025-04-06 10:45
+From: Avery Patel <avery@northstar.example>
+To: Noah Bennett, Grace Kim
+
+Hi Noah,
+
+Thanks for the call earlier. Below are a few items to keep momentum.
+- Revenue recognition and arr definitions: requesting documents.
+- Privacy and data processing: flagging a potential issue.
+- Employee retention and option pool: requesting documents.
+- Cybersecurity posture and incident history: confirming assumptions.
+- Revenue recognition and arr definitions: proposing a working session.
+Redlines should be consolidated; propose using clause-by-clause comments rather than inline
+email edits.
+Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.
+
+Best,
+Avery Patel
+HR Director
+Northstar

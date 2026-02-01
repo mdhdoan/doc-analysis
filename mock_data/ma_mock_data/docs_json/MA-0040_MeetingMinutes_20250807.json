@@ -1,0 +1,17 @@
+{
+  "doc_id": "MA-0040",
+  "title": "MeetingMinutes — Northstar / Riverbend — Integration — 2025-08-07",
+  "doc_type": "MeetingMinutes",
+  "stage": "Integration",
+  "date": "2025-08-07 15:30",
+  "from_entity": "Advisor",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "cyber",
+    "data-room",
+    "integration"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "MEETING MINUTES — Northstar x Riverbend\nStage: Integration\nDate: 2025-08-07 15:30\nLocation: Video call\n\nAttendees:\n- Priya Nandakumar (Head of Product), Sofia Rios (VP Corp Dev), Jordan Lee (Director, IT\nSecurity), Noah Bennett (CEO), Devon Price (Operations Lead), Omar Hassan (Head of Sales),\nKara Whitman (Partner, Pine & Alder Legal)\n\nAgenda:\n- Deal rationale and synergies\n- Financial performance overview\n- Diligence workstreams status\n- Key risks / mitigations\n- Next steps and owners\n\nDiscussion highlights:\n- We see immediate pull-through by bundling Riverbend’s sensors with Northstar’s analytics\nsuite into a single subscription.\n- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin\nvolatility.\n- Security note: one phishing incident last year; remediation appears adequate but evidence\nis partial.\n\nDecisions:\n- Move cybersecurity deep-dive to next week; BluePeak to lead.\n- Align on earn-out definitions and reporting cadence.\n- Request updated firmware IP assignment documentation.\n- Confirm manufacturing capacity assumptions and backup suppliers.\n\nAction items:\n- Sofia Rios: Review earn-out metrics and governance by 2025-08-20.\n- Jordan Lee: Review employee retention and option pool by 2025-08-20.\n- Priya Nandakumar: Provide privacy and data processing by 2025-08-20.\n- Kara Whitman: Provide earn-out metrics and governance by 2025-08-17.\n- Jordan Lee: Review synergy model by 2025-08-21.\n- Jordan Lee: Validate customer concentration by 2025-08-15.\n"
+}

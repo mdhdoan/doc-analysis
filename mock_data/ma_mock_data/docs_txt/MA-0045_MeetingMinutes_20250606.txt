@@ -1,0 +1,35 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: Integration
+Date: 2025-06-06 16:30
+Location: Video call
+
+Attendees:
+- Maya Chen (CEO), Ethan Park (CFO), Sofia Rios (VP Corp Dev), Noah Bennett (CEO), Elena
+Novak (CFO), Omar Hassan (Head of Sales)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- We see immediate pull-through by bundling Riverbend’s sensors with Northstar’s analytics
+suite into a single subscription.
+- We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.
+- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation
+plan needed.
+
+Decisions:
+- Proceed with expanded customer calls (top 10 accounts).
+- Move cybersecurity deep-dive to next week; BluePeak to lead.
+- Move cybersecurity deep-dive to next week; BluePeak to lead.
+- Align on earn-out definitions and reporting cadence.
+
+Action items:
+- Noah Bennett: Review earn-out metrics and governance by 2025-06-17.
+- Maya Chen: Share privacy and data processing by 2025-06-20.
+- Noah Bennett: Provide valuation and comps by 2025-06-19.
+- Noah Bennett: Validate employee retention and option pool by 2025-06-15.

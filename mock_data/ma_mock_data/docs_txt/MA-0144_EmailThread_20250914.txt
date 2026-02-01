@@ -1,0 +1,24 @@
+Subject: Integration planning: Day-1 priorities
+Date: 2025-09-14 12:30
+From: Devon Price <devon@riverbend.example>
+To: Ethan Park, Jordan Lee
+Cc: Caleb Morgan
+
+Hi Ethan,
+
+As we approach closing / Day-1, we want to make sure no operational items fall through the
+cracks.
+- Privacy and data processing: confirming assumptions.
+- Supply chain and component lead times: confirming assumptions.
+- Integration architecture and product roadmap: requesting documents.
+- Earn-out metrics and governance: flagging a potential issue.
+- Manufacturing yields and qa: seeking clarification.
+Redlines should be consolidated; propose using clause-by-clause comments rather than inline
+email edits.
+Earn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to
+avoid disputes.
+
+Best,
+Devon Price
+Operations Lead
+Riverbend

@@ -1,0 +1,20 @@
+{
+  "doc_id": "MA-0193",
+  "title": "LegalRedlineMemo — Northstar / Riverbend — Diligence — 2025-05-11",
+  "doc_type": "LegalRedlineMemo",
+  "stage": "Diligence",
+  "date": "2025-05-11 11:15",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Highly Confidential",
+  "tags": [
+    "diligence",
+    "export-controls",
+    "finance"
+  ],
+  "ground_truth_risks": [
+    "export_controls",
+    "ip_ownership"
+  ],
+  "all_text": "LEGAL MEMO — PURCHASE AGREEMENT REDLINE SUMMARY (INTERNAL)\nDate: 2025-05-11\nStage: Diligence\nPrepared by: Miles Grant (Pine & Alder Legal LLP)\n\nKey redline themes:\n1) Representations & warranties\n- IP ownership: request stronger rep on firmware source code and contractor assignments.\n- Compliance: include privacy/security reps appropriate for device telemetry and support\nportals.\n\n2) Indemnities\n- Proposed cap: 10% of enterprise value; survival 18 months for general reps.\n- Special indemnity for known issues: customer concentration renewal risk and open-source\nlicense audit findings.\n\n3) Covenants\n- Employee retention plan and non-solicitation.\n- Interim operations: limitations on new supplier commitments without Buyer consent.\n\n4) Closing conditions\n- Bring-down of reps; receipt of key third-party consents (top customer + major supplier).\n\nOpen questions:\n- Definition of “Material Adverse Effect”\n- Earn-out dispute resolution and audit rights\n\nNote:\n- Redlines should be consolidated; propose using clause-by-clause comments rather than\ninline email edits.\n"
+}

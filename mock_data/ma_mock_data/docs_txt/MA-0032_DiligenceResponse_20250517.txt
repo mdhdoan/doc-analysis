@@ -1,0 +1,26 @@
+DILIGENCE RESPONSES — STATUS UPDATE
+Company: Riverbend Sensorworks Ltd.
+To: Northstar diligence team
+Date: 2025-05-17
+
+Summary:
+- We have updated the tracker for the newest uploads.
+- A few items require legal review due to customer confidentiality.
+
+Status by request:
+- Request 2: Needs clarification. Uploaded to data room folder /Finance/2024 with supporting
+schedules.
+- Request 5: Pending legal review. Document exists but contains customer-sensitive pricing;
+shared under separate cover.
+- Request 6: Uploaded. Document exists but contains customer-sensitive pricing; shared under
+separate cover.
+- Request 8: Pending legal review. Not applicable; no subsidiaries or foreign entities.
+- Request 13: Uploaded. See memo in /Legal/IP; assignment executed but notarization pending.
+- Request 16: Needs clarification. Document exists but contains customer-sensitive pricing;
+shared under separate cover.
+
+Flagged items:
+- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation
+plan needed.
+
+Next update: 2025-05-20

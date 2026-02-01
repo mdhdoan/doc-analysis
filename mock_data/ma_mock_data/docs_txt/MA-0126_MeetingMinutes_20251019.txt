@@ -1,0 +1,35 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: DefinitiveAgreement
+Date: 2025-10-19 13:30
+Location: Video call
+
+Attendees:
+- Liam O'Neill (General Counsel), Avery Patel (HR Director), Sofia Rios (VP Corp Dev), Omar
+Hassan (Head of Sales), Noah Bennett (CEO), Talia Reyes (Head of Firmware), Miles Grant
+(Director, Cedarstone Advisory)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- Cost synergies are primarily in duplicated back-office functions; revenue synergies depend
+on channel expansion into utilities and mining.
+- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+- Security note: one phishing incident last year; remediation appears adequate but evidence
+is partial.
+
+Decisions:
+- Align on earn-out definitions and reporting cadence.
+- Move cybersecurity deep-dive to next week; BluePeak to lead.
+- Align on earn-out definitions and reporting cadence.
+
+Action items:
+- Liam O'Neill: Draft manufacturing yields and QA by 2025-10-24.
+- Talia Reyes: Share valuation and comps by 2025-11-02.
+- Avery Patel: Review synergy model by 2025-10-27.
+- Talia Reyes: Draft supply chain and component lead times by 2025-10-25.

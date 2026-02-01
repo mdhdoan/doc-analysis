@@ -1,0 +1,22 @@
+Subject: Follow-up on customer concentration
+Date: 2025-08-19 09:30
+From: Kara Whitman <kara@advisor.example>
+To: Jordan Lee, Noah Bennett
+Cc: Caleb Morgan
+
+Hi Jordan,
+
+As we approach closing / Day-1, we want to make sure no operational items fall through the
+cracks.
+- Customer concentration: flagging a potential issue.
+- Ip assignment and open-source licenses: flagging a potential issue.
+- Employee retention and option pool: confirming assumptions.
+Redlines should be consolidated; propose using clause-by-clause comments rather than inline
+email edits.
+Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+
+Best,
+Kara Whitman
+Partner, Pine & Alder Legal
+Advisor

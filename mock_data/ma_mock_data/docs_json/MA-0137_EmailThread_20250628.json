@@ -1,0 +1,19 @@
+{
+  "doc_id": "MA-0137",
+  "title": "EmailThread — Northstar / Riverbend — DefinitiveAgreement — 2025-06-28",
+  "doc_type": "EmailThread",
+  "stage": "DefinitiveAgreement",
+  "date": "2025-06-28 10:15",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "definitiveagreement",
+    "ip-ownership",
+    "legal"
+  ],
+  "ground_truth_risks": [
+    "ip_ownership"
+  ],
+  "all_text": "Subject: Purchase agreement: key open items\nDate: 2025-06-28 10:15\nFrom: Renee Alvarez <renee@advisor.example>\nTo: Sofia Rios, Devon Price\n\nHi Sofia,\n\nQuick update on diligence. We’re closing gaps in the tracker and would like to confirm the\nfollowing.\n- Synergy model: confirming assumptions.\n- Revenue recognition and arr definitions: confirming assumptions.\n- Revenue recognition and arr definitions: proposing a working session.\n\nBest,\nRenee Alvarez\nLead Assessor, BluePeak\nAdvisor\n"
+}

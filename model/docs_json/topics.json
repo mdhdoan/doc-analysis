@@ -1,0 +1,1716 @@
+{
+  "topic_representations": {
+    "-1": [
+      [
+        "potential issue manufacturing",
+        0.4436722993850708
+      ],
+      [
+        "issue manufacturing",
+        0.42092475295066833
+      ],
+      [
+        "uploaded applicable subsidiaries",
+        0.40275099873542786
+      ],
+      [
+        "manufacturing yields qa",
+        0.3923865258693695
+      ],
+      [
+        "applicable subsidiaries",
+        0.3637096881866455
+      ],
+      [
+        "issue manufacturing yields",
+        0.36259523034095764
+      ],
+      [
+        "subsidiaries",
+        0.3515070676803589
+      ],
+      [
+        "regulatory",
+        0.34013068675994873
+      ],
+      [
+        "subject confirm nda",
+        0.3166918158531189
+      ],
+      [
+        "regulatory certifications",
+        0.3074057102203369
+      ]
+    ],
+    "0": [
+      [
+        "sensor unit shipments",
+        0.44172248244285583
+      ],
+      [
+        "pipeline channel partners",
+        0.43487849831581116
+      ],
+      [
+        "sales pipeline channel",
+        0.3763783872127533
+      ],
+      [
+        "sensor unit",
+        0.3528830409049988
+      ],
+      [
+        "sales pipeline",
+        0.3461785912513733
+      ],
+      [
+        "product roadmap",
+        0.34295737743377686
+      ],
+      [
+        "subject confirm nda",
+        0.3203584849834442
+      ],
+      [
+        "unit shipments",
+        0.3079007863998413
+      ],
+      [
+        "integration architecture product",
+        0.30493879318237305
+      ],
+      [
+        "confirm nda",
+        0.3027260899543762
+      ]
+    ],
+    "1": [
+      [
+        "status update company",
+        0.4727291166782379
+      ],
+      [
+        "update company",
+        0.4396359622478485
+      ],
+      [
+        "update 2025",
+        0.4069473445415497
+      ],
+      [
+        "update company riverbend",
+        0.401684433221817
+      ],
+      [
+        "updated tracker",
+        0.39569613337516785
+      ],
+      [
+        "summary updated tracker",
+        0.3786483705043793
+      ],
+      [
+        "provide updated",
+        0.37360063195228577
+      ],
+      [
+        "updated tracker newest",
+        0.36846569180488586
+      ],
+      [
+        "diligence team date",
+        0.34970182180404663
+      ],
+      [
+        "sensorworks northstar diligence",
+        0.3457699716091156
+      ]
+    ],
+    "2": [
+      [
+        "northstar industrial analytics",
+        0.5926356911659241
+      ],
+      [
+        "company riverbend sensorworks",
+        0.5298301577568054
+      ],
+      [
+        "company riverbend",
+        0.4641600549221039
+      ],
+      [
+        "industrial analytics",
+        0.4499058425426483
+      ],
+      [
+        "riverbend sensorworks",
+        0.4303911328315735
+      ],
+      [
+        "northstar industrial",
+        0.42083099484443665
+      ],
+      [
+        "customers",
+        0.37258896231651306
+      ],
+      [
+        "definitiveagreement date 2025",
+        0.3707089126110077
+      ],
+      [
+        "provide customer",
+        0.36180827021598816
+      ],
+      [
+        "analytics",
+        0.35803645849227905
+      ]
+    ],
+    "3": [
+      [
+        "customer concentration 2025",
+        0.46692517399787903
+      ],
+      [
+        "assumptions backup suppliers",
+        0.35051465034484863
+      ],
+      [
+        "risks mitigations steps",
+        0.3389388620853424
+      ],
+      [
+        "confirm manufacturing capacity",
+        0.3371182084083557
+      ],
+      [
+        "backup suppliers",
+        0.33395886421203613
+      ],
+      [
+        "regulatory certifications 2025",
+        0.3316214382648468
+      ],
+      [
+        "synergies financial",
+        0.32394880056381226
+      ],
+      [
+        "performance overview",
+        0.31432807445526123
+      ],
+      [
+        "reporting cadence",
+        0.31093457341194153
+      ],
+      [
+        "certifications 2025",
+        0.3052440583705902
+      ]
+    ],
+    "4": [
+      [
+        "northstar industrial analytics",
+        0.4936782121658325
+      ],
+      [
+        "consideration enterprise",
+        0.4329480528831482
+      ],
+      [
+        "sensor unit shipments",
+        0.42590248584747314
+      ],
+      [
+        "enterprise",
+        0.4046924114227295
+      ],
+      [
+        "industrial analytics",
+        0.3958965539932251
+      ],
+      [
+        "riverbend sensorworks",
+        0.3683200478553772
+      ],
+      [
+        "consideration enterprise value",
+        0.35722342133522034
+      ],
+      [
+        "nda",
+        0.3435209393501282
+      ],
+      [
+        "enterprise value",
+        0.34177595376968384
+      ],
+      [
+        "acquire",
+        0.3380061089992523
+      ]
+    ],
+    "5": [
+      [
+        "acquisition",
+        0.36238914728164673
+      ],
+      [
+        "pricing",
+        0.3451700806617737
+      ],
+      [
+        "initial valuation",
+        0.32189619541168213
+      ],
+      [
+        "supply chain exposure",
+        0.3194063901901245
+      ],
+      [
+        "mitigation plan",
+        0.3115193247795105
+      ],
+      [
+        "mitigation plan needed",
+        0.30765458941459656
+      ],
+      [
+        "renewal",
+        0.30737102031707764
+      ],
+      [
+        "valuation",
+        0.29985877871513367
+      ],
+      [
+        "sensor",
+        0.29898062348365784
+      ],
+      [
+        "financial",
+        0.2942378520965576
+      ]
+    ],
+    "6": [
+      [
+        "firmware cloud",
+        0.41537103056907654
+      ],
+      [
+        "firmware",
+        0.39502522349357605
+      ],
+      [
+        "tighter firmware cloud",
+        0.37267112731933594
+      ],
+      [
+        "embedded firmware",
+        0.36829397082328796
+      ],
+      [
+        "deployments",
+        0.3504631519317627
+      ],
+      [
+        "riverbend sensorworks",
+        0.3464522957801819
+      ],
+      [
+        "hardware embedded firmware",
+        0.33794233202934265
+      ],
+      [
+        "sensorworks",
+        0.33096009492874146
+      ],
+      [
+        "nda",
+        0.3258199691772461
+      ],
+      [
+        "maintenance",
+        0.31254276633262634
+      ]
+    ],
+    "7": [
+      [
+        "northstar industrial analytics",
+        0.6075928807258606
+      ],
+      [
+        "industrial analytics",
+        0.5070343613624573
+      ],
+      [
+        "northstar industrial",
+        0.4084353744983673
+      ],
+      [
+        "sensorworks",
+        0.4065898358821869
+      ],
+      [
+        "riverbend sensorworks",
+        0.40384623408317566
+      ],
+      [
+        "analytics",
+        0.3884139955043793
+      ],
+      [
+        "acquisition",
+        0.38559606671333313
+      ],
+      [
+        "agreement draft",
+        0.3769669532775879
+      ],
+      [
+        "ceo riverbend",
+        0.3596876263618469
+      ],
+      [
+        "operations lead",
+        0.33256006240844727
+      ]
+    ],
+    "8": [
+      [
+        "product engineering firmware",
+        0.42316552996635437
+      ],
+      [
+        "engineering firmware",
+        0.41324278712272644
+      ],
+      [
+        "engineering firmware repo",
+        0.4000263512134552
+      ],
+      [
+        "customer outreach underway",
+        0.3922278583049774
+      ],
+      [
+        "telemetry integration",
+        0.3903528153896332
+      ],
+      [
+        "customer communications",
+        0.3744978904724121
+      ],
+      [
+        "customer outreach complete",
+        0.3664732575416565
+      ],
+      [
+        "workstreams product engineering",
+        0.3650486171245575
+      ],
+      [
+        "underway retention offers",
+        0.3622578978538513
+      ],
+      [
+        "approved customer outreach",
+        0.359539270401001
+      ]
+    ],
+    "9": [
+      [
+        "risk customer accounts",
+        0.4759059250354767
+      ],
+      [
+        "risk customer",
+        0.43676599860191345
+      ],
+      [
+        "revenue renewal",
+        0.43533435463905334
+      ],
+      [
+        "key risk customer",
+        0.4302850365638733
+      ],
+      [
+        "22 revenue renewal",
+        0.42173677682876587
+      ],
+      [
+        "customer accounts 22",
+        0.415495902299881
+      ],
+      [
+        "renewal months",
+        0.4122585952281952
+      ],
+      [
+        "customer accounts",
+        0.4071596562862396
+      ],
+      [
+        "revenue renewal months",
+        0.405568391084671
+      ],
+      [
+        "accounts 22 revenue",
+        0.36467209458351135
+      ]
+    ],
+    "10": [
+      [
+        "customer concentration",
+        0.4022971987724304
+      ],
+      [
+        "enterprise",
+        0.3985188603401184
+      ],
+      [
+        "diligence sync tuesdays",
+        0.3966185450553894
+      ],
+      [
+        "purchase agreement",
+        0.35718926787376404
+      ],
+      [
+        "supplier",
+        0.35631802678108215
+      ],
+      [
+        "questions diligence tracker",
+        0.3523207902908325
+      ],
+      [
+        "diligence tracker",
+        0.34579309821128845
+      ],
+      [
+        "renewal",
+        0.3368908166885376
+      ],
+      [
+        "enterprise value",
+        0.3353838324546814
+      ],
+      [
+        "weekly cadence diligence",
+        0.3322356939315796
+      ]
+    ],
+    "11": [
+      [
+        "sensors northstar analytics",
+        0.6303961277008057
+      ],
+      [
+        "northstar analytics",
+        0.5674068927764893
+      ],
+      [
+        "riverbend sensors northstar",
+        0.5577071309089661
+      ],
+      [
+        "northstar analytics suite",
+        0.5524916648864746
+      ],
+      [
+        "sensors northstar",
+        0.5124081969261169
+      ],
+      [
+        "analytics suite",
+        0.4197298586368561
+      ],
+      [
+        "sensor analytics",
+        0.417284220457077
+      ],
+      [
+        "integrated sensor analytics",
+        0.41676297783851624
+      ],
+      [
+        "bundling riverbend sensors",
+        0.40102413296699524
+      ],
+      [
+        "analytics suite single",
+        0.39090701937675476
+      ]
+    ],
+    "12": [
+      [
+        "deployments",
+        0.3697786033153534
+      ],
+      [
+        "renewals",
+        0.3623100519180298
+      ],
+      [
+        "revenue renewal",
+        0.35686320066452026
+      ],
+      [
+        "renewal",
+        0.3563616871833801
+      ],
+      [
+        "contracts",
+        0.355244904756546
+      ],
+      [
+        "maintenance",
+        0.3486519157886505
+      ],
+      [
+        "customers 59 revenue",
+        0.30846601724624634
+      ],
+      [
+        "market",
+        0.30458196997642517
+      ],
+      [
+        "customers",
+        0.3026678264141083
+      ],
+      [
+        "19 stage marketing",
+        0.29816681146621704
+      ]
+    ],
+    "13": [
+      [
+        "company riverbend sensorworks",
+        0.42558252811431885
+      ],
+      [
+        "risks supply chain",
+        0.413685142993927
+      ],
+      [
+        "risks supply",
+        0.404782235622406
+      ],
+      [
+        "company riverbend",
+        0.38728559017181396
+      ],
+      [
+        "risks security note",
+        0.37853795289993286
+      ],
+      [
+        "riverbend sensorworks date",
+        0.3756405711174011
+      ],
+      [
+        "customer",
+        0.36373335123062134
+      ],
+      [
+        "sensorworks date",
+        0.32677823305130005
+      ],
+      [
+        "pipeline",
+        0.3233546316623688
+      ],
+      [
+        "riverbend sensorworks",
+        0.3089398443698883
+      ]
+    ],
+    "14": [
+      [
+        "northstar industrial analytics",
+        0.5475493669509888
+      ],
+      [
+        "consideration enterprise",
+        0.48496922850608826
+      ],
+      [
+        "industrial analytics",
+        0.4552420973777771
+      ],
+      [
+        "northstar analytics",
+        0.4427148997783661
+      ],
+      [
+        "consideration enterprise value",
+        0.43288442492485046
+      ],
+      [
+        "enterprise",
+        0.4298286437988281
+      ],
+      [
+        "sensorworks northstar",
+        0.41945895552635193
+      ],
+      [
+        "riverbend sensorworks northstar",
+        0.4131232798099518
+      ],
+      [
+        "acquire",
+        0.4011263847351074
+      ],
+      [
+        "enterprise value",
+        0.3913117051124573
+      ]
+    ],
+    "15": [
+      [
+        "harborgate bank advisor",
+        0.35635897517204285
+      ],
+      [
+        "bank advisor",
+        0.31273579597473145
+      ],
+      [
+        "sofia quick update",
+        0.3056502342224121
+      ],
+      [
+        "revenue recognition arr",
+        0.3053426146507263
+      ],
+      [
+        "advisor subject purchase",
+        0.30172595381736755
+      ],
+      [
+        "subject purchase agreement",
+        0.30127018690109253
+      ],
+      [
+        "bank advisor subject",
+        0.2918289601802826
+      ],
+      [
+        "confirming",
+        0.2758657932281494
+      ],
+      [
+        "purchase agreement",
+        0.2746073007583618
+      ],
+      [
+        "revenue recognition",
+        0.24075773358345032
+      ]
+    ],
+    "16": [
+      [
+        "customer confidentiality status",
+        0.48897525668144226
+      ],
+      [
+        "customer confidentiality",
+        0.4570769965648651
+      ],
+      [
+        "status update company",
+        0.43288928270339966
+      ],
+      [
+        "update company",
+        0.42385998368263245
+      ],
+      [
+        "plan needed update",
+        0.4127967655658722
+      ],
+      [
+        "update company riverbend",
+        0.41115668416023254
+      ],
+      [
+        "review customer confidentiality",
+        0.4074377417564392
+      ],
+      [
+        "progress applicable subsidiaries",
+        0.3936281204223633
+      ],
+      [
+        "confidentiality status request",
+        0.37159955501556396
+      ],
+      [
+        "confidentiality status",
+        0.37101122736930847
+      ]
+    ],
+    "17": [
+      [
+        "corp dev",
+        0.4827125668525696
+      ],
+      [
+        "vp corp dev",
+        0.4173440635204315
+      ],
+      [
+        "overview diligence workstreams",
+        0.3928218483924866
+      ],
+      [
+        "diligence workstreams status",
+        0.38642847537994385
+      ],
+      [
+        "performance overview diligence",
+        0.3810487985610962
+      ],
+      [
+        "synergies financial",
+        0.38078543543815613
+      ],
+      [
+        "steps owners discussion",
+        0.35981568694114685
+      ],
+      [
+        "performance overview",
+        0.35032156109809875
+      ],
+      [
+        "synergies financial performance",
+        0.3487269878387451
+      ],
+      [
+        "vp corp",
+        0.34012800455093384
+      ]
+    ],
+    "18": [
+      [
+        "quick update diligence",
+        0.3588385283946991
+      ],
+      [
+        "cyber diligence",
+        0.34342440962791443
+      ],
+      [
+        "diligence sync tuesdays",
+        0.34054774045944214
+      ],
+      [
+        "request date 2025",
+        0.3390190601348877
+      ],
+      [
+        "following regulatory certifications",
+        0.33784031867980957
+      ],
+      [
+        "potential issue cybersecurity",
+        0.3243488073348999
+      ],
+      [
+        "weekly cadence diligence",
+        0.32120153307914734
+      ],
+      [
+        "issue cybersecurity",
+        0.31962499022483826
+      ],
+      [
+        "regulatory",
+        0.3136979937553406
+      ],
+      [
+        "issue cybersecurity posture",
+        0.3120197057723999
+      ]
+    ],
+    "19": [
+      [
+        "northstar industrial analytics",
+        0.5424038171768188
+      ],
+      [
+        "agreement draft",
+        0.4423017203807831
+      ],
+      [
+        "definitive agreement",
+        0.4326874017715454
+      ],
+      [
+        "acquisition",
+        0.4267333745956421
+      ],
+      [
+        "northstar industrial",
+        0.41843900084495544
+      ],
+      [
+        "industrial analytics",
+        0.38712289929389954
+      ],
+      [
+        "risks supply",
+        0.36649417877197266
+      ],
+      [
+        "risks supply chain",
+        0.36257150769233704
+      ],
+      [
+        "risks security note",
+        0.3575659394264221
+      ],
+      [
+        "agreement",
+        0.353417307138443
+      ]
+    ],
+    "20": [
+      [
+        "customer concentration date",
+        0.5066759586334229
+      ],
+      [
+        "follow customer concentration",
+        0.37785667181015015
+      ],
+      [
+        "availability",
+        0.3671123683452606
+      ],
+      [
+        "subject follow customer",
+        0.3573184013366699
+      ],
+      [
+        "follow customer",
+        0.3316037654876709
+      ],
+      [
+        "availability impacting",
+        0.32944390177726746
+      ],
+      [
+        "availability impacting shipments",
+        0.3100658059120178
+      ],
+      [
+        "concentration date 2025",
+        0.3023514449596405
+      ],
+      [
+        "supply chain component",
+        0.28166913986206055
+      ],
+      [
+        "impacting shipments",
+        0.27112752199172974
+      ]
+    ],
+    "21": [
+      [
+        "requesting documents",
+        0.4488205313682556
+      ],
+      [
+        "consolidated propose",
+        0.3896459937095642
+      ],
+      [
+        "documents",
+        0.3810904324054718
+      ],
+      [
+        "consolidated propose using",
+        0.37313151359558105
+      ],
+      [
+        "valuation comps seeking",
+        0.36995184421539307
+      ],
+      [
+        "requesting",
+        0.36114346981048584
+      ],
+      [
+        "comps seeking",
+        0.35300707817077637
+      ],
+      [
+        "comps seeking clarification",
+        0.3463829457759857
+      ],
+      [
+        "redlines consolidated propose",
+        0.33061981201171875
+      ],
+      [
+        "consolidated",
+        0.310637891292572
+      ]
+    ],
+    "22": [
+      [
+        "legacy firmware",
+        0.3586396276950836
+      ],
+      [
+        "engineering firmware",
+        0.3547089993953705
+      ],
+      [
+        "retention offers",
+        0.35379406809806824
+      ],
+      [
+        "engineering firmware repo",
+        0.34065163135528564
+      ],
+      [
+        "gap legacy firmware",
+        0.33416759967803955
+      ],
+      [
+        "product engineering firmware",
+        0.3296482563018799
+      ],
+      [
+        "ip gap legacy",
+        0.32462945580482483
+      ],
+      [
+        "legacy firmware modules",
+        0.3171737492084503
+      ],
+      [
+        "definitiveagreement workstreams product",
+        0.313782662153244
+      ],
+      [
+        "firmware modules",
+        0.30547264218330383
+      ]
+    ],
+    "23": [
+      [
+        "supply chain exposure",
+        0.4808424711227417
+      ],
+      [
+        "risks supply chain",
+        0.4112136662006378
+      ],
+      [
+        "offers issued issues",
+        0.40591326355934143
+      ],
+      [
+        "pricing drafted customer",
+        0.40354248881340027
+      ],
+      [
+        "issued issues risks",
+        0.40000563859939575
+      ],
+      [
+        "issued issues",
+        0.39133697748184204
+      ],
+      [
+        "risks supply",
+        0.390774667263031
+      ],
+      [
+        "drafted customer outreach",
+        0.382114440202713
+      ],
+      [
+        "mitigation plan needed",
+        0.37862473726272583
+      ],
+      [
+        "drafted customer",
+        0.36855781078338623
+      ]
+    ],
+    "24": [
+      [
+        "pipeline channel partners",
+        0.3850666284561157
+      ],
+      [
+        "firmware cloud integration",
+        0.35416391491889954
+      ],
+      [
+        "bank agenda deal",
+        0.35399535298347473
+      ],
+      [
+        "sales pipeline",
+        0.3539029359817505
+      ],
+      [
+        "proceed expanded customer",
+        0.3525978624820709
+      ],
+      [
+        "deployment time customers",
+        0.34828370809555054
+      ],
+      [
+        "cloud integration",
+        0.33216553926467896
+      ],
+      [
+        "expanded customer",
+        0.3303587734699249
+      ],
+      [
+        "sales pipeline channel",
+        0.32997432351112366
+      ],
+      [
+        "bank agenda",
+        0.3276668190956116
+      ]
+    ],
+    "25": [
+      [
+        "firmware riverbend",
+        0.47406476736068726
+      ],
+      [
+        "head firmware riverbend",
+        0.42493298649787903
+      ],
+      [
+        "product roadmap requesting",
+        0.4032788574695587
+      ],
+      [
+        "roadmap requesting",
+        0.3667871057987213
+      ],
+      [
+        "roadmap seeking clarification",
+        0.3590695559978485
+      ],
+      [
+        "product roadmap",
+        0.353307843208313
+      ],
+      [
+        "integration architecture product",
+        0.34692832827568054
+      ],
+      [
+        "cedarstone advisory advisor",
+        0.34368911385536194
+      ],
+      [
+        "product roadmap seeking",
+        0.33448100090026855
+      ],
+      [
+        "architecture product roadmap",
+        0.3190988302230835
+      ]
+    ],
+    "26": [
+      [
+        "firmware cloud integration",
+        0.39967623353004456
+      ],
+      [
+        "reporting cadence",
+        0.37656664848327637
+      ],
+      [
+        "earn definitions reporting",
+        0.36502763628959656
+      ],
+      [
+        "definitions reporting cadence",
+        0.36017850041389465
+      ],
+      [
+        "deployment time customers",
+        0.351833701133728
+      ],
+      [
+        "cloud integration",
+        0.34785279631614685
+      ],
+      [
+        "unit shipments defined",
+        0.3364826440811157
+      ],
+      [
+        "synergy model 2025",
+        0.33161598443984985
+      ],
+      [
+        "request updated firmware",
+        0.3267720341682434
+      ],
+      [
+        "updated firmware",
+        0.3229959011077881
+      ]
+    ],
+    "27": [
+      [
+        "customer concentration date",
+        0.4606775641441345
+      ],
+      [
+        "customer concentration",
+        0.3896026611328125
+      ],
+      [
+        "follow customer concentration",
+        0.38835346698760986
+      ],
+      [
+        "operational items",
+        0.3702661693096161
+      ],
+      [
+        "make sure operational",
+        0.36240631341934204
+      ],
+      [
+        "sure operational items",
+        0.346709668636322
+      ],
+      [
+        "subject follow customer",
+        0.34654393792152405
+      ],
+      [
+        "potential issue employee",
+        0.3194137513637543
+      ],
+      [
+        "confirm following synergy",
+        0.317767858505249
+      ],
+      [
+        "option pool seeking",
+        0.3056781589984894
+      ]
+    ],
+    "28": [
+      [
+        "sales",
+        0.41381484270095825
+      ],
+      [
+        "customer",
+        0.35498717427253723
+      ],
+      [
+        "28 stage diligence",
+        0.3418140411376953
+      ],
+      [
+        "internal date 2025",
+        0.3163084387779236
+      ],
+      [
+        "reporting",
+        0.31306809186935425
+      ],
+      [
+        "stage diligence",
+        0.31092602014541626
+      ],
+      [
+        "diligence",
+        0.2998667061328888
+      ],
+      [
+        "retention",
+        0.27946045994758606
+      ],
+      [
+        "2025 05",
+        0.2759437561035156
+      ],
+      [
+        "technical",
+        0.26874563097953796
+      ]
+    ]
+  },
+  "topics": [
+    1,
+    25,
+    6,
+    12,
+    3,
+    13,
+    11,
+    26,
+    27,
+    22,
+    8,
+    17,
+    3,
+    0,
+    27,
+    5,
+    3,
+    14,
+    5,
+    9,
+    12,
+    9,
+    6,
+    0,
+    1,
+    13,
+    24,
+    3,
+    14,
+    0,
+    1,
+    1,
+    16,
+    23,
+    7,
+    22,
+    14,
+    1,
+    4,
+    3,
+    2,
+    6,
+    25,
+    22,
+    17,
+    20,
+    6,
+    19,
+    12,
+    10,
+    7,
+    3,
+    15,
+    18,
+    16,
+    2,
+    5,
+    23,
+    1,
+    3,
+    17,
+    7,
+    11,
+    6,
+    7,
+    5,
+    8,
+    2,
+    14,
+    1,
+    12,
+    20,
+    15,
+    4,
+    18,
+    4,
+    4,
+    17,
+    23,
+    13,
+    21,
+    0,
+    11,
+    16,
+    13,
+    12,
+    10,
+    13,
+    23,
+    17,
+    0,
+    2,
+    0,
+    0,
+    11,
+    8,
+    18,
+    6,
+    4,
+    10,
+    7,
+    3,
+    5,
+    8,
+    8,
+    27,
+    2,
+    16,
+    1,
+    2,
+    15,
+    5,
+    1,
+    27,
+    9,
+    7,
+    20,
+    15,
+    6,
+    21,
+    14,
+    11,
+    4,
+    -1,
+    22,
+    3,
+    24,
+    3,
+    7,
+    8,
+    0,
+    0,
+    0,
+    9,
+    20,
+    18,
+    15,
+    18,
+    5,
+    17,
+    7,
+    9,
+    5,
+    0,
+    4,
+    5,
+    19,
+    24,
+    11,
+    8,
+    16,
+    0,
+    12,
+    19,
+    11,
+    -1,
+    12,
+    9,
+    2,
+    14,
+    1,
+    25,
+    2,
+    2,
+    8,
+    28,
+    19,
+    0,
+    16,
+    6,
+    26,
+    21,
+    26,
+    5,
+    24,
+    6,
+    21,
+    -1,
+    15,
+    2,
+    25,
+    1,
+    28,
+    7,
+    2,
+    26,
+    4,
+    10,
+    4,
+    19,
+    3,
+    9,
+    10,
+    10,
+    9,
+    10,
+    28,
+    13,
+    4,
+    28
+  ],
+  "topic_sizes": {
+    "1": 11,
+    "25": 4,
+    "6": 9,
+    "12": 7,
+    "3": 11,
+    "13": 6,
+    "11": 7,
+    "26": 4,
+    "27": 4,
+    "22": 4,
+    "8": 8,
+    "17": 6,
+    "0": 13,
+    "5": 10,
+    "14": 6,
+    "9": 8,
+    "24": 4,
+    "16": 6,
+    "23": 4,
+    "7": 9,
+    "4": 10,
+    "2": 11,
+    "20": 4,
+    "19": 5,
+    "10": 7,
+    "15": 6,
+    "18": 5,
+    "21": 4,
+    "-1": 3,
+    "28": 4
+  },
+  "topic_mapper": [
+    [
+      -1,
+      -1,
+      -1
+    ],
+    [
+      0,
+      0,
+      12
+    ],
+    [
+      1,
+      1,
+      13
+    ],
+    [
+      2,
+      2,
+      28
+    ],
+    [
+      3,
+      3,
+      9
+    ],
+    [
+      4,
+      4,
+      7
+    ],
+    [
+      5,
+      5,
+      4
+    ],
+    [
+      6,
+      6,
+      14
+    ],
+    [
+      7,
+      7,
+      19
+    ],
+    [
+      8,
+      8,
+      5
+    ],
+    [
+      9,
+      9,
+      2
+    ],
+    [
+      10,
+      10,
+      6
+    ],
+    [
+      11,
+      11,
+      11
+    ],
+    [
+      12,
+      12,
+      1
+    ],
+    [
+      13,
+      13,
+      16
+    ],
+    [
+      14,
+      14,
+      18
+    ],
+    [
+      15,
+      15,
+      17
+    ],
+    [
+      16,
+      16,
+      23
+    ],
+    [
+      17,
+      17,
+      10
+    ],
+    [
+      18,
+      18,
+      22
+    ],
+    [
+      19,
+      19,
+      8
+    ],
+    [
+      20,
+      20,
+      3
+    ],
+    [
+      21,
+      21,
+      21
+    ],
+    [
+      22,
+      22,
+      27
+    ],
+    [
+      23,
+      23,
+      15
+    ],
+    [
+      24,
+      24,
+      26
+    ],
+    [
+      25,
+      25,
+      24
+    ],
+    [
+      26,
+      26,
+      0
+    ],
+    [
+      27,
+      27,
+      25
+    ],
+    [
+      28,
+      28,
+      20
+    ]
+  ],
+  "topic_labels": {
+    "-1": "-1_potential issue manufacturing_issue manufacturing_uploaded applicable subsidiaries_manufacturing yields qa",
+    "0": "0_sensor unit shipments_pipeline channel partners_sales pipeline channel_sensor unit",
+    "1": "1_status update company_update company_update 2025_update company riverbend",
+    "2": "2_northstar industrial analytics_company riverbend sensorworks_company riverbend_industrial analytics",
+    "3": "3_customer concentration 2025_assumptions backup suppliers_risks mitigations steps_confirm manufacturing capacity",
+    "4": "4_northstar industrial analytics_consideration enterprise_sensor unit shipments_enterprise",
+    "5": "5_acquisition_pricing_initial valuation_supply chain exposure",
+    "6": "6_firmware cloud_firmware_tighter firmware cloud_embedded firmware",
+    "7": "7_northstar industrial analytics_industrial analytics_northstar industrial_sensorworks",
+    "8": "8_product engineering firmware_engineering firmware_engineering firmware repo_customer outreach underway",
+    "9": "9_risk customer accounts_risk customer_revenue renewal_key risk customer",
+    "10": "10_customer concentration_enterprise_diligence sync tuesdays_purchase agreement",
+    "11": "11_sensors northstar analytics_northstar analytics_riverbend sensors northstar_northstar analytics suite",
+    "12": "12_deployments_renewals_revenue renewal_renewal",
+    "13": "13_company riverbend sensorworks_risks supply chain_risks supply_company riverbend",
+    "14": "14_northstar industrial analytics_consideration enterprise_industrial analytics_northstar analytics",
+    "15": "15_harborgate bank advisor_bank advisor_sofia quick update_revenue recognition arr",
+    "16": "16_customer confidentiality status_customer confidentiality_status update company_update company",
+    "17": "17_corp dev_vp corp dev_overview diligence workstreams_diligence workstreams status",
+    "18": "18_quick update diligence_cyber diligence_diligence sync tuesdays_request date 2025",
+    "19": "19_northstar industrial analytics_agreement draft_definitive agreement_acquisition",
+    "20": "20_customer concentration date_follow customer concentration_availability_subject follow customer",
+    "21": "21_requesting documents_consolidated propose_documents_consolidated propose using",
+    "22": "22_legacy firmware_engineering firmware_retention offers_engineering firmware repo",
+    "23": "23_supply chain exposure_risks supply chain_offers issued issues_pricing drafted customer",
+    "24": "24_pipeline channel partners_firmware cloud integration_bank agenda deal_sales pipeline",
+    "25": "25_firmware riverbend_head firmware riverbend_product roadmap requesting_roadmap requesting",
+    "26": "26_firmware cloud integration_reporting cadence_earn definitions reporting_definitions reporting cadence",
+    "27": "27_customer concentration date_customer concentration_follow customer concentration_operational items",
+    "28": "28_sales_customer_28 stage diligence_internal date 2025"
+  },
+  "custom_labels": [
+    "Outlier Topic",
+    "NDA Confirmation Diligence Tracker Earn-out Triggers Valuation Clarification Regulatory Certifications",
+    "Riverbend Sensorworks Status Update Northstar Diligence Team Update Diligence Response",
+    "Corporate Governance Due Diligence Requests Financial Statements IP Assignments Security",
+    "Northstar x Riverbend Deal Deal Rationale and Synergies Supply Chain",
+    "Northstar Industrial Analytics Acquisition Riverbend Sensorworks Acquisition M&A Negotiations Acquisition",
+    "Acquisition Modeling Supply Chain Exposure Financial Valuation Pricing Assumptions Renewal",
+    "Riverbend Sensorworks Sensor Platform Wireless Sensors Embedded Firmware Industrial Sensors",
+    "Non-Disclosure Agreement Confidentiality Agreement Business Transaction Agreement Acquisition Agreement Draft",
+    "Integration Status Update Product Engineering Progress Customer Outreach Complete Retention",
+    "Financials Supply Chain Market Operations Customers Product Risk Security",
+    "Purchase Agreement Redline Summary Diligence Tracker Questions Customer Concentration Renewal",
+    "Sensor-to-Analytics Offering Northstar Analytics Suite Riverbend Sensor Integration Fleet Health",
+    "Customer Concentration Customer Concentration Customer Concentration",
+    "Cybersecurity Assessment Supply Chain Exposure Identity Access Management Data Handling",
+    "Northstar Acquisition Riverbend Acquisition Acquisition Proposal M&A Offer IOI Submission",
+    "Purchase Agreement Supply Chain Exposure Synergy Model Revenue Recognition Cybersecurity",
+    "Riverbend Sensorworks Status Update Customer Confidentiality Review Supply Chain Exposure",
+    "Outreach Diligence Definitive Agreement",
+    "Cyber Due Diligence Diligence Sync Tuesdays Regulatory Certifications Potential Cybersecurity",
+    "Acquisition Planning Supply Chain Risks Security Concerns Deal Thesis",
+    "Customer Concentration Supply Chain Issues Cybersecurity Posture Export Controls Synergy",
+    "Integration Planning Day-1 Priorities Valuation Range Employee Retention Cybersecurity Posture",
+    "Integration Status Update Definitive Agreement Progress Workstream Updates IP Gap",
+    "Integration Status Update Supply Chain Exposure Risks Pricing Drafted Customer",
+    "Northstar x Riverbend Deal Deal Rationale and Synergies Firmware Cloud",
+    "Cyber Due Diligence Integration Planning Product Roadmap Regulatory Certifications Employee",
+    "Mergers and Acquisitions Firmware Integration Earn-out Definitions Supply Chain Risks",
+    "Customer Concentration Potential Issue Operational Items Synergy Model Employee Retention",
+    "HR Integration Plan Diligence Retention Strategy Integration Planning Employee Retention"
+  ],
+  "_outliers": 1,
+  "topic_aspects": {}
+}

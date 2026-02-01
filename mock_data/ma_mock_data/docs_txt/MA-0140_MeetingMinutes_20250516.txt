@@ -1,0 +1,34 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: LOI
+Date: 2025-05-16 11:45
+Location: Video call
+
+Attendees:
+- Maya Chen (CEO), Sofia Rios (VP Corp Dev), Priya Nandakumar (Head of Product), Omar Hassan
+(Head of Sales), Elena Novak (CFO), Talia Reyes (Head of Firmware)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- We see immediate pull-through by bundling Riverbend’s sensors with Northstar’s analytics
+suite into a single subscription.
+- We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.
+- Security note: one phishing incident last year; remediation appears adequate but evidence
+is partial.
+
+Decisions:
+- Request updated firmware IP assignment documentation.
+- Request updated firmware IP assignment documentation.
+
+Action items:
+- Maya Chen: Provide cybersecurity posture and incident history by 2025-05-22.
+- Maya Chen: Review privacy and data processing by 2025-05-24.
+- Priya Nandakumar: Share supply chain and component lead times by 2025-05-26.
+- Talia Reyes: Provide IP assignment and open-source licenses by 2025-05-20.
+- Priya Nandakumar: Share cybersecurity posture and incident history by 2025-05-26.

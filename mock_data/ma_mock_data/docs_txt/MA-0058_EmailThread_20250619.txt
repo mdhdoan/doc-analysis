@@ -1,0 +1,21 @@
+Subject: Integration planning: Day-1 priorities
+Date: 2025-06-19 09:30
+From: Samira Ali <samira@riverbend.example>
+To: Priya Nandakumar, Ethan Park
+
+Hi Priya,
+
+As we approach closing / Day-1, we want to make sure no operational items fall through the
+cracks.
+- Customer concentration: seeking clarification.
+- Manufacturing yields and qa: flagging a potential issue.
+- Regulatory certifications: seeking clarification.
+- Integration architecture and product roadmap: confirming assumptions.
+We’ll maintain a weekly cadence: diligence sync on Tuesdays, steering committee on Fridays.
+Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation
+plan needed.
+
+Best,
+Samira Ali
+HR Manager
+Riverbend

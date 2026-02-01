@@ -1,0 +1,24 @@
+Subject: Integration planning: Day-1 priorities
+Date: 2025-08-08 11:00
+From: Kara Whitman <kara@advisor.example>
+To: Sofia Rios, Devon Price
+Cc: Kara Whitman
+
+Hi Sofia,
+
+Thanks for the call earlier. Below are a few items to keep momentum.
+- Integration architecture and product roadmap: flagging a potential issue.
+- Cybersecurity posture and incident history: proposing a working session.
+- Export controls and cross-border shipments: seeking clarification.
+- Employee retention and option pool: seeking clarification.
+Redlines should be consolidated; propose using clause-by-clause comments rather than inline
+email edits.
+Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin
+volatility.
+Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation
+plan needed.
+
+Best,
+Kara Whitman
+Partner, Pine & Alder Legal
+Advisor

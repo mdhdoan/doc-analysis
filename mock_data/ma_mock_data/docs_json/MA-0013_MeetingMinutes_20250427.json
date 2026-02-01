@@ -1,0 +1,19 @@
+{
+  "doc_id": "MA-0013",
+  "title": "MeetingMinutes — Northstar / Riverbend — Closing — 2025-04-27",
+  "doc_type": "MeetingMinutes",
+  "stage": "Closing",
+  "date": "2025-04-27 09:45",
+  "from_entity": "Advisor",
+  "to_entity": "Riverbend",
+  "confidentiality": "Confidential",
+  "tags": [
+    "closing",
+    "finance",
+    "open-source-license"
+  ],
+  "ground_truth_risks": [
+    "open_source_license"
+  ],
+  "all_text": "MEETING MINUTES — Northstar x Riverbend\nStage: Closing\nDate: 2025-04-27 09:45\nLocation: Video call\n\nAttendees:\n- Priya Nandakumar (Head of Product), Jordan Lee (Director, IT Security), Liam O'Neill\n(General Counsel), Talia Reyes (Head of Firmware), Noah Bennett (CEO), Devon Price\n(Operations Lead), Miles Grant (Director, Cedarstone Advisory)\n\nAgenda:\n- Deal rationale and synergies\n- Financial performance overview\n- Diligence workstreams status\n- Key risks / mitigations\n- Next steps and owners\n\nDiscussion highlights:\n- We see immediate pull-through by bundling Riverbend’s sensors with Northstar’s analytics\nsuite into a single subscription.\n- Initial valuation range assumes 6.0–7.5x forward ARR, adjusted for hardware gross margin\nvolatility.\n- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation\nplan needed.\n\nDecisions:\n- Proceed with expanded customer calls (top 10 accounts).\n- Align on earn-out definitions and reporting cadence.\n- Confirm manufacturing capacity assumptions and backup suppliers.\n- Confirm manufacturing capacity assumptions and backup suppliers.\n\nAction items:\n- Talia Reyes: Provide privacy and data processing by 2025-05-02.\n- Liam O'Neill: Draft IP assignment and open-source licenses by 2025-04-30.\n- Devon Price: Provide export controls and cross-border shipments by 2025-05-03.\n- Miles Grant: Validate earn-out metrics and governance by 2025-05-08.\n- Devon Price: Review manufacturing yields and QA by 2025-05-02.\n"
+}

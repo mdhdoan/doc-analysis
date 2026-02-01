@@ -1,0 +1,17 @@
+Subject: LOI terms: earn-out + exclusivity
+Date: 2025-10-31 12:15
+From: Devon Price <devon@riverbend.example>
+To: Jordan Lee, Avery Patel
+
+Hi Jordan,
+
+Thanks for the call earlier. Below are a few items to keep momentum.
+- Integration architecture and product roadmap: proposing a working session.
+- Customer concentration: seeking clarification.
+- Integration architecture and product roadmap: flagging a potential issue.
+- Cybersecurity posture and incident history: seeking clarification.
+
+Best,
+Devon Price
+Operations Lead
+Riverbend

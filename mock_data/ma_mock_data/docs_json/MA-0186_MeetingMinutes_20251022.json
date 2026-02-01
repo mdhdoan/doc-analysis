@@ -1,0 +1,17 @@
+{
+  "doc_id": "MA-0186",
+  "title": "MeetingMinutes — Northstar / Riverbend — Indication — 2025-10-22",
+  "doc_type": "MeetingMinutes",
+  "stage": "Indication",
+  "date": "2025-10-22 18:30",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "escrow",
+    "hr",
+    "indication"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "MEETING MINUTES — Northstar x Riverbend\nStage: Indication\nDate: 2025-10-22 18:30\nLocation: Video call\n\nAttendees:\n- Ethan Park (CFO), Jordan Lee (Director, IT Security), Avery Patel (HR Director), Omar\nHassan (Head of Sales), Devon Price (Operations Lead), Elena Novak (CFO), Miles Grant\n(Director, Cedarstone Advisory)\n\nAgenda:\n- Deal rationale and synergies\n- Financial performance overview\n- Diligence workstreams status\n- Key risks / mitigations\n- Next steps and owners\n\nDiscussion highlights:\n- The combined roadmap could reduce deployment time for customers by ~30–40% through tighter\nfirmware-to-cloud integration.\n- Earn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to\navoid disputes.\n- Security note: one phishing incident last year; remediation appears adequate but evidence\nis partial.\n\nDecisions:\n- Request updated firmware IP assignment documentation.\n- Request updated firmware IP assignment documentation.\n- Request updated firmware IP assignment documentation.\n\nAction items:\n- Miles Grant: Draft customer concentration by 2025-11-03.\n- Miles Grant: Provide sales pipeline and channel partners by 2025-10-26.\n- Ethan Park: Validate earn-out metrics and governance by 2025-11-04.\n- Ethan Park: Provide manufacturing yields and QA by 2025-11-02.\n- Omar Hassan: Share export controls and cross-border shipments by 2025-10-30.\n"
+}

@@ -1,0 +1,17 @@
+{
+  "doc_id": "MA-0138",
+  "title": "EmailThread — Northstar / Riverbend — Diligence — 2025-11-01",
+  "doc_type": "EmailThread",
+  "stage": "Diligence",
+  "date": "2025-11-01 09:45",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Internal",
+  "tags": [
+    "diligence",
+    "legal",
+    "quality-yield"
+  ],
+  "ground_truth_risks": [],
+  "all_text": "Subject: Cyber due diligence: evidence request\nDate: 2025-11-01 09:45\nFrom: Avery Patel <avery@northstar.example>\nTo: Grace Kim, Talia Reyes\n\nHi Grace,\n\nQuick update on diligence. We’re closing gaps in the tracker and would like to confirm the\nfollowing.\n- Privacy and data processing: confirming assumptions.\n- Employee retention and option pool: confirming assumptions.\n- Earn-out metrics and governance: flagging a potential issue.\n- Cybersecurity posture and incident history: requesting documents.\n- Customer concentration: proposing a working session.\n- Supply chain and component lead times: seeking clarification.\nRedlines should be consolidated; propose using clause-by-clause comments rather than inline\nemail edits.\nSecurity note: one phishing incident last year; remediation appears adequate but evidence is\npartial.\n\nBest,\nAvery Patel\nHR Director\nNorthstar\n"
+}

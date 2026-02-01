@@ -1,0 +1,34 @@
+MEETING MINUTES — Northstar x Riverbend
+Stage: Integration
+Date: 2025-10-09 15:45
+Location: Video call
+
+Attendees:
+- Maya Chen (CEO), Jordan Lee (Director, IT Security), Avery Patel (HR Director), Elena
+Novak (CFO), Noah Bennett (CEO), Devon Price (Operations Lead)
+
+Agenda:
+- Deal rationale and synergies
+- Financial performance overview
+- Diligence workstreams status
+- Key risks / mitigations
+- Next steps and owners
+
+Discussion highlights:
+- Cost synergies are primarily in duplicated back-office functions; revenue synergies depend
+on channel expansion into utilities and mining.
+- Earn-out triggers tied to ARR and sensor-unit shipments should be defined unambiguously to
+avoid disputes.
+- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.
+
+Decisions:
+- Confirm manufacturing capacity assumptions and backup suppliers.
+- Request updated firmware IP assignment documentation.
+
+Action items:
+- Devon Price: Review revenue recognition and ARR definitions by 2025-10-19.
+- Jordan Lee: Share earn-out metrics and governance by 2025-10-23.
+- Elena Novak: Validate regulatory certifications by 2025-10-15.
+- Elena Novak: Provide synergy model by 2025-10-15.
+- Devon Price: Draft supply chain and component lead times by 2025-10-18.
+- Elena Novak: Provide employee retention and option pool by 2025-10-19.

@@ -1,0 +1,19 @@
+{
+  "doc_id": "MA-0189",
+  "title": "LOI — Northstar / Riverbend — Marketing — 2025-10-08",
+  "doc_type": "LOI",
+  "stage": "Marketing",
+  "date": "2025-10-08 13:45",
+  "from_entity": "Northstar",
+  "to_entity": "Riverbend",
+  "confidentiality": "Highly Confidential",
+  "tags": [
+    "cyber",
+    "marketing",
+    "open-source-license"
+  ],
+  "ground_truth_risks": [
+    "open_source_license"
+  ],
+  "all_text": "LETTER OF INTENT (DRAFT, NON-BINDING EXCEPT AS NOTED)\nDate: October 08, 2025\nParties: Northstar Industrial Analytics Inc. (“Buyer”) and Riverbend Sensorworks Ltd.\n(“Company”)\n\n1. Transaction. Buyer proposes to acquire 100% of the Company’s equity.\n2. Consideration. Enterprise Value: $112M, subject to net working capital and debt-like\nadjustments.\n3. Earn-out. Up to $17M based on (a) ARR growth and (b) sensor-unit shipments over 12 months\npost-close.\n4. Exclusivity. Company agrees to an exclusivity period of 60 days (binding).\n5. Diligence. Company to provide access to data room, management interviews, and customer\nreferences.\n6. Confidentiality. Existing NDA remains in effect (binding).\n7. Expenses. Each party bears its own costs; advisors are responsible for their own fees\nunless otherwise agreed.\n\nOpen points:\n- Definitions of ARR and shipments (timing, returns, cancellations).\n- Treatment of existing customer prepayments and deferred revenue.\n- Escrow / indemnity cap and basket.\n\nWe modeled a base case with 18% ARR CAGR and a downside case with delayed component\navailability impacting shipments.\n"
+}

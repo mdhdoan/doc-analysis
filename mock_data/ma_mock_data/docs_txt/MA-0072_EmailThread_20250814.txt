@@ -1,0 +1,22 @@
+Subject: Follow-up on customer concentration
+Date: 2025-08-14 18:15
+From: Avery Patel <avery@northstar.example>
+To: Samira Ali, Devon Price
+
+Hi Samira,
+
+As we approach closing / Day-1, we want to make sure no operational items fall through the
+cracks.
+- Synergy model: requesting documents.
+- Customer concentration: confirming assumptions.
+- Supply chain and component lead times: confirming assumptions.
+- Cybersecurity posture and incident history: seeking clarification.
+- Export controls and cross-border shipments: flagging a potential issue.
+- Customer concentration: proposing a working session.
+We modeled a base case with 18% ARR CAGR and a downside case with delayed component
+availability impacting shipments.
+
+Best,
+Avery Patel
+HR Director
+Northstar

@@ -1,0 +1,27 @@
+INTEGRATION STATUS UPDATE — WEEK 7 (INTERNAL)
+Date: 2025-08-26
+Stage: Integration
+
+Workstreams:
+1) Product & Engineering
+- Firmware repo migration: complete
+- Telemetry integration: complete
+
+2) IT / Security
+- SSO rollout: planned
+- Log centralization: in progress
+
+3) Commercial
+- Bundle pricing: drafted
+- Top-customer outreach: underway
+
+4) People
+- Role mapping: underway
+- Retention offers: accepted
+
+Issues / risks:
+- Supply chain exposure: single-source radio chipset with 24–30 week lead times; mitigation
+plan needed.
+
+Next week focus:
+- Complete security hardening items

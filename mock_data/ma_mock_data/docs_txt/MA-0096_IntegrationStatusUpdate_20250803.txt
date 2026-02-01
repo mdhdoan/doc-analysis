@@ -1,0 +1,26 @@
+INTEGRATION STATUS UPDATE — WEEK 1 (INTERNAL)
+Date: 2025-08-03
+Stage: LOI
+
+Workstreams:
+1) Product & Engineering
+- Firmware repo migration: in progress
+- Telemetry integration: complete
+
+2) IT / Security
+- SSO rollout: pilot
+- Log centralization: in progress
+
+3) Commercial
+- Bundle pricing: approved
+- Top-customer outreach: underway
+
+4) People
+- Role mapping: underway
+- Retention offers: pending
+
+Issues / risks:
+- Key risk: top customer accounts for ~22% of revenue; renewal is up in 8 months.
+
+Next week focus:
+- Finalize Day-30 roadmap
